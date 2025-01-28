@@ -12,10 +12,10 @@ def main():
     DEBUG = False
     st.set_page_config(layout="wide")
     app_config_path = r"C:\Users\dade\Desktop\GraphRagAPI\config\app_config.json"
-    app_config = Utilities.load_json(app_config_path)
-    aoai_config = Utilities.load_json(app_config["aoai_config_path"])
-    graphrag_config = Utilities.load_json(app_config["graphrag_config_path"])
-    document_intelligence_config = Utilities.load_json(app_config["document_intelligence_config_path"])
+    app_config = Utilities.read_json_data(app_config_path)
+    aoai_config = Utilities.read_json_data(app_config["aoai_config_path"])
+    graphrag_config = Utilities.read_json_data(app_config["graphrag_config_path"])
+    document_intelligence_config = Utilities.read_json_data(app_config["document_intelligence_config_path"])
     endpoint = aoai_config["endpoint"]
     openai_key = aoai_config["key"]
     openai_api_version = aoai_config["api_version"]
@@ -32,7 +32,7 @@ def main():
     document_intelligence_key = document_intelligence_config["key"]
     document_intelligence_endpoint = document_intelligence_config["endpoint"]
     init_clients(openai_api_version,endpoint,openai_key, document_intelligence_endpoint,document_intelligence_key)
-    RAGQuery_object = init_RAG_query()
+    RAGQuery_object = init_RAG_query(graphrag_config)
     if not use_RAG:
         with st.sidebar:
             st.write("GraphRAG is not being used.")
