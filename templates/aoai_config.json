@@ -1,0 +1,7 @@
+{
+    "endpoint" : "<AOAI endpoint",
+    "key" : "<AOAI key>",
+    "api_version" : "<AOAI api version>",
+    "model" : "<deployment name",
+    "model_family" : "<model family>"
+}

@@ -1,0 +1,7 @@
+.venv
+localdata
+raginputdata
+jsondata
+__pycache__
+config/*
+data

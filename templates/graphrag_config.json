@@ -1,0 +1,6 @@
+{
+    "endpoint":"<graphrag endpoint>",
+    "key":"<graphrag key>",
+    "storage_name":"<graphrag storage name>",
+    "index_name":"<graphrag index name>"   
+}
