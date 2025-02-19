@@ -58,13 +58,13 @@ def format_output(input_directory,output_directory):
                 f.write(output_content)
 def main():
     prepare_data = False
-    upload_data = True
-    app_config_path = r"C:\Users\dade\Desktop\GraphRagAPI\config\app_config.json"
+    upload_data = False
+    app_config_path = r"C:\Users\dade\Desktop\GraphRagAPI\config\app_config_labcorp.json"
     app_config = Utilities.read_json_data(app_config_path)
     graphrag_config = Utilities.read_json_data(app_config["graphrag_config_path"])
     document_intelligence_config = Utilities.read_json_data(app_config["document_intelligence_config_path"])
     raw_input_directory = app_config["raw_input_directory"]
-    rag_output_directory = app_config["rag_output_directory"]
+    rag_input_directory = app_config["rag_input_directory"]
     json_output_directory = app_config["json_output_directory"]
     document_intelligence_key = document_intelligence_config["key"]
     document_intelligence_endpoint = document_intelligence_config["endpoint"]
@@ -73,7 +73,7 @@ def main():
     )
     if prepare_data:
         parse_pdfs(raw_input_directory,json_output_directory,document_intelligence_client)
-        format_output(json_output_directory,rag_output_directory)
+        format_output(json_output_directory,rag_input_directory)
     else:
         graphrag_endpoint = graphrag_config["endpoint"]
         graphrag_key = graphrag_config["key"]
@@ -82,7 +82,7 @@ def main():
         graphrag_handler = RAGHandler(graphrag_key,graphrag_endpoint,graphrag_storage_name,graphrag_index_name)
         if upload_data:
             print("Uploading files")
-            upload_response = graphrag_handler.upload_files(rag_output_directory)
+            upload_response = graphrag_handler.upload_files(rag_input_directory)
             print(upload_response)
             print("Building index")
             build_response = graphrag_handler.build_index()

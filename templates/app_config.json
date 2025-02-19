@@ -1,6 +1,6 @@
 {
     "raw_input_directory" : "<path to raw input directory>",
-    "rag_output_directory" : "<path to rag output directory>",
+    "rag_input_directory" : "<path to rag input directory>",
     "json_output_directory" : "<path to json output directory>",
     "document_intelligence_config_path" : "<path to document intelligence config file>",
     "graphrag_config_path" : "<path to graphrag config file>",
