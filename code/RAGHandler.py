@@ -38,7 +38,18 @@ class RAGHandler:
             print(response.reason)
             print(response.content)
             return response
-        
+    @staticmethod
+    def extract_source_information(context_information):
+        source_map = {}
+        sources = ""
+        index = 1
+        for source in context_information["reports"]:
+            if not source["id"] in source_map:
+                source_map[source["id"]] = source["title"]
+                sources = sources +str(index)+") "+source["title"] + "\n\t"
+                index += 1
+        return sources
+
     def upload_batch(self,files: list, overwrite: bool, max_retries: int, url: str) -> requests.Response:
         for i in range(0,max_retries):
             response = requests.post(
@@ -66,13 +77,16 @@ class RAGHandler:
         filepaths = list(Path(file_directory).iterdir())
         for file in tqdm(filepaths):
             # validate that file is a file, has acceptable file type, has a .txt extension, and has utf-8 encoding
-            if (
-                not file.is_file()
-                or file.suffix != ".txt"
-                or magic.from_file(str(file), mime=True) not in accepted_file_types
-            ):
+            try:
+                if (
+                    not file.is_file()
+                    or file.suffix != ".txt"
+                ):
+                    print(f"Skipping invalid file: {file}")
+                    continue
+            except Exception as e:
                 print(f"Skipping invalid file: {file}")
-                continue
+                print(e)
             # open and decode file as utf-8, ignore bad characters
             batch_files.append(
                 ("files", open(file=file, mode="r", encoding="utf-8", errors="ignore"))
@@ -88,7 +102,11 @@ class RAGHandler:
         if len(batch_files) > 0:
             response = self.upload_batch(batch_files, overwrite, max_retries, url)
         return response
-    
+    def delete_index(self,container_name: str) -> requests.Response:
+        """Delete an azure storage container that holds a search index."""
+        url = self.endpoint + f"/index/{container_name}"
+        return requests.delete(url, headers=self.headers)
+
     def check_index_status(self,index_name: str) -> requests.Response:
         url = self.endpoint + f"/index/status/{index_name}"
         return requests.get(url, headers=self.headers)

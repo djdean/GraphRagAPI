@@ -5,3 +5,4 @@ jsondata
 __pycache__
 config/*
 data
+test*

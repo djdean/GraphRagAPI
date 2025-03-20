@@ -7,20 +7,27 @@ import json
 from RAGHandler import RAGHandler
 def main():
     DEBUG = True
+    STATIC_DEPLOY = False
     st.set_page_config(layout="wide")
-    aoai_config = {
-        "endpoint" : "<AOAI_endpoint>",
-        "key" : "<AOAI_key>",
-        "api_version" : "2024-07-01-preview",
-        "model" : "<AOAI_deployment_name",
-        "model_family" : "<AOAI_model_family>"
-    }
-    graphrag_config = {
-        "endpoint":"<APIM_endpoint>",
-        "key":"<APIM_Subscription_key>",
-        "storage_name":"raginputdata",
-        "index_name":"graphrRAGindex"
-    }
+    if STATIC_DEPLOY:
+        aoai_config = {
+            "endpoint" : "https://aoai-graphrag-westus.openai.azure.com/",
+            "key" : "EYGlZdcBzrSEl3OliRd6DarTjOMYwgMRuyEuwgUB6SrnY9jcUELzJQQJ99BAAC4f1cMXJ3w3AAABACOGA9mu",
+            "api_version" : "2024-07-01-preview",
+            "model" : "gpt-4o",
+            "model_family" : "gpt-4"
+        }
+        graphrag_config = {
+            "endpoint":"https://apim-lzhpqvul64ibk.azure-api.net",
+            "key":"0cee5cb7af4b45008f79e126ccecc938",
+            "storage_name":"raginputdata",
+            "index_name":"graphrRAGindex"
+        }
+    else:
+        app_config_path = r"C:\Users\dade\Desktop\GraphRagAPI\config\app_config_keytruda_limited.json"
+        app_config = Utilities.read_json_data(app_config_path)
+        graphrag_config = Utilities.read_json_data(app_config["graphrag_config_path"])
+        aoai_config = Utilities.read_json_data(app_config["aoai_config_path"])
     endpoint = aoai_config["endpoint"]
     openai_key = aoai_config["key"]
     openai_api_version = aoai_config["api_version"]
@@ -53,9 +60,6 @@ def main():
     for message in messages:
         history += message['content']
         with st.chat_message(message['role']):
-            if message['role'] == "Assistant":
-                st.markdown(message['content'])
-            else:
                 st.markdown(message['content'])
     if question:
         context = ""
@@ -79,6 +83,8 @@ def handle_question(question,model,context,history):
         "content":question
     }
     st.session_state["messages"].append(user_message)
+    with st.chat_message(user_message["role"]):
+        st.markdown(user_message['content'])
     response_message = {
         "role":"Assistant",
         "content":answer,
@@ -116,10 +122,10 @@ def answer_question(question,client, model,context, history):
         response = client.chat.completions.create(
             model=model, # model = "deployment_name".
             messages=[
-                {"role": "system", "content": "You are an AI reearch assistant extremely proficient at answering research-centric questions. Asthma is one area in particular you know a lot about."},
+                {"role": "system", "content": "You are an AI reearch assistant extremely proficient at answering research-centric questions. Alzheimer's is one area in particular you know a lot about.\n"},
                 {"role": "user", "content": "Based on the following context:\n\n"+context+"\
                  \n\n Along with the user's chat history:\n\n"+history+"\n\nAnswer the following question:\n\n"+question+".\
-                  Please include as many details as possible including references if applicable."\
+                  Please include as many details as possible including references if applicable. Only base your reply on the data provided as content, do not include other data."\
                 }
             ]
         )

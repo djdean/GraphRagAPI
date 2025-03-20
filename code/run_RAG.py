@@ -58,8 +58,8 @@ def format_output(input_directory,output_directory):
                 f.write(output_content)
 def main():
     prepare_data = False
-    upload_data = False
-    app_config_path = r"C:\Users\dade\Desktop\GraphRagAPI\config\app_config_labcorp.json"
+    upload_data = True
+    app_config_path = r"C:\Users\dade\Desktop\GraphRagAPI\config\app_config_opdivo.json"
     app_config = Utilities.read_json_data(app_config_path)
     graphrag_config = Utilities.read_json_data(app_config["graphrag_config_path"])
     document_intelligence_config = Utilities.read_json_data(app_config["document_intelligence_config_path"])
@@ -89,7 +89,11 @@ def main():
             print(build_response)
         while True:
             status_response = graphrag_handler.check_index_status(graphrag_index_name)
-            print(status_response.json()["status"])
+            json_response = status_response.json()
+            print("Status: "+str(json_response["status"]) + 
+                  " Progress: "+str(json_response["progress"]) +
+                "Percent complete: "+str(json_response["percent_complete"])
+                  )
             if status_response.json()["status"] == "complete":
                 break
             time.sleep(10)
