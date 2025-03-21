@@ -9,16 +9,14 @@ from devtools import pprint
 from tqdm import tqdm
 
 def main():
-    endpoint = "https://apim-ztsvn4lql4hfq.azure-api.net"
-    openai_key = "0c46a21bb1d14f309981a1dcab7b271e"
+    endpoint = ""
+    openai_key = ""
     openai_api_version = "2024-07-01-preview"
     model = "gpt-4o"
     model_family = "gpt-4"
     model_cost =  0.005
 
-    ocp_apim_subscription_key = "59040eacfdcb4a7cb523547fbe2ab875"
-    
-    #getpass.getpass("516ac1ab72b141f4801078eaf46aa2f8")
+    ocp_apim_subscription_key = ""
 
     """
     "Ocp-Apim-Subscription-Key": 
@@ -40,9 +38,9 @@ def main():
     """
 
     file_directory = r"C:\Users\dade\Desktop\Pfizer RWE Code With Engagement\raginputdata"
-    storage_name = "raginputdata"
-    index_name = "graphragindex"
-    endpoint = "https://apim-ztsvn4lql4hfq.azure-api.net"
+    storage_name = ""
+    index_name = ""
+    endpoint = ""
     response = upload_files(
         file_directory=file_directory,
         storage_name=storage_name,
@@ -74,8 +72,7 @@ def upload_files(
     NOTE: Uploading files may sometimes fail if the blob container was recently deleted
     (i.e. a few seconds before. The solution "in practice" is to sleep a few seconds and try again.
     """
-    #ocp_apim_subscription_key = getpass.getpass("516ac1ab72b141f4801078eaf46aa2f8")
-    ocp_apim_subscription_key = "72e2aba38d6f40eeb42f7a94d04197a7"
+    ocp_apim_subscription_key = ""
     """
     "Ocp-Apim-Subscription-Key": 
         This is a custom HTTP header used by Azure API Management service (APIM) to 
@@ -83,7 +80,7 @@ def upload_files(
         key provided by the Azure APIM instance in your GraphRAG resource group.
     """
     headers = {"Ocp-Apim-Subscription-Key": ocp_apim_subscription_key}
-    endpoint = "https://apim-3q5vgd3e7fyig.azure-api.net"
+    endpoint = ""
     url = endpoint + "/data"
     def upload_batch(
         files: list, storage_name: str, overwrite: bool, max_retries: int
