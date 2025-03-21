@@ -5,5 +5,5 @@ jsondata
 __pycache__
 config/*
 data
-test*
-.env
+test**
+.env*
