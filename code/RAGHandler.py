@@ -119,9 +119,9 @@ class RAGHandler:
 
 def run_test():
     global_query = True
-    storage_name = "raginputdata"
-    index_name = "graphrRAGindex"
-    ocp_apim_subscription_key = "0c46a21bb1d14f309981a1dcab7b271e"
+    storage_name = ""
+    index_name = ""
+    ocp_apim_subscription_key = ""
     """
     "Ocp-Apim-Subscription-Key": 
         This is a custom HTTP header used by Azure API Management service (APIM) to 
