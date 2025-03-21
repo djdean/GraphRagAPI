@@ -10,19 +10,7 @@ def main():
     STATIC_DEPLOY = False
     st.set_page_config(layout="wide")
     if STATIC_DEPLOY:
-        aoai_config = {
-            "endpoint" : "https://aoai-graphrag-westus.openai.azure.com/",
-            "key" : "EYGlZdcBzrSEl3OliRd6DarTjOMYwgMRuyEuwgUB6SrnY9jcUELzJQQJ99BAAC4f1cMXJ3w3AAABACOGA9mu",
-            "api_version" : "2024-07-01-preview",
-            "model" : "gpt-4o",
-            "model_family" : "gpt-4"
-        }
-        graphrag_config = {
-            "endpoint":"https://apim-lzhpqvul64ibk.azure-api.net",
-            "key":"0cee5cb7af4b45008f79e126ccecc938",
-            "storage_name":"raginputdata",
-            "index_name":"graphrRAGindex"
-        }
+        pass
     else:
         app_config_path = r"C:\Users\dade\Desktop\GraphRagAPI\config\app_config_keytruda_limited.json"
         app_config = Utilities.read_json_data(app_config_path)
