@@ -6,3 +6,4 @@ __pycache__
 config/*
 data
 test*
+.env
