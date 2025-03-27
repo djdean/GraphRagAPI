@@ -4,6 +4,5 @@ raginputdata
 jsondata
 __pycache__
 config/*
-data
-test**
+/code/test.py
 .env*

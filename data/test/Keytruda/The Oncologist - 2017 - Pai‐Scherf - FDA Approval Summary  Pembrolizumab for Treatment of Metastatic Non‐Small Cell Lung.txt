@@ -1,0 +1,404 @@
+Regulatory Issues: FDA
+Oncologist (R
+FDA Approval Summary: Pembrolizumab for Treatment of Metastatic Non-Small Cell Lung Cancer: First-Line Therapy and Beyond
+LEE PAI-SCHERF, GIDEON M. BLUMENTHAL, HONGSHAN LI, SRIRAM SUBRAMANIAM, PALLAVI S. MISHRA-KALYANI, KUN HE, HONG ZHAO, JINGYU YU, MARK PACIGA, KIRSTEN B. GOLDBERG, AMY E. MCKEE, PATRICIA KEEGAN, RICHARD PAZDUR Center for Drug Evaluation and Research, U.S. Food and Drug Administration, Silver Spring, Maryland, USA Disclosures of potential conflicts of interest may be found at the end of this article.
+Key Words. Non-small cell lung cancer . Pembrolizumab . EGFR protein, Human . United States Food and Drug Administration
+ABSTRACT
+On October 24, 2016, the U.S. Food and Drug Administra- tion (FDA) approved pembrolizumab (Keytruda; Merck & Co., Inc., https://www.merck.com) for treatment of patients with metastatic non-small cell lung cancer (mNSCLC) whose tumors express programmed death- ligand 1 (PD-L1) as determined by an FDA-approved test, as follows: (a) first-line treatment of patients with mNSCLC whose tumors have high PD-L1 expression (tumor propor- tion score [TPS] ≥50%), with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations, and (b) treatment of patients with mNSCLC whose tumors express PD-L1 (TPS ≥1%), with disease progression on or after platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA- approved therapy for these aberrations prior to receiving pembrolizumab.
+Approval was based on two randomized, open-label, active-con- trolled trials demonstrating statistically significant improvements in progression-free survival (PFS) and overall survival (OS) for patients randomized to pembrolizumab compared with chemo- therapy. In KEYNOTE-024, patients with previously untreated mNSCLC who received pembrolizumab (200 mg intravenously [IV] every 3 weeks) had a statistically significant improvement in OS (hazard ratio [HR] 0.60; 95% confidence interval [CI]: 0.41- 0.89; p = . 005), and significant improvement in PFS (HR 0.50; 95% CI: 0.37-0.68; p <. 001). In KEYNOTE-010, patients with dis- ease progression on or after platinum-containing chemotherapy received pembrolizumab IV 2 mg/kg, 10 mg/kg, or docetaxel 75 mg/m2 every 3 weeks. The HR and p value for OS was 0.71 (95% CI: 0.58-0.88), p <. 001 comparing pembrolizumab 2 mg/kg with chemotherapy and the HR and p value for OS was 0.61 (95% CI: 0.49-0.75), p <. 001 comparing pembrolizumab 10 mg/kg with chemotherapy. The Oncologist 2017;22:1392-1399
+Implications for Practice: This is the first U.S. Food and Drug Administration approval of a checkpoint inhibitor for first-line treatment of lung cancer. This approval expands the pembrolizumab indication in second-line treatment of lung cancer to include all patients with programmed death-ligand 1-expressing non-small cell lung cancer.
+INTRODUCTION
+Prior to the U.S. Food and Drug Administration's (FDA) approval of pembrolizumab for first-line treatment of non-small cell lung cancer (NSCLC) in 2016, several immunotherapy agents, includ- ing pembrolizumab, had been approved for second-line treat- ment. Identification of driver mutations in the kinase domain of the epidermal growth factor receptor (EGFR) gene and rear- rangements of the anaplastic lymphoma kinase (ALK) gene in lung cancer led to development and approval of several molec- ularly targeted drugs that have been shown to improve objec- tive reponse rates (ORR) and progression-free survival (PFS) in
+patients with NSCLC containing these driver mutations. Epider- mal growth factor receptor tyrosine kinase inhibitors, which include erlotinib [1], afatinib [2], and gefitinib [3], and the ALK inhibitor crizotinib, were approved for the first-line treatment of patients with metastatic non-small cell lung cancer (mNSCLC) who harbor these mutations.
+In addition, two monoclonal antibodies, approved for use as first-line treatment in combination with platinum-doublet chemotherapy for mNSCLC have been shown to improve over- all survival (OS) in randomized, controlled trials: bevacizumab
+Correspondence: Lee Pai-Scherf, M.D., Office of Hematology and Oncology Products, Center for Drug Evaluation and Research, U.S. Food and Drug Administration, WO22/2314, 10903 New Hampshire Avenue, Silver Spring, Maryland 20993, USA. Telephone: 301-796-1430; e-mail: Lee.Pai- Scherf@fda.hhs.gov Received February 9, 2017; accepted for publication June 30, 2017; published Online First on August 23, 2017. http:// dx.doi.org/10.1634/theoncologist.2017-0078
+The Oncologist 2017;22:1392-1399 www.TheOncologist.com Published 2017. This article is a U.S. Government
+work and is in the public domain in the USA
+CME
+1549490x, 2017, 11, Downloaded from https://theoncologist.onlinelibrary.wiley.com/doi/10.1634/theoncologist.2017-0078 by Test, Wiley Online Library on [10/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1393
+Pai-Scherf, Blumenthal, Li et al.
+(nonsquamous histology) [4] and necitumumab (squamous his- tology) [5].
+Despite these advances, the standard of care in the first line for patients with advanced, inoperable NSCLC whose tumors do not harbor EGFR mutations or ALK rearrangements remained chemotherapy with cisplatin or carboplatin-based doublets. Clinical trials of various first-line platinum-based chemotherapy regimens demonstrated ORRs from 12% to 37%, median PFS from 4 to 7 months, median OS from 8 to 13 months, and a 1-year survival rate of approximately 33% [1, 6] in these patients. The toxicity of platinum-based therapy can be significant, with myelosuppression, infection, neuropathy, and gastrointestinal symptoms as the most common grade 3- 5 toxicities. Treatment-related deaths have been reported in 1%-3% of patients [7]. Treatment options for patients with mNSCLC who progress after platinum-based chemotherapy (second line and beyond) included nivolumab, docetaxel (with or without ramucirumab), pemetrexed, atezolizumab, and pembrolizumab.
+Pembrolizumab (Keytruda Merck & Co., Inc., https://www. merck.com) is a monoclonal antibody that binds to the pro- grammed cell death protein 1 (PD-1) receptor and blocks its interaction with programmed death-ligands 1 (PD-L1) and 2 (PD-L2), releasing PD-1 pathway-mediated inhibition of antitu- mor immune response. Up-regulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contrib- ute to inhibition of active T-cell immune surveillance of tumors. On October 2, 2015, the FDA granted accelerated approval to pembrolizumab for treatment of patients with mNSCLC whose tumors express PD-L1 as determined by an FDA-approved test with disease progression on or after platinum-containing chem- otherapy. The approval specified that patients with EGFR or ALK genomic tumor aberrations should have disease progres- sion on FDA-approved therapy for these aberrations prior to receiving pembrolizumab. Approval was based on durable ORR in a subgroup of patients whose tumors expressed PD-L1 with a tumor proportion score (TPS) ≥50%, defined as ≥50% of tumor cells expressing PD-L1, observed in KEYNOTE-001, an open-label, single-arm, multicenter trial [8].
+Subsequently, Merck submitted two supplemental Biologic License Applications (sBLAs) for approval of pembrolizumab for (a) first-line treatment of mNSCLC patients whose tumors have high PD-L1 expression with no EGFR or ALK genomic tumor aberrations, and no prior systemic chemotherapy treatment for mNSCLC; and (b) treatment of mNSCLC patients whose tumors express PD-L1 and who have disease progression on or after platinum-containing chemotherapy. The applications were sup- ported with data from two randomized controlled trials- KEYNOTE-024 [9] and KEYNOTE-010 [10]-demonstrating stat- istically significant improvements in PFS and OS for patients randomized to pembrolizumab compared with chemotherapy. KEYNOTE-010 fulfilled Merck's postmarketing requirement to verify the clinical benefit of pembrolizumab in a randomized clinical trial, establishing the superiority of pembrolizumab over available therapy in patients with PDL1-positive mNSCLC previ- ously treated with platinum-containing chemotherapy.
+CLINICAL TRIAL DESIGNS
+KEYNOTE-024 was a randomized, multicenter, open-label, actively-controlled trial in patients with mNSCLC whose tumors
+had high PD-L1 expression (TPS ≥50%) as determined by immunohistochemistry (IHC) at a central laboratory and who had not received prior systemic treatment for mNSCLC. Patients with EGFR or ALK genomic tumor aberrations were ineligible. Randomization was stratified by Eastern Cooperative Oncology Group (ECOG) performance status (PS; 0 vs. 1), histol- ogy (squamous vs. nonsquamous), and geographic region (East Asia [Japan] vs. non-East Asia). Eligible patients were random- ized in a 1:1 ratio to receive pembrolizumab 200 mg intrave- nously (IV) every 3 weeks (Q3W) or investigator's choice of any of the following standard-of-care (SOC) platinum-containing chemotherapy regimens for 4-6 cycles: (a) pemetrexed 500 mg/ m2 Q3W and carboplatin area under the curve (AUC) 5-6 mg/ mL per minute Q3W on day 1 for 4-6 cycles followed by optional pemetrexed 500 mg/m2 Q3W for patients with nonsquamous histologies; (b) pemetrexed 500 mg/m2 Q3W and cisplatin 75 mg/m2 Q3W on day 1 followed by optional pemetrexed 500 mg/m2 Q3W (for nonsquamous histologies only); (c) gemci- tabine 1,250 mg/m2 on days 1 and 8 and cisplatin 75 mg/m2 Q3W on day 1; (d) gemcitabine 1,250 mg/m2 on days 1 and 8 and carboplatin AUC 5 to 6 mg/ml per minute Q3W on day 1; or (e) paclitaxel 200 mg/m2 Q3W and carboplatin AUC 5 to 6 mg/mL per minute Q3W on day 1 followed by optional peme- trexed maintenance (for nonsquamous histologies only).
+Treatment with pembrolizumab continued until Response Evaluation Criteria in Solid Tumors (RECIST) 1.1-defined progres- sion of disease as determined by a blinded independent radiol- ogy committee (BIRC), unacceptable toxicity, or for up to 24 months. The primary objective was to compare PFS per RECIST 1.1 as assessed by BIRC review with SOC chemotherapies. Sec- ondary objectives were to evaluate safety and tolerability, OS, and ORR. Approximately 305 patients were needed to observe 175 PFS events and 110 deaths in the 2 randomized arms, pro- viding an approximate 97% power to detect a hazard ratio (HR) of 0.55 with a 1-sided alpha of 2%. The final OS analysis was planned to occur at 170 deaths, and would provide 75% power to observe an HR <1 assuming approximately 70% crossover from the chemotherapy arm to the pembrolizumab arm.
+KEYNOTE-010 was a multicenter, worldwide, randomized, adaptively designed trial of IV pembrolizumab at two dosing schedules versus docetaxel in patients with mNSCLC with PD- L1 positive tumors (TPS ≥1%) who experienced disease progression after at least two cycles of platinum-containing systemic therapy. Patients were randomized in a 1:1:1 ratio to receive pembrolizumab at 2 mg/kg administered IV over 30 minutes Q3W, pembrolizumab at 10 mg/kg IV over 30 minutes Q3W, or docetaxel at 75 mg/m2 IV over 1 hour Q3W.
+Patients were stratified by PD-L1 status (weak [TPS = 1%- 49%] vs. strong [TPS ≥50%]), ECOG PS (0 vs. 1), and geographic region of the enrolling site (East Asia [Japan, Korea, and Taiwan] vs. non-East Asia). Programmed death-ligand 1 expression lev- els were measured in fresh NSCLC tumor tissues by IHC, ana- lyzed by the FDA-approved Dako Clinical Trial Assay by using the 22C3 clone against PD-L1. Enrollment was limited to patients with mNSCLC having TPS ≥1%, that is, ≥1% of tumor cells staining positive for PD-L1 expression. Treatment with pembrolizumab continued until unacceptable toxicity, docu- mented disease progression, 2 years of uninterrupted pembro- lizumab, or 35 administrations of pembrolizumab. Clinically stable patients with unconfirmed disease progression were
+www.TheOncologist.com
+Published 2017. This article is a U.S. Government work and is in the public domain in the USA
+CME
+1394
+FDA Approval Summary: Pembrolizumab for mNSCLC
+Table 1. KEYNOTE-024 summary of efficacy results
+Efficacy endpoint
+Pembrolizumab n = 154
+SOC chemotherapy n = 151
+PFS
+Events (%)
+73 (47%)
+116 (77%)
+Median in months (95% CI)
+10.3 (6.7-NR)
+6.0 (4.2-6.2)
+Hazard ratioª (95% CI)
+0.50 (0.37-0.68)
+p value (stratified log-rank)
+<. 001
+OS
+Deaths (%)
+44 (29%)
+64 (42%)
+Median in months (95% CI)
+Not reached (NR-NR)
+Not reached (9.4-NR)
+Hazard ratioª (95% CI)
+0.60 (0.41, 0.89)
+p value (stratified log-rank)
+.005b
+Objective response rate
+ORR (95% CI)
+45% (37-53)
+28% (21-36)
+Complete response rate
+4%
+1%
+Partial response rate
+41%
+27%
+p value (Miettenen-Nurminen)
+.001
+ªBased on the stratified Cox proportional hazard model.
+Op value is compared with .0118 of the allocated alpha for this interim analysis.
+Abbreviations: CI, confidence interval; NR, not reached; ORR, objective response rate; OS, overall survival; PFS, progression-free survival; SOC, standard of care.
+Source: FDA sBLA 125514/S12 Clinical Review.
+eligible to continue treatment with pembrolizumab at the dis- cretion of the treating physician until confirmed progression at the next tumor staging evaluation.
+Primary objectives were to compare the OS and PFS in the strongly positive PD-L1 stratum compared with docetaxel; to compare OS and PFS in the weakly positive PD-L1 stratum com- pared with docetaxel; and to evaluate the safety and tolerabil- ity profile of pembrolizumab in the strong and weak groups. The study was considered to have met its primary objective in the primary population of subjects with overall positive or strongly positive PD-L1 (TPS >50%) expression if at least one pembrolizumab arm was superior to docetaxel either in PFS or in OS at an interim analysis or the final analysis.
+CLINICAL PHARMACOLOGY
+Updated population pharmacokinetic analyses, pooling data from KEYNOTE-024 and KEYNOTE-010 trials with data from Merck trials KEYNOTE-001 (solid tumors, including melanoma and NSCLC), KEYNOTE-002 (melanoma), and KEYNOTE-006 (mel- anoma), suggested that the observed pembrolizumab exposure in mNSCLC patients receiving the 200 mg Q3W regimen was within the therapeutic exposure range previously observed from 2 mg/kg Q3W to 10 mg/kg Q2W in melanoma and mNSCLC patients. Previous analyses indicated that the observed pembro- lizumab exposures in patients with squamous cell carcinoma of the head and neck (HNSCC) treated with pembrolizumab 200 mg Q3W were similar to the pembrolizumab exposure data observed in patients with other solid tumors (mainly melanoma and NSCLC) receiving pembrolizumab 2 mg/kg Q3W, supporting a fixed 200 mg Q3W dose for the HNSCC indication. Based on the totality of data, FDA recommended pembrolizumab 200 mg
+fixed dose Q3W for the treatment of patients with metastatic NSCLC, irrespective of prior line of therapy.
+RESULTS
+KEYNOTE-024 randomized 305 patients with no prior systemic chemotherapy treatment for mNSCLC: 154 patients to the pem- brolizumab arm and 151 to the chemotherapy arm. Population characteristics were as follows: median age of 65 years (range: 33-90), 54% age 65 or older; 61% male; 82% white and 15% Asian; 65% ECOG PS of 1; 18% with squamous histology and 82% with nonsquamous histology; and 9% with history of brain metastases. A total of 66 patients (44%) in the chemotherapy arm received pembrolizumab following disease progression.
+KEYNOTE-010 randomized 1,033 patients with disease pro- gression on or after platinum-containing chemotherapy. Popula- tion characteristics were as follows: median age of 63 years (range: 20-88), 42% age 65 or older; 61% male; 72% white and 21% Asian; 66% ECOG PS of 1; 21% with squamous histology, 70% with nonsquamous histology, and 8% with mixed, other, or unknown histology; 91% metastatic (M1) disease; 15% with his- tory of brain metastases; and 8% and 1% with EGFR and ALK genomic aberrations, respectively. All patients received prior therapy with a platinum-doublet regimen; 29% received two or more prior therapies for their metastatic disease. Programmed death-ligand 1 tumor expression was low (TPS = 1%-49%) in 57% of the patients and high (TPS ≥50%) in 43% of the patients.
+Efficacy
+The primary efficacy endpoint of KEYNOTE-024 was PFS as assessed by a BIRC according to RECIST 1.1. Secondary efficacy endpoints were OS and ORR as assessed by the BIRC according to RECIST 1.1. Key efficacy results are summarized in Table 1. There was a statistically significant and clinically meaningful
+Published 2017. This article is a U.S. Government work and is in the public domain in the USA
+Oncologist
+1549490x, 2017, 11, Downloaded from https://theoncologist.onlinelibrary.wiley.com/doi/10.1634/theoncologist.2017-0078 by Test, Wiley Online Library on [10/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CME
+1395
+Pai-Scherf, Blumenthal, Li et al.
+Product-Limit Survival Estimates
+With Number of Subjects at Risk
+1.0
++ Censored
+0.8
+Survival Probability
+0.6-
+0.4-
+#
+#1
++
+0.2
++
+0.0
+1
+154
+95
+42
+3
+0
+2
+151
+77
+18
+--
+0
+0
+5
+10
+15
+20
+Time (in Months)
+Treatment
+1: Pembrolizumab
+2: Standard of Care
+Figure 1. KEYNOTE-024 Kaplan-Meier curves of progression-free survival by independent review committee (Intent to Treat population). Abbreviation: SOC, standard of care. Source: FDA sBLA 125514/S12 Statistical Review.
+improvement in PFS for patients in the pembrolizumab arm compared with those in the SOC arm. The Kaplan-Meier curve for PFS is shown in Figure 1. At a prespecified interim analysis with 64% of the events needed for the final analysis, there was a statistically significant improvement in OS among patients randomized to receive pembrolizumab. At the time of data cut- off, median survival times had not been reached in either treat- ment arm. The OS and PFS improvements were similar across subgroups defined by age, gender, race, baseline PS, geographic region, and histology. The ORR was significantly higher in the pembrolizumab arm compared with the SOC arm.
+In KEYNOTE-010, the coprimary efficacy endpoints were OS and PFS as determined by a BIRC in the subgroup of patients with TPS ≥50% and in the intent-to-treat (TPS ≥1%) popula- tion. Key efficacy results in the TPS ≥50% subgroup and in the overall population are summarized in Tables 2 and 3. In the overall population, there was a statistically significant improve- ment in OS in patients who received pembrolizumab 2 mg/kg or pembrolizumab 10 mg/kg compared with docetaxel. The Kaplan-Meier curves for OS are shown in Figure 2. Due to copri- mary endpoints and multiple arm comparisons of the trial, an alpha of .001 was allocated to the analysis of PFS endpoints, and the trial did not demonstrate a statistically significant improvement in PFS for patients randomized to receive pem- brolizumab 10 mg/kg (stratified log-rank p = . 005) or pembroli- zumab 2 mg/kg (stratified log-rank p = . 068) when compared with docetaxel. Objective response rates per RECIST 1.1 by a BIRC assessment were 18% for both pembrolizumab arms and 9% in the docetaxel arm.
+In the TPS ≥50% stratum, there was a statistically signifi- cant improvement in OS in patients who received pembrolizu- mab 2 mg/kg or pembrolizumab 10 mg/kg compared with docetaxel, which was larger in magnitude than that for the
+overall population. Progression-free survival and ORR were also statistically significantly improved for both pembrolizumab 2 mg/kg and pembrolizumab 10m/kg arms compared with docetaxel.
+To assess whether the OS benefit in the overall population in KEYNOTE-010 was not driven by patients with high PD-L1 expression (TPS ≥50%), FDA conducted an exploratory analysis in the subgroup of patients with "low" PD-L1 tumor expression, defined as TPS ≥1% but <50%. In the low PD-L1 subgroup, the HR for OS was 0.79 (95% CI: 0.61-1.04), p = . 088 for pembroli- zumab 2 mg/kg versus docetaxel and 0.71 (95% CI: 0.53-0.94), p = . 015 for pembrolizumab 10 mg/kg versus docetaxel, indi- cating that patients with low PD-L1 expression also derive ben- efit from pembrolizumab 2 mg/kg. The magnitude of the improvements in PFS and in ORR in the low PD-L1 expression subgroup was similar regardless of the pembrolizumab dose. The HR for PFS was 1.07 (95% CI: 0.85-1.34), p = . 718 for pem- brolizumab 2 mg/kg versus docetaxel and 0.99 (95% CI: 0.78- 1.25), p = . 464 for pembrolizumab 10 mg/kg versus docetaxel. Objective response rate was 10.5% (95% CI: 6.5-15.7) in the docetaxel arm compared with 9.8% (95% CI: 6.1-14.7) and 10.3% (95% CI: 6.4-15.4) in the pembrolizumab 2 mg/kg and 10 mg/kg arms, respectively.
+Safety
+The safety profile of pembrolizumab is well characterized in patients with melanoma, NSCLC, and HNSCC, as described in the Keytruda product label [11]. No new safety signals were identified during review of these sBLAs. The major concerns with pembrolizumab are immune-related adverse events (irAEs). In KEYNOTE-024, irAEs were observed in 29.2% (9.7% grade 3-4) of patients in the pembrolizumab arm. Immune- related adverse events observed in more than two patients
+www.TheOncologist.com
+Published 2017. This article is a U.S. Government work and is in the public domain in the USA
+CME
+1549490x, 2017, 11, Downloaded from https://theoncologist.onlinelibrary.wiley.com/doi/10.1634/theoncologist.2017-0078 by Test, Wiley Online Library on [10/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1396
+FDA Approval Summary: Pembrolizumab for mNSCLC
+Table 2. KEYNOTE-010 efficacy results: tumor proportion score ≥50% stratum
+Endpoint
+Pembro 2 mg/kg n = 139
+Pembro 10 mg/kg n = 151
+Docetaxel n = 152
+OS
+Deaths (%)
+58 (42%)
+60 (40%)
+86 (57%)
+Median in months (95% CI)
+14.9 (10.4-NA)
+17.3 (11.8-NA)
+8.2 (6.4-10.7)
+Hazard ratioª (95% CI)
+0.54 (0.38-0.77)
+0.50 (0.36-0.70)
+p value (stratified log-rank)
+<. 001
+<. 001
+PFS
+Events (%)
+89 (64%)
+97 (64%)
+118 (78%)
+Median in months (95% CI)
+5.2 (4.0-6.5)
+5.2 (4.1-8.1)
+4.1 (3.6-4.3)
+Hazard ratioª (95% CI)
+0.58 (0.43-0.77)
+0.59 (0.45-0.78)
+p value (stratified log-rank)
+<. 001
+<. 001
+Objective response rate
+ORR6 (95% CI)
+30% (23-39)
+29% (22-37)
+8% (4-13)
+p value (Miettenen-Nurminen)
+<. 001
+<. 001
+ªBased on the stratified Cox proportional hazard model.
+bAll responses were partial responses.
+Abbreviations: CI, confidence interval; NA, not applicable; ORR, objective response rate; OS, overall survival; PFS, progression-free survival. Source: FDA sBLA125514/S-08 Clinical Review.
+Table 3. KEYNOTE-010 efficacy results: tumor proportion score ≥1% population (all randomized)
+Endpoint
+Pembro 2 mg/kg n = 344
+Pembro 10 mg/kg n = 346
+Docetaxel n = 343
+OS
+Deaths (%)
+172 (50%)
+156 (45%)
+193 (56%)
+Median in months (95% CI)
+10.4 (9.4-11.9)
+12.7 (10.0-17.3)
+8.5 (7.5-9.8)
+Hazard ratioª (95% CI)
+0.71 (0.58-0.88)
+0.61 (0.49-0.75)
+p value (stratified log-rank)
+<. 001
+<. 001
+PFS
+Events (%)
+266 (77%)
+255 (74%)
+257 (75%)
+Median in months (95% CI)
+3.9 (3.1-4.1)
+4.0 (2.6-4.3)
+4.0 (3.1-4.2)
+Hazard ratioª (95% CI)
+0.88 (0.73-1.04)
+0.79 (0.66-0.94)
+p value (stratified log-rank)
+.068
+.005
+Objective response rate
+ORRb (95% CI)
+18% (14-23)
+18% (15-23)
+9% (7-13)
+p value (Miettenen-Nurminen)
+<. 001
+<. 001
+ªBased on the stratified Cox proportional hazard model.
+bAll responses were partial responses.
+Abbreviations: CI, confidence interval; ORR, objective response rate; OS, overall survival; PFS, progression-free survival. Source: FDA sBLA125514/S-08 Clinical Review.
+(≥1%) in the pembrolizumab arm were hypothyroidism (9.1%), hyperthyroidism (7.8%), pneumonitis (5.8%), infusion reactions (4.5%), skin reactions (3.9%), thyroiditis (2.6%), colitis (1.9%), and myositis (1.9%). Pneumonitis was the most common seri- ous AE associated with pembrolizumab in this trial and other lung cancer trials, and is the leading AE resulting in pembrolizu- mab discontinuation. Because respiratory function in lung can- cer patients is frequently compromised due to the underlying tumor, prior surgery, or radiation therapy to the thoracic region, as well as comorbid conditions such as chronic obstructive pulmonary disease, health care providers need to maintain a high index of suspicion when patients develop worsening of
+respiratory symptoms and take appropriate measures to diag- nose, initiate corticosteroids, and withhold or discontinue pembrolizumab when indicated. This information is addressed in the Warnings and Precautions section of the Keytruda prod- uct label.
+In KEYNOTE-024, the nature, incidence, and severity of AEs in the control arm were consistent with the known toxicities of the chemotherapy agents. Common AEs occurring at >10% incidence in the chemotherapy arm when compared with the pembrolizumab arm included the following: oral/gastrointesti- nal (nausea, vomiting, decreased appetite, dysgeusia), myelo- suppression (anemia, neutropenia, and thrombocytopenia),
+Published 2017. This article is a U.S. Government work and is in the public domain in the USA
+Oncologist®
+1549490x, 2017, 11, Downloaded from https://theoncologist.onlinelibrary.wiley.com/doi/10.1634/theoncologist.2017-0078 by Test, Wiley Online Library on [10/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CME
+1397
+Pai-Scherf, Blumenthal, Li et al.
+Product-Limit Survival Estimates
+With Number of Subjects at Risk
+1.0
++ Censored
+0.8
+Survival Probability
+0.6
+0.4
+HI-
+0.2-
+0.0
+1
+343
+212
+79
+33
+1
+0
+2
+346
+255
+124
+56
+6
+0
+3
+344
+259
+115
+49
+12
+0
+15
+0
+10
+15
+20
+25
+Time (in Months)
+Treatment
+1: Docetaxel 75mg/m2
+2: Pembro 10mg/kg
+3: Pembro 2mg/kg
+Figure 2. KEYNOTE-010: Kaplan-Meier curves of overall survival (tumor proportion score ≥1%, Intent to Treat population). Source: FDA sBLA125514/S-08 Statistical Review.
+and fatigue. More patients in the chemotherapy arm experi- enced a grade 3-4 toxicity compared with the pembrolizumab arm (72.7% vs. 53.2%) and more patients discontinued treat- ment due to an AE in the chemotherapy arm (14.0% vs. 9.1%). Serious AEs, defined as AEs that resulted in death, were life threatening, resulted in persistent or significant disability/inca- pacity, or resulted in or prolonged inpatient hospitalization, occurred with a similar incidence between the treatment arms (44.0% and 44.2%). Death attributed to an AE occurred in 10 patients in the pembrolizumab arm and 8 patients in the SOC arm.
+For the second-line indication, FDA's safety review focused on 991 patients randomized in KEYNOTE-010 who received at least one dose of study drug and the pooled safety data from a total of 2,799 patients with melanoma and NSCLC enrolled in studies previously submitted to support melanoma and NSCLC approvals: KEYNOTE-001, KEYNOTE-002, and KEYNOTE-006, exposed to at least one dose of pembrolizumab. In the pembro- lizumab pooled group, 46% of the patients experienced a grade 3-5 AE, compared with 56% in the docetaxel arm. The inci- dence of serious AEs was similar (36.1% vs. 34.6%). More patients in the docetaxel arm discontinued study drug due to an AE than in the pembrolizumab arms (13.6% vs. 7.9%). In the P010 trial, irAEs were observed in 20.4% (6% grade 3-5) of patients in the pembrolizumab 2 mg/kg arm, 18.7% (5% grade 3-5) in the 10 mg/kg arm, and 4.2% in the docetaxel arm. The incidence and severity of irAEs were similar between the two pembrolizumab arms, regardless of PD-L1 expression. Immune- related adverse events that were observed in more than five patients (≥0.7%) in the pembrolizumab pooled group (2 mg/kg and 10 mg/kg arms) included adrenal insufficiency (0.7%), hyperthyroidism (4.7%), hypothyroidism (8.2%), colitis (0.9%), and pneumonitis (4.1%).
+DISCUSSION
+On October 24, 2016, the FDA approved pembrolizumab for treatment of patients with mNSCLC whose tumors express PD- L1 as determined by an FDA-approved test. Table 4 summarizes the FDA benefit-risk analysis. The results of KEYNOTE-010 veri- fied the clinical benefit (improved survival) of pembrolizumab for second-line treatment of mNSCLC, leading to full approval for this indication. The application for the first-line indication was approved 2 months prior to the goal date required by the Prescription Drug User Fee Act.
+Taking into consideration the efficacy and safety data sub- mitted in both sBLAs, FDA concluded that the results of KEYNOTE-024 support a positive benefit-risk assessment of pembrolizumab for first-line treatment of patients with mNSCLC whose tumors have high PD-L1 expression (TPS ≥50%), with no EGFR or ALK genomic tumor aberrations. Despite the high proportion (44%) of patients in the SOC chem- otherapy arm who crossed over to receive pembrolizumab upon disease progression, the trial demonstrated an improve- ment in OS for the investigational arm. As observed in other randomized trials with large treatment effects on survival, patient crossover from the control arm to the investigational arm did not obscure detection of a treatment effect in KEYNOTE-024; however, the confounding effect of this cross- over on the true treatment effect cannot be estimated. The incidence and severity of AEs observed in KEYNOTE-024 are consistent with the known safety profile of pembrolizumab and are acceptable in view of the serious and life-threatening nature of mNSCLC.
+The approval of pembrolizumab for the first-line treatment of patients with mNSCLC with strong PD-L1 expression impacts about a quarter of patients with mNSCLC. This is comparable to the proportion of patients with mNSCLC whose tumors harbor sensitizing mutations in EGFR, BRAF, or ALK/reactive
+www.TheOncologist.com
+Published 2017. This article is a U.S. Government work and is in the public domain in the USA
+CME
+1549490x, 2017, 11, Downloaded from https://theoncologist.onlinelibrary.wiley.com/doi/10.1634/theoncologist.2017-0078 by Test, Wiley Online Library on [10/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1398
+FDA Approval Summary: Pembrolizumab for mNSCLC
+Table 4. FDA benefit-risk assessment
+Dimension
+Evidence and uncertainties
+Conclusions and reasons
+Analysis of condition
+· 5-year survival rates of approximately 4.3% for patients with metastatic NSCLC. · Additional therapies needed for patients without EGFR, ALK, or ROS1 mutations, for which there is effective targeted therapy, whose disease progresses following platinum-containing chemotherapy.
+NSCLC is a serious and life-threatening disease.
+Current treatment options
+. FDA-approved therapy for patients without spe- cific mutations whose NSCLC progresses following a platinum-based chemotherapy regimen include nivolumab, docetaxel with or without ramucirumab, and pemetrexed. These agents provide a survival advantage, but only for nivolumab is that survival advantage greater than few months increase in median survival.
+Current treatment options only provide small increases in survival; new therapies needed.
+Benefit
+KEYNOTE-10: . Statistically robust and clinically important improvements in OS for all patients with PD-L1 pos- itive NSCLC and in those with strongly expressing PD-L1 NSCLC (TPS ≥50%) compared with those receiving docetaxel alone. · ORR doubled for the pembrolizumab arms compared with the docetaxel arm. KEYNOTE-24: · Statistically robust and clinically meaningful improvements in OS and PFS compared with standard of care treatment. · Improvement in ORR (45% vs. 28%) for patients randomized to pembrolizumab compared with chemotherapy.
+Pembrolizumab resulted in clinically meaningful improvements in OS and ORR compared with docetaxel.
+Risk
+. No new safety signals identified in these supplements. The major safety concerns remain immune-related adverse reactions, which most commonly involve the lung, liver, skin, and endo- crine organs. . These risks may be serious and require use of high-dose corticosteroids, but are considered acceptable given the potential for prolongation of life in this ultimately fatal stage of NSCLC.
+Observed survival benefits outweigh the known, established risks of immune-related adverse reactions involving all organ sys- tems and which have been determined to be acceptable by the medical oncology community and patients, given the poor prognosis for metastatic NSCLC.
+Abbreviations: ALK, anaplastic lymphoma kinase; CI, confidence interval; EGFR, epidermal growth factor receptor; FDA, U.S. Food and Drug Admin- istration; NSCLC, non-small cell lung cancer; ORR, objective response rate; OS, overall survival; PD-L1, programmed death-ligand 1; PFS, progression-free survival; ROS1, reactive oxygen species; TPS, tumor proportion score.
+Source: Combined information from FDA sBLA125514/S-08 and sBLA 125514/S12 Clinical Reviews
+oxygen species (ROS1) rearrangements. Therefore, about half of patients with mNSCLC are eligible to receive either an immune checkpoint inhibitor or a targeted therapy in lieu of first-line platinum doublet chemotherapy.
+Similarly, FDA concluded that the results of KEYNOTE-010 support a favorable benefit-risk assessment for pembrolizumab for the treatment of patients with PD-L1 expressing (TPS ≥1%) mNSCLC who have progressed following platinum-containing chemotherapy, and if appropriate, targeted therapy for ALK or EGFR mutations. Although the risk-benefit assessment was clearly favorable in the subgroup of patients with high PD-L1 tumor expression regardless of the pembrolizumab dose, the risk-benefit assessment was more challenging for patients with low PD-L1 expression, because an improvement in PFS was not demonstrated in the overall population. However, given the meaningful improvement in OS and the doubling of the ORR observed in both 2 mg/kg and 10 mg/kg pembrolizumab arms as compared with docetaxel arm, approval was granted for the overall population for the 2 mg/kg and 10 mg/kg regimens.
+Merck agreed to postmarketing commitments (PMCs) to further assess the efficacy of pembrolizumab for first-line treat- ment of mNSCLC. These PMCs are to submit final study reports and datasets for KEYNOTE-024 [12] and KEYNOTE-042 [13] to FDA to further characterize the OS, PFS, and ORR benefits in this population.
+CONCLUSION
+The approval of pembrolizumab represents the first FDA approval of a checkpoint inhibitor for the treatment of patients with PD-L1 expressing mNSCLC. Notably, it is the first time that any therapy has displaced platinum-doublet chemotherapy for the first-line indication for patients with mNSCLC without EGFR or ALK genomic tumor aberrations, and provides a new treat- ment option in an area of unmet medical need.
+AUTHOR CONTRIBUTIONS
+Conception/design: Lee Pai-Scherf, Gideon M. Blumenthal, Kirsten B. Goldberg
+Published 2017. This article is a U.S. Government work and is in the public domain in the USA
+Oncologist
+1549490x, 2017, 11, Downloaded from https://theoncologist.onlinelibrary.wiley.com/doi/10.1634/theoncologist.2017-0078 by Test, Wiley Online Library on [10/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CME
+1399
+Pai-Scherf, Blumenthal, Li et al.
+Collection and/or assembly of data: Lee Pai-Scherf, Gideon M. Blumenthal, Hongshan Li, Sriram Subramaniam, Pallavi S. Mishra-Kalyani Data analysis and interpretation: Lee Pai-Scherf, Gideon M. Blumenthal, Hongshan Li, Sriram Subramaniam, Pallavi S. Mishra-Kalyani, Kun He, Hong Zhao, Patricia Keegan
+Manuscript writing: Lee Pai-Scherf, Gideon M. Blumenthal, Kirsten B. Goldberg, Kun He, Hong Zhao, Patricia Keegan
+Final approval of manuscript: Lee Pai-Scherf, Gideon M. Blumenthal, Hongshan Li, Sriram, Subramaniam, Pallavi S. Mishra-Kalyani, Kun He, Hong Zhao, Kirsten B. Goldberg, Amy E. McKee, Patricia Keegan, Richard Pazdur
+DISCLOSURES The authors indicated no financial relationships.
+REFERENCES
+1. D'Addario G, Pintilie M, Leighl NB et al. Plati- num-based versus non-platinum based chemother- apy in advanced non-small-cell lung cancer: A meta- analysis of the published literature. J Clin Oncol 2005;23:2926-2936.
+2. Taxotere Prescribing Information. Available at http://www.accessdata.fda.gov/drugsatfda_docs/ label/2015/020449s075lbl.pdf. Accessed July 19, 2017.
+3. Erlotinib Prescribing Information. Available at http://www.accessdata.fda.gov/drugsatfda_docs/ label/2016/021743s027lbl.pdf. Accessed July 19, 2017.
+4. National Comprehensive Cancer Network Clini- cal Practice Guidelines in Oncology: Non-small cell lung cancer. Available at https://www.nccn.org/ professionals/physician_gls/pdf/nscl_blocks.pdf. Accessed December 12, 2016.
+5. National Cancer Institute: Lung Cancer. Available at https://www.cancer.gov/types/lung/hp/non-small- cell-lung-treatment-pdq. Accessed December 12, 2016.
+6. Schiller JH, Harrington D, Belani CP et al. Com- parison of four chemotherapy regimens for advanced non-small cell lung cancer. N Engl J Med 2002;346:92-98.
+7. Scagliotti GV, De Marinis F, Rinaldi M et al. Phase III randomized trial comparing three platinum-based doublets in advanced non-small cell lung cancer. J Clin Oncol 2002;20:4285-4291.
+8. Sul J, Blumenthal GM, Jiang X et al. FDA approval summary: Pembrolizumab for the treatment of patients with metastatic non-small cell lung cancer whose tumors express programmed death- ligand 1. The Oncologist 2016;21:643-650.
+9. Reck M, Rodríguez-Abreu D, Robinson AG et al. Pembrolizumab versus chemotherapy for PD-L1-
+positive non-small-cell lung cancer. N Engl J Med 2016;375:1823-1833.
+10. Herbst RS, Baas P, Kim DW et al. Pembrolizu- mab versus docetaxel for previously treated, PD-L1- positive, advanced non-small-cell lung cancer (KEY- NOTE-010): A randomised controlled trial. Lancet 2016;387:1540-1550.
+11. Keytruda Prescribing Information. Available at http://www.accessdata.fda.gov/drugsatfda_docs/ label/2016/125514s012lbl.pdf. Accessed July 19, 2017.
+12. Clinicaltrials.gov, Trial NCT02142738. Available at https://clinicaltrials.gov/ct2/show/NCT02142738. Accessed July 19, 2017.
+13. Clinicaltrials.gov, Trial NCT02220894. Available at https://clinicaltrials.gov/ct2/show/NCT02220894. Accessed July 19, 2017.
+CME
+This article is available for continuing medical education credit at CME.TheOncologist.com.
+www.TheOncologist.com
+Published 2017. This article is a U.S. Government work and is in the public domain in the USA
+1549490x, 2017, 11, Downloaded from https://theoncologist.onlinelibrary.wiley.com/doi/10.1634/theoncologist.2017-0078 by Test, Wiley Online Library on [10/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CME
+| Efficacy endpoint | Pembrolizumab n = 154 |  | SOC chemotherapy n = 151 | 
+|PFS |  |  |  | 
+|Events (%) | 73 (47%) |  | 116 (77%) | 
+|Median in months (95% CI) | 10.3 (6.7-NR) |  | 6.0 (4.2-6.2) | 
+|Hazard ratioª (95% CI) |  | 0.50 (0.37-0.68) |  | 
+|p value (stratified log-rank) |  | <. 001 |  | 
+|OS |  |  |  | 
+|Deaths (%) | 44 (29%) |  | 64 (42%) | 
+|Median in months (95% CI) | Not reached (NR-NR) |  | Not reached (9.4-NR) | 
+|Hazard ratioª (95% CI) |  | 0.60 (0.41, 0.89) |  | 
+|p value (stratified log-rank) |  | .005b |  | 
+|Objective response rate |  |  |  | 
+|ORR (95% CI) | 45% (37-53) | 28% (21-36) | 
+|Complete response rate | 4% |  | 1% | 
+|Partial response rate | 41% |  | 27% | 
+
+| Endpoint | Pembro 2 mg/kg n = 139 | Pembro 10 mg/kg n = 151 | Docetaxel n = 152 | 
+|OS |  |  |  | 
+|Deaths (%) | 58 (42%) | 60 (40%) | 86 (57%) | 
+|Median in months (95% CI) | 14.9 (10.4-NA) | 17.3 (11.8-NA) | 8.2 (6.4-10.7) | 
+|Hazard ratioª (95% CI) | 0.54 (0.38-0.77) | 0.50 (0.36-0.70) |  | 
+|p value (stratified log-rank) | <. 001 | <. 001 |  | 
+|PFS |  |  |  | 
+|Events (%) | 89 (64%) | 97 (64%) | 118 (78%) | 
+|Median in months (95% CI) | 5.2 (4.0-6.5) | 5.2 (4.1-8.1) | 4.1 (3.6-4.3) | 
+|Hazard ratioª (95% CI) | 0.58 (0.43-0.77) | 0.59 (0.45-0.78) |  | 
+|p value (stratified log-rank) | <. 001 | <. 001 |  | 
+|Objective response rate |  |  |  | 
+|ORR6 (95% CI) | 30% (23-39) | 29% (22-37) | 8% (4-13) | 
+
+| Endpoint | Pembro 2 mg/kg n = 344 | Pembro 10 mg/kg n = 346 | Docetaxel n = 343 | 
+|OS |  |  |  | 
+|Deaths (%) | 172 (50%) | 156 (45%) | 193 (56%) | 
+|Median in months (95% CI) | 10.4 (9.4-11.9) | 12.7 (10.0-17.3) | 8.5 (7.5-9.8) | 
+|Hazard ratioª (95% CI) | 0.71 (0.58-0.88) | 0.61 (0.49-0.75) |  | 
+|p value (stratified log-rank) | <. 001 | <. 001 |  | 
+|PFS |  |  |  | 
+|Events (%) | 266 (77%) | 255 (74%) | 257 (75%) | 
+|Median in months (95% CI) | 3.9 (3.1-4.1) | 4.0 (2.6-4.3) | 4.0 (3.1-4.2) | 
+|Hazard ratioª (95% CI) | 0.88 (0.73-1.04) | 0.79 (0.66-0.94) |  | 
+|p value (stratified log-rank) | .068 | .005 |  | 
+|Objective response rate |  |  |  | 
+|ORRb (95% CI) | 18% (14-23) | 18% (15-23) | 9% (7-13) | 
+
+| Dimension | Evidence and uncertainties | Conclusions and reasons | 
+|Analysis of condition | · 5-year survival rates of approximately 4.3% for patients with metastatic NSCLC. · Additional therapies needed for patients without EGFR, ALK, or ROS1 mutations, for which there is effective targeted therapy, whose disease progresses following platinum-containing chemotherapy. | NSCLC is a serious and life-threatening disease. | 
+|Current treatment options | . FDA-approved therapy for patients without spe- cific mutations whose NSCLC progresses following a platinum-based chemotherapy regimen include nivolumab, docetaxel with or without ramucirumab, and pemetrexed. These agents provide a survival advantage, but only for nivolumab is that survival advantage greater than few months increase in median survival. | Current treatment options only provide small increases in survival; new therapies needed. | 
+|Benefit | KEYNOTE-10: . Statistically robust and clinically important improvements in OS for all patients with PD-L1 pos- itive NSCLC and in those with strongly expressing PD-L1 NSCLC (TPS ≥50%) compared with those receiving docetaxel alone. · ORR doubled for the pembrolizumab arms compared with the docetaxel arm. KEYNOTE-24: · Statistically robust and clinically meaningful improvements in OS and PFS compared with standard of care treatment. · Improvement in ORR (45% vs. 28%) for patients randomized to pembrolizumab compared with chemotherapy. | Pembrolizumab resulted in clinically meaningful improvements in OS and ORR compared with docetaxel. | 
+

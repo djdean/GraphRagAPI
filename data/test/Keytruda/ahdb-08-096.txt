@@ -1,0 +1,232 @@
+Keytruda (Pembrolizumab): First PD-1 Inhibitor Approved for Previously Treated Unresectable or Metastatic Melanoma
+By Lisa A. Raedler, PhD, RPh, Medical Writer
+M elanoma, although not the most common skin cancer in the United States, is the most deadly.1 Based on data collected between 2004 and 2010, the 5-year survival rate for Americans with metastatic melanoma remains very low-only 16%-for all ages and races, and both sexes.2 The National Cancer Institute has estimated that 21.3 in 100,000 people will be diagnosed with melanoma of the skin in the United States in 2014.2 More than 9700 patients are estimated to die from melanoma in the same time frame.2
+The incidence of melanoma is increasing in the Unit- ed States, particularly among children and adolescents.2,3 An analysis of first-time melanoma diagnoses in patients aged 18 to 39 years between 1970 and 2009 showed that the incidence of melanoma increased 8-fold among young women and 4-fold among young men.3 A study analyzing data from 1973 to 2009 documented an aver- age increase of 2% annually in melanoma in children aged between 0 and 19 years, particularly in girls and those aged between 15 and 19 years.4
+These trends in melanoma diagnosis rates are con- cerning in light of their potential impact on healthcare resource consumption. An assessment of Medicare claims data from 1991 to 2005 demonstrated that pa- tients with melanoma, particularly those with metastat- ic disease, utilize substantial healthcare resources.5 In this study, patients with metastatic melanoma con- sumed an average of more than $11,000 monthly in total healthcare costs, the majority of which was related to inpatient hospital services.5 Of note, this cost analy- sis was conducted before the new targeted therapies for metastatic melanoma became available.
+Because tumor cells can spread to distant lymph nodes and to other organs, metastatic melanoma can be diffi- cult to cure.6 Surgery and radiation therapy can be con- sidered for tumors on the skin or for tumors that are lo- calized to the lymph nodes. Metastases in internal organs can be surgically removed, depending on their number and location.6
+The development of novel agents has significantly altered the management of patients with advanced dis- ease. Today's armamentarium of systemic treatments for metastatic melanoma includes immunotherapies, BRAF
+inhibitors (ie, vemurafenib, dabrafenib, trametinib), and chemotherapy.6 Many of these newer agents offer superior efficacy compared with chemotherapy.6
+Specifically, immune checkpoint blockade with im- muno-oncology agents that are directed toward cytotox- ic T-lymphocyte antigen (CTLA)-4 (eg, ipilimumab), as well as programmed death (PD)-1 and PD-ligand 1 (PD- L1), has emerged as a successful treatment approach.7 Ipilimumab was the first CTLA-4 inhibitor to demon- strate an overall survival benefit and durable objective responses in patients with metastatic melanoma.7
+In patients with metastatic melanoma and BRAF V600 mutation, a striking contrast has been observed between BRAF inhibition, which offers higher response rates with limited response durability, and CTLA-4 inhibition, which offers a relatively low response rate but very durable responses.7
+To increase the number of patients with melanoma who benefit from durable responses with immunothera- py, researchers are exploring potential synergies between immune checkpoint inhibitors that target CTLA-4, PD-1, and PD-L1, and kinase-targeted therapies, as well as the concurrent and sequential use of CTLA-4 and PD-1/PD-L1 inhibitors.7
+Pembrolizumab a New Option for Metastatic Melanoma
+On September 4, 2014, the US Food and Drug Admin- istration (FDA) approved pembrolizumab (Keytruda; Merck Sharp & Dohme Corp) for the treatment of pa- tients with unresectable or metastatic melanoma and disease progression after receiving ipilimumab and, in patients with BRAF V600 mutation melanoma, a BRAF inhibitor.8 Pembrolizumab is the first human PD-1- blocking antibody approved for use in the United States.9
+Pembrolizumab, which is administered via intrave- nous infusion, was approved under the accelerated ap- proval program based on surrogate end points of con- firmed overall response rate (ORR) and duration of response.8 Improvements in survival or disease-related symptoms have not yet been established.10
+According to Jeffrey S. Weber, MD, PHD, Director of the Donald A. Adam Comprehensive Melanoma Re- search Center of Excellence at the Moffitt Cancer Cen-
+March 2015 l Vol 8 l Special Feature
+l American Health & Drug Benefits l www.AHDBonline.com
+96
+ter, Tampa, FL, "Pembrolizumab is ... a clearly effective drug that will prolong survival for many patients with metastatic melanoma. This approval is a real advance and a major milestone in the treatment of the disease."11
+As a condition for this accelerated approval, the man- ufacturer is required to conduct a multicenter, random- ized trial to establish the superiority of pembrolizumab over standard therapy and to verify its clinical benefit in patients with metastatic melanoma.8 Currently, 2 ongo- ing multicenter, randomized, controlled, therapeutic confirmatory trials are under way in patients with meta- static melanoma: Trial P002 in ipilimumab-refractory patients and Trial P006 in ipilimumab-naïve patients. In both trials, the coprimary end points are progression-free survival and overall survival.8
+Mechanism of Action
+Pembrolizumab is a monoclonal antibody that binds to the PD-1 receptor and blocks interaction with its ligands, PD-L1 and PD-L2. This binding results in the activation of T-cell-mediated immune responses against tumor cells. Blocking PD-1 activity resulted in decreased tumor growth in genetically identical mouse tumor models.10
+Dosing and Administration
+The recommended dosage of pembrolizumab is 2 mg/ kg administered as an intravenous infusion over 30 min- utes every 3 weeks; it should be reconstituted and diluted before infusion. Pembrolizumab should be used until disease progression or until unacceptable toxicity.10
+No dose adjustment of pembrolizumab is needed for patients with renal impairment or for patients with mild hepatic impairment, defined as a total bilirubin of the upper limit of normal or less, and aspartate aminotransfer- ase (AST) of more than the upper limit of normal, or a total bilirubin of >1 to 1.5 times the upper limit of normal and any AST. Pembrolizumab has not been studied in patients with moderate or severe hepatic impairment.10
+KEYNOTE-001 Clinical Trial: Relapsed Metastatic Melanoma
+The accelerated approval of pembrolizumab was based on the results of a multicenter, open-label, randomized, dose-comparative, activity-estimating cohort conducted within the phase 1b KEYNOTE-001 trial (Trial P001).10 Of the 411 patients with treatment-naïve or with previ- ously treated unresectable or metastatic melanoma who enrolled in the KEYNOTE-001 trial, 173 had disease progression within 24 weeks of the last dose of ipilimu- mab and, in those with BRAF V600 mutation melano- ma, after previous treatment with a BRAF inhibitor. These 173 patients were randomized to receive 2 mg/kg (N = 89) or 10 mg/kg (N = 84) of intravenous pembroliz-
+umab once every 3 weeks until disease progression or until unacceptable toxicity.10
+The primary efficacy end points were confirmed ORR according to Response Evaluation Criteria in Solid Tu- mors (RECIST) v1.1 as assessed by a blinded indepen- dent central review and duration of response.10,11 The patients' tumor status was assessed every 12 weeks.10 The secondary outcome measures included investigator- assessed immune-related response criteria.11
+The KEYNOTE-001 trial excluded patients with au- toimmune disease, medical conditions that required im- munosuppression, or a history of severe immune-mediat- ed adverse events with ipilimumab. The latter was defined as any grade 4 toxicity requiring treatment with corticosteroids or grade 3 toxicity requiring corticoste- roid treatment for ≥12 weeks.10
+Among the 173 patients with previously treated unre- sectable or metastatic melanoma in KEYNOTE-001, 61% were aged <65 years.10 Most patients were male (60%) and white (97%). All of the patients in the trial had an Eastern Cooperative Oncology Group perfor- mance status of 0 or 1. The patients' disease characteristics included stage M1c (82%), having had ≥2 previous thera- pies for advanced or metastatic disease (73%), elevated lactate dehydrogenase (39%), BRAF V600 mutation (17%), and brain metastases (9%).10
+The ORR associated with 2-mg/kg pembrolizumab was 24% (95% confidence interval, 15%-34%) in pa- tients with unresectable or metastatic melanoma who were previously treated with ipilimumab and, if relevant, a BRAF inhibitor.10
+Of the 21 patients with an objective response to pem- brolizumab, 1 patient achieved a complete response and 20 patients achieved a partial response.10 Of these 21 patients, 3 (14%) patients had disease progressions 2.8 months, 2.9 months, and 8.2 months (respectively) after the initial response to pembrolizumab therapy.
+The remaining 18 (86%) patients had ongoing re- sponses after the initial response to therapy, with response duration ranging from ≥1.4 months to ≥8.5 months; this group included 8 patients with ongoing responses of ≥6 months. Objective responses were observed in patients with and without BRAF V600 mutation melanoma.10
+The ORR associated with 10-mg/kg pembrolizumab was similar (26%) to the ORR with 2-mg/kg pembrolizumab.10,12
+Safety
+The cohort of 89 patients with previously treated un- resectable or metastatic melanoma in KEYNOTE-001 who received pembrolizumab (2 mg/kg) had a median of 9 doses (range, 1-23 doses).10 The median duration of exposure for this cohort was 6.2 months (range, 1 day- 15.3 months). Of these 89 patients, 51% were exposed to
+Vol 8 l Special Feature l March 2015
+www.AHDBonline.com l American Health & Drug Benefits l
+97
+Table
+Adverse Reactions in ≥10% of Patients with Unresectable or Metastatic Melanoma Receiving Pembrolizumab 2 mg/kg
+Pembrolizumab 2 mg/kg every 3 weeks (N = 89)
+All grades, %
+Grade 3,a %
+General disorders and administration site conditions
+Fatigue
+47
+7
+Peripheral edema
+17
+1
+Chills
+14
+0
+Pyrexia
+11
+0
+Gastrointestinal disorders
+Nausea
+30
+0
+Constipation
+21
+0
+Diarrhea
+20
+0
+Vomiting
+16
+0
+Abdominal pain
+12
+0
+Respiratory, thoracic, and mediastinal disorders
+Cough
+30
+1
+Dyspnea
+18
+2
+Skin and subcutaneous tissue disorders
+Pruritus
+30
+0
+Rash
+29
+0
+Vitiligo
+11
+0
+Metabolism and nutrition disorders
+Decreased appetite
+26
+0
+Musculoskeletal and connective tissue disorders
+Arthralgia
+20
+0
+Pain
+in extremity
+18
+1
+Myalgia
+14
+1
+Back
+pain
+12
+1
+Nervous system disorders
+Headache
+16
+0
+Dizziness
+11
+0
+Blood and lymphatic system disorders
+Anemia
+14
+5
+Psychiatric disorders
+Insomnia
+14
+0
+Infections and infestations
+Upper
+respiratory tract infection
+11
+1
+aNo grade 5 adverse reactions were reported. Of the ≥10% adverse reactions, none was grade 4. Source: Keytruda (pembrolizumab) for injection prescribing information; September 2014.
+pembrolizumab for >6 months, and 21% were exposed for >1 year.10 The Table summarizes the adverse reac- tions that occurred in ≥10% of patients in this cohort.
+Among the 411 patients who received pembrolizumab in KEYNOTE-001, serious adverse reactions occurred in 36%. The most common serious adverse drug reactions reported in ≥2% of the 411 patients receiving pembro- lizumab were renal failure, dyspnea, pneumonia, and cellulitis. 10,12
+Pembrolizumab was discontinued because of adverse reactions in 9% of the 411 patients receiving 2-mg/kg or 10-mg/kg doses in KEYNOTE-001. Among the 89 pa- tients with unresectable or metastatic melanoma who received 2 mg/kg of pembrolizumab, the discontinuation rate associated with adverse reactions was 6%.
+The adverse reactions that led to the discontinuation of pembrolizumab included pneumonitis, renal failure, and pain.10
+Pembrolizumab has no contraindications.
+Warnings and Precautions
+Immune-mediated pneumonitis. Pneumonitis oc- curred in 12 of the 411 patients with unresectable or metastatic melanoma who received pembrolizumab in the KEYNOTE-001 trial. The median time to the devel- opment of pneumonitis was 5 months (range, 2 days-9.9 months), and the median duration of pneumonitis was 4.9 months (range, 1 week-14.4 months). In 5 of the 8 patients with grade 2 pneumonitis and 1 patient with grade 3 pneumonitis, initial treatment with high-dose systemic corticosteroids (≥40 mg prednisone or equiva- lent daily) was required and was followed by a corticoste- roid taper. Pembrolizumab was discontinued in 3 patients with pneumonitis. In 7 of the 9 patients with grade 2 or 3 pneumonitis, the condition completely resolved.10
+Patients receiving pembrolizumab should be moni- tored for signs and symptoms of pneumonitis and should undergo radiographic imaging if pneumonitis is suspect- ed. Corticosteroids are appropriate if grade ≥2 pneumo- nitis is detected. Pembrolizumab should be withheld for moderate (grade 2) pneumonitis, and should be perma- nently discontinued for severe (grade 3) or life-threaten- ing (grade 4) pneumonitis.10
+Immune-mediated colitis. Colitis, including micro- scopic colitis, occurred in 4 of the 411 patients in the KEYNOTE-001 trial. Grades 2 and 3 colitis were ob- served in 1 and 2 patients, respectively. The median time to onset of colitis was 6.5 months (range, 2.3-9.8 months). All 3 patients with grade 2 or 3 colitis were treated with high-dose corticosteroids followed by a corticosteroid taper. One patient permanently discontinued pembro- lizumab as a result of colitis. All 4 patients with colitis experienced complete resolution of the condition.10
+March 2015 l Vol 8 l Special Feature
+l American Health & Drug Benefits l www.AHDBonline.com
+98
+Patients receiving pembrolizumab should be moni- tored for signs and symptoms of colitis. Corticosteroids should be used for grade ≥2 colitis. Pembrolizumab should be withheld for moderate (grade 2) or severe (grade 3) colitis, and should be permanently discontin- ued for life-threatening (grade 4) colitis.10
+Immune-mediated hepatitis. In the KEYNOTE-001 trial, hepatitis, including autoimmune hepatitis, occurred in 2 of the 411 patients, including 1 patient with grade 4 hepatitis. The time to onset was 22 days after initiating pembrolizumab for the patient with grade 4 hepatitis. This patient permanently discontinued pembrolizumab and was treated with high-dose systemic corticosteroids fol- lowed by a corticosteroid taper. Both patients with hepa- titis experienced complete resolution of the event.10
+Patients receiving pembrolizumab should be moni- tored for changes in liver function. Corticosteroids should be administered for grade ≥2 hepatitis. Pembro- lizumab should be withheld or discontinued based on the severity of liver enzyme elevations.10
+Immune-mediated hypophysitis. Inflammation of the pituitary gland (hypophysitis) occurred in 2 of the 411 patients in the KEYNOTE-001 trial. One of these events was grade 2 and 1 was grade 4. The time to onset was 1.3 months for the patient with grade 2 hypophysitis and 1.7 months for the patient with grade 4 hypophysitis. Both patients were treated with high-dose corticosteroids fol- lowed by a corticosteroid taper and continued receiving physiologic replacement doses of glucocorticoids.10
+Patients receiving pembrolizumab should be moni- tored for signs of hypophysitis. Corticosteroids should be used for grade ≥2 hypophysitis. Pembrolizumab should be withheld for moderate (grade 2) hypophysitis, withheld or discontinued for severe (grade 3) hypophysitis, and permanently discontinued for life-threatening (grade 4) hypophysitis.10
+Renal failure and immune-mediated nephritis. In the KEYNOTE-001 trial, nephritis occurred in 3 of the 411 patients, including 1 case of grade 2 autoimmune nephritis and 2 cases of interstitial nephritis with renal failure (1 case of grade 3 and 1 case of grade 4). In the patient with autoimmune nephritis, the time to onset was 11.6 months after the first dose of pembrolizumab and 5 months after the last dose. This patient did not undergo a kidney biop- sy. Acute interstitial nephritis was confirmed by biopsy in 2 patients with grade 3 or 4 renal failure.10
+All 3 patients with nephritis fully recovered their kidney function after treatment with high-dose corticosteroids followed by a corticosteroid taper.10
+Patients receiving pembrolizumab should be moni- tored for changes in renal function. Corticosteroids should be administered for grade ≥2 nephritis. Pembro- lizumab should be withheld for moderate (grade 2) ne-
+phritis and should be permanently discontinued for se- vere (grade 3) or life-threatening (grade 4) nephritis.10
+Immune-mediated hyperthyroidism and hypothy- roidism. Hyperthyroidism occurred in 5 of the 411 pa- tients (2 patients with grade 1, 2 with grade 2, and 1 with grade 3) receiving pembrolizumab. The median time to onset was 1.5 months (range, 0.5-2.1 months) after pem- brolizumab initiation, and the median duration was 2.8 months (range, 0.9-6.1 months). One of the 2 patients with grade 2 hyperthyroidism and the patient with grade 3 hyperthyroidism required treatment with high-dose corticosteroids followed by a corticosteroid taper. Only 1 patient permanently discontinued pembrolizumab as a result of hyperthyroidism. Hyperthyroidism resolved completely in all 5 patients.10
+Hypothyroidism occurred in 34 (8.3%) of the 411 patients who received pembrolizumab in the KEY- NOTE-001 trial. The median time to the onset of hypothyroidism was 3.5 months (range, 5 days-19 months). All but 2 patients with hypothyroidism were treated with long-term thyroid hormone replacement therapy. The other 2 patients required short-term thy- roid hormone replacement therapy. None of the patients received corticosteroids or discontinued pembrolizumab secondary to hypothyroidism.10
+Because thyroid disorders can occur at any time during treatment with pembrolizumab, patients should be mon- itored for changes in thyroid function at the initiation of treatment, periodically during treatment, and as indicat- ed based on clinical evaluation.10
+Isolated hypothyroidism can be managed with thyroid hormone replacement therapy without treatment inter- ruption and without corticosteroids. Corticosteroids should be administered for grade ≥3 hyperthyroidism. Pembrolizumab should be withheld for severe (grade 3) hyperthyroidism and should be permanently discontin- ued for life-threatening (grade 4) hyperthyroidism.10
+Other immune-mediated adverse reactions. Other clinically important immune-mediated adverse reactions can occur while patients with unresectable or metastatic melanoma are receiving pembrolizumab.10
+Clinically significant, immune-mediated adverse reac- tions that occurred in <1% of the 411 patients treated with pembrolizumab in the KEYNOTE-001 trial includ- ed exfoliative dermatitis, uveitis, arthritis, myositis, pan- creatitis, hemolytic anemia, partial seizures arising in a patient with inflammatory foci in brain parenchyma, and adrenal insufficiency.10
+In clinical studies of 2000 patients with various diagno- ses who received pembrolizumab, other clinically signifi- cant immune-mediated adverse reactions included myas- thenic syndrome, optic neuritis, and rhabdomyolysis.10
+If an immune-mediated adverse reaction is suspected,
+Vol 8 l Special Feature l March 2015
+www.AHDBonline.com l American Health & Drug Benefits l
+99
+patients receiving pembrolizumab must be evaluated to exclude other causes. Pembrolizumab should be withheld and corticosteroids should be administered based on the severity of the reaction. Upon improvement of the reac- tion to grade ≤1, a corticosteroid taper can be initiated and continued for at least 1 month.10
+Pembrolizumab can be restarted if the adverse reaction remains at grade ≤1. Pembrolizumab should be perma- nently discontinued for any severe or grade 3 im- mune-mediated adverse reaction that recurs and for any life-threatening immune-mediated adverse reaction.10
+Embryofetal toxicity. Pembrolizumab may cause fetal harm when administered to a pregnant woman. If pem- brolizumab is used during pregnancy, or if a patient be- comes pregnant while taking the drug, she should be made aware of the potential hazard to the fetus. Women of childbearing age should use effective contraception during treatment with pembrolizumab and for at least 4 months after the last dose of the drug.10
+Pembrolizumab, the first FDA-approved PD-1 inhibitor, is a safe and effective immunotherapy for patients with unresectable or metastatic melanoma and disease progression after ipilimumab and, if BRAF V600 mutation melanoma, after a BRAF inhibitor.
+Specific Populations
+Pediatric patients. The safety and efficacy of pembro- lizumab in pediatric patients have not been established.10
+Geriatric use. Of the 411 patients with relapsed unre- sectable or metastatic melanoma who received pembro- lizumab, 39% were aged ≥65 years. No meaningful differ- ences in efficacy were observed among the age cohorts.10
+Pregnancy. Pembrolizumab has been assigned pregnan- cy category D. Women should avoid becoming pregnant while being treated with pembrolizumab.10
+Nursing mothers. Nursing should be discontinued during treatment with pembrolizumab.10
+Conclusion
+Pembrolizumab, the first FDA-approved PD-1 in- hibitor, is a safe and effective immunotherapy for pa- tients with unresectable or metastatic melanoma and
+disease progression after ipilimumab and, if BRAF V600 mutation melanoma, after a BRAF inhibitor.
+The FDA approved pembrolizumab under its acceler- ated approval program based on tumor response rate and duration of response data. As a condition of this acceler- ated approval, the FDA required that a multicenter, randomized trial be conducted to establish pembrolizu- mab's survival superiority over standard therapy, and to verify its clinical benefit in patients with metastatic melanoma.8
+The 2 ongoing trials of pembrolizumab, Trial P002 in ipilimumab-refractory patients and Trial P006 in ipilim- umab-naïve patients, are currently investigating the po- tential survival benefit with pembrolizumab in patients with advanced melanoma.
+The safety and efficacy of pembrolizumab are also being evaluated in other solid and liquid tumors, includ- ing advanced non-small-cell lung cancer, renal-cell carcinoma, recurrent head and neck cancer, and multi- ple myeloma.13
+References
+1. Skin Cancer Foundation. Melanoma. www.skincancer.org/skin-cancer-information/ melanoma. Accessed October 17, 2014.
+2. National Cancer Institute. SEER stat fact sheets: melanoma of the skin. http://seer. cancer.gov/statfacts/html/melan.html. Accessed October 17, 2014.
+3. Reed KB, Brewer JD, Lohse CM, et al. Increasing incidence of melanoma among young adults: an epidemiological study in Olmsted County, Minnesota. Mayo Clin Proc. 2012;87:328-334.
+4. Wong JR, Harris JK, Rodriguez-Galindo C, Johnson KJ. Incidence of childhood and adolescent melanoma in the United States: 1973-2009. Pediatrics. 2013;131:846-854. 5. Davis KL, Mitra D, Kotapati S, et al. Direct economic burden of high-risk and metastatic melanoma in the elderly: evidence from the SEER-Medicare linked data- base. Appl Health Econ Health Policy. 2009;7:31-41.
+6. American Cancer Society. Treatment of melanoma skin cancer by stage. Revised September 5, 2014. www.cancer.org/cancer/skincancer-melanoma/detailedguide/ melanoma-skin-cancer-treating-by-stage. Accessed October 17, 2014.
+7. Ott PA, Hodi FS, Robert C. CTLA-4 and PD-1/PD-L1 blockade: new immuno- therapeutic modalities with durable clinical benefit in melanoma patients. Clin Cancer Res. 2013;19:5300-5309.
+8. US Food and Drug Administration. Drugs: pembrolizumab. Updated September 5, 2014. www.fda.gov/Drugs/InformationOnDrugs/ApprovedDrugs/ucm412861.htm. Accessed October 17, 2014.
+9. Loftus P. FDA approves Merck's new-wave cancer drug: new treatment, which costs $150,000 a year, is aimed at bolstering the body's immune system. Wall Street Journal. Updated September 4, 2014. http://online.wsj.com/articles/fda-approves- mercks-cancer-drug-1409856320. Accessed October 17, 2014.
+10. Keytruda (pembrolizumab) for injection [prescribing information]. Whitehouse Station, NJ: Merck Sharp & Dohme Corp; September 2014.
+11. Inman S. FDA approves pembrolizumab for advanced melanoma. OncLive. Sep- tember 4, 2014. www.onclive.com/web-exclusives/FDA-Approves-Pembrolizumab- for-Advanced-Melanoma#sthash.hAnbLPqJ.dpuf. Accessed October 17, 2014.
+12. National Cancer Institute. Melanoma treatment (PDQ®): unresectable stage III, stage IV, and recurrent melanoma treatment. Updated September 19, 2014. www. cancer.gov/cancertopics/pdq/treatment/melanoma/HealthProfessional/Page9# Section_896. Accessed October 20, 2014.
+13. ClinicalTrials.gov. Pembrolizumab. Search results. http://clinicaltrials.gov/ct2/ results?term=pembrolizumab&Search=Search. Accessed October 21, 2014.
+March 2015 l Vol 8 l Special Feature
+l American Health & Drug Benefits l www.AHDBonline.com
+100
+| Table | Adverse Reactions in ≥10% of Patients with Unresectable or Metastatic Melanoma Receiving Pembrolizumab 2 mg/kg | 
+| |  | Pembrolizumab 2 mg/kg every 3 weeks (N = 89) | 
+|All grades, % | Grade 3,a % | 
+|General disorders and administration site conditions | 
+|Fatigue |  |  | 47 | 7 | 
+|Peripheral edema |  | 17 | 1 | 
+|Chills |  |  | 14 | 0 | 
+|Pyrexia |  |  | 11 | 0 | 
+|Gastrointestinal disorders |  |  |  | 
+|Nausea |  |  | 30 | 0 | 
+| | Constipation |  | 21 | 0 | 
+|Diarrhea |  |  | 20 | 0 | 
+|Vomiting |  |  | 16 | 0 | 
+| | Abdominal pain |  | 12 | 0 | 
+|Respiratory, thoracic, and mediastinal disorders |  | 
+|Cough |  |  | 30 | 1 | 
+|Dyspnea |  |  | 18 | 2 | 
+|Skin and subcutaneous tissue disorders |  |  | 
+|Pruritus |  |  | 30 | 0 | 
+|Rash |  |  | 29 | 0 | 
+|Vitiligo |  |  | 11 | 0 | 
+|Metabolism and nutrition disorders |  |  | 
+|Decreased appetite |  | 26 | 0 | 
+|Musculoskeletal and connective tissue disorders |  | 
+| | Arthralgia |  | 20 | 0 | 
+|Pain | in extremity |  | 18 | 1 | 
+|Myalgia |  |  | 14 | 1 | 
+|Back | pain |  | 12 | 1 | 
+|Nervous system disorders |  |  |  | 
+| | Headache |  | 16 | 0 | 
+|Dizziness |  |  | 11 | 0 | 
+|Blood and lymphatic system disorders |  |  | 
+|Anemia |  |  | 14 | 5 | 
+|Psychiatric disorders |  |  |  | 
+|Insomnia |  |  | 14 | 0 | 
+|Infections and infestations |  |  |  | 
+|Upper | respiratory tract infection |  | 11 | 1 | 
+

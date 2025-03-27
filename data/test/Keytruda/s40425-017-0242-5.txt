@@ -1,0 +1,474 @@
+Freshwater et al. Journal for ImmunoTherapy of Cancer (2017) 5:43 DOI 10.1186/s40425-017-0242-5
+Journal for ImmunoTherapy of Cancer
+RESEARCH ARTICLE
+Open Access
+Evaluation of dosing strategy for pembrolizumab for oncology indications
+CrossMark
+Tomoko Freshwater1, Anna Kondic1, Malidi Ahamadi1, Claire H. Li1, Rik de Greef2, Dinesh de Alwis1 and Julie A. Stone1*
+Abstract
+Background: Traditionally, most monoclonal antibodies (mAbs) have been dosed based on body weight because of perceived contribution of body size in pharmacokinetic variability. The same approach was used in the initial pembrolizumab studies; however, following availability of PK data, the need for weight-based dosing for pembrolizumab was reassessed.
+Methods: A previously established population PK (popPK) model as well as exposure-response results from patients with advanced melanoma or non-small cell lung cancer (NSCLC) were used to evaluate the potential application of a fixed dosing regimen with the aim of maintaining pembrolizumab exposures within the range demonstrated to provide near maximal efficacy and acceptable safety. Individual PK exposures for the selected fixed dosing regimen from recently completed trials with head and neck cancer, NSCLC, microsatellite instability high (MSI-H) in colorectal cancer (CRC) and urothelial cancer were used to confirm acceptability. To determine whether fixed dosing would maintain exposures within the range of clinical experience, the individual AUC distributions with fixed dosing were compared with the range of exposures from the pembrolizumab doses that were evaluated in early studies (2 mg/kg Q3W, 10 mg/kg Q3W/Q2W).
+Results: Body-weight dependence of clearance was characterized by a power relationship with an exponent of 0.578, a value consistent with fixed- and weight-based dosing providing similar control of PK variability. A fixed dose of 200 mg Q3W was investigated in trials based on predicted exposures maintained within the established exposure range in all patients. Mean (% CV, n) AUCss, 6-weeks was 1.87 (37%, 830), 1.38 (38%, 760) and 7.63 (35%, 1405) mg*day/ml in patients receiving 200 mg, 2 mg/kg and 10 mg/kg Q3W pembrolizumab. High-weight patients had the lowest exposures with 200 mg Q3W; however, exposures in this group (>90 kg) were within the range of prior clinical experience at 2 mg/kg Q3W associated with near maximal efficacy.
+Conclusions: Doses of 200 mg and 2 mg/kg provide similar exposure distributions with no advantage to either dosing approach with respect to controlling PK variability. These findings suggest that weight-based and fixed-dose regimens are appropriate for pembrolizumab.
+Keywords: Pembrolizumab, Fixed dose, Flat dose, Dosing strategy, Clinical dose, Exposure-response analysis, Population pharmacokinetics analysis
+* Correspondence: julie_stone@merck.com
+1Department of Pharmacokinetics, Pharmacodynamics and Drug Metabolism, Merck & Co., Inc., 2000 Galloping Hill Road, Kenilworth, NJ, USA Full list of author information is available at the end of the article
+BioMed Central
+@ The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Page 2 of 9
+Freshwater et al. Journal for ImmunoTherapy of Cancer (2017) 5:43
+Background
+Dosing of therapeutic monoclonal antibodies (mAbs) is often based on body size, operating from the perception that this reduces intersubject variability in drug exposure [1]. However, because of the specific properties of mAbs (selective mode of action, with substantial therapeutic window) and the advantages of fixed dosing (increased convenience, elimination of wastage, improved safety resulting from a reduced chance for dosing errors, and improved compliance), the weight-based dosing para- digm has recently been re-evaluated [1-3].
+Pembrolizumab (Keytruda, Merck & Co., Inc., Kenilworth, NJ, USA) is a potent, humanized IgG4 monoclonal antibody against programmed death 1 (PD-1) receptor that directly blocks the interaction between PD-1 and its ligands, PD-L1 and PD-L2. Pembrolizumab has demonstrated robust, dur- able antitumor activity and a manageable safety profile against several advanced malignancies. Early clinical studies of pembrolizumab employed a body-weight-based dosing strategy of 2 mg/kg every 3 weeks (Q3W) to 10 mg/kg every 2 weeks (Q2W), but in more recent trials a fixed-dose regimen (fixed with respect to body weight) has been intro- duced. In this paper, the analyses used to evaluate weight- based vs fixed dosing for pembrolizumab are described and the basis for the decision to switch to fixed-dose regimens in clinical trials is discussed. Results from clinical investiga- tions of 200 mg Q3W are provided as confirming the result- ing exposures of the selected fixed dose.
+The assessment of the potential to apply a fixed-dose regimen for pembrolizumab used a previously estab- lished population pharmacokinetics (popPK) model [4] and therapeutic window information derived from dose- response and exposure-response results in patients with advanced melanoma or non-small cell lung cancer (NSCLC) enrolled in KEYNOTE-001 [5], KEYNOTE- 002 [6], and KEYNOTE-006 [7]. The mechanism of action of pembrolizumab, binding to PD-1 receptors on T cells, does not depend on direct engagement of the molecule with tumor cells. For this reason, sub- stantial differences in exposure-response and dose- response are not expected across different tumor types. Indeed, it has been found that the pharmaco- kinetics (PK) of pembrolizumab are similar across on- cology indications [4]. On this basis, selection of a fixed-dose regimen focused on establishing a dose that would provide comparable (central tendency and distribution) exposures as the 2 mg/kg Q3W regimen approved in the United States for melanoma and NSCLC. The fixed dose selected also aimed to main- tain exposures within the existing clinical experience range that has been established for melanoma and NSCLC and which has been associated with a lack of clinically important differences in efficacy or safety (Fig. 1).
+Methods
+Clinical studies
+Data to inform the fixed-dose evaluations were based on cross-study pooling from a number of ongoing and com- pleted pembrolizumab clinical trials (Table 1). Further description of the trials are in Additional file 1: Table S1 including protocol numbers, title of the protocols and ClinicalTrials.gov identifier, with references to the pub- lished primary clinical results paper provided where available. These studies were conducted in accordance with the protocol, good clinical practice standards and the Declaration of Helsinki. The protocols and subse- quent amendments were approved by the appropriate institutional review board (IRB) or ethics committee at each participating institution. All patients provided vol- untary written informed consent.
+The patients were treated with pembrolizumab in a dose range of 1-10 mg/kg administered as intravenous infusion, with the vast majority of the data collected under 4 dosing regimens (2 mg/kg Q3W, 10 mg/kg Q3W, 10 mg/kg Q2W, and 200 mg Q3W) as detailed in Table 1. Data used in this analysis included baseline pa- tient characteristics (demographic factors, measure of renal and hepatic function, and measures of disease se- verity) and serum concentrations collected from these studies. Most pembrolizumab trials did not collect in- tensive (serial time-course) PK samples, which would allow for model-independent determination of PK parameter values such as area-under-the-curve (AUC)
+30000
+20000
+Pembrolizumab AUC
+10000 -
+(mcg*day/mL)
+7000
+5000
+3000
+2000
+1000-
+700
+500
+300
+2 mg/kg
+10 mg/kg
+10 mg/kg
+154 mg
+200 mg
+Q3W
+Q3W
+Q2W
+Q3W
+Q3W
+Fig. 1 Simulated distribution of steady-state AUC exposures (2800 replicate simulations) for the weight-based regimens of 2 mg/kg Q3W, 10 mg/kg Q3W, and 10 mg/kg Q2W compared with the simulated distribution of exposures for two potential fixed-dose regimens (log scale): Box: straight middle line = median; edges = 25th and 75th percentiles; whiskers = 10th and 90th percentiles; dots = 5th and 95th percentiles. Horizontal dashed lines represent the range of exposures (5th percentile of 2 mg/kg Q3W and 95th percentile of 10 mg/kg Q2W) from dose regimens demonstrated to have comparable efficacy and tolerability in melanoma and NSCLC trials
+Page 3 of 9
+Freshwater et al. Journal for ImmunoTherapy of Cancer (2017) 5:43
+Table 1 Number of patients with observed PK concentration data used in the analysis by study, cancer type and dosing regimen
+Study
+Cancer Type
+2 mg/kg Q3W
+10 mg/kg Q3W
+10 mg/kg Q2W
+200 mg Q3W
+KEYNOTE-001
+Melanoma
+165
+309
+176
+KEYNOTE-001
+NSCLC
+61
+288
+204
+KEYNOTE-002
+Melanoma
+207
+212
+KEYNOTE-006
+Melanoma
+270
+272
+KEYNOTE-010
+NSCLC
+327
+326
+KEYNOTE-024
+NSCLC
+152
+KEYNOTE-045
+Urothelial Cancer
+262
+KEYNOTE-052
+Urothelial Cancer
+311
+KEYNOTE-055
+HNSCC
+47
+KEYNOTE-164
+MSI-H
+58
+There are patients with missing indication for N = 24 from KEYNOTE-001, 002 and 006 NSCLC Non-Small Cell Lung Cancer, HNSCC Head and Neck Squamous Cell Carcinoma, MSI-H Microsatellite Instability-High Carcinoma
+on a given study day. Rather sparse PK samples (1 or 2 samples per designated clinic visit) have been collected to minimize the burden on patients. The available concentration data were obtained either at peak (nominally within 30 min after end of infusion) or trough (nominally within 24 h before the next dose) samples and were obtained during pre-specified dosing cycles throughout the pembrolizumab treat- ment. Actual time of dosing and PK sampling were collected and used in the analyses. PK samples for pembrolizumab serum concentration determination were assayed using previously reported methods [4].
+Pharmacokinetics analysis
+PopPK analysis was used to estimate PK parameters and exposures from observed sparse concentration data and to simulate PK under potential fixed dosing regimens, which informed the fixed dose selected for investigation in the trials. PopPK is a model-based ap- proach to describe the time course of drug exposure across individuals in a population by estimation of both population-level typical PK values (eg, clearance, volume of distribution) and explicit terms to describe variability, including inter-subject variability, under- lying the distribution of responses. It is the preferred method for interpreting sparse PK concentration data [8, 9].
+A two-compartment pembrolizumab popPK model was used that was previously established based on data from KEYNOTE-001, -002 and -006 and is described in detail in [4]. The relationships between PK parameters (clearance [CL] and volume of distribution [Vc]) and body weight were estimated by the incorporation of an allometric exponential relationship with body-weight in the terms for these parameters:
+CL = CLTV. Median(WT) WT a-CL
+·eni (1)
+Vc = VCTV. Median(WT) WT a-Vc ·e1/2 (2)
+where XTv is the typical value of the pharmacokinetic parameter X, and x-X is the allometric exponent de- scribing the association with WT (individual body weight) normalized by MedianWT. The terms e" de- scribed further inter-individual variation in these PK parameters beyond that accounted for by WT. Two additional parameters (Q and Vp) described the distri- bution behavior of pembrolizumab and were also adjusted for WT, using the same values for the expo- nents as for CL and Vc, respectively. Covariate terms describing other factor associations were retained in the popPK model as identified in [4], and included sex, baseline estimated glomerular filtration rate (eGFR), baseline albumin, prior treatment with ipili- mumab, cancer type, baseline Eastern Cooperative Oncology Group (ECOG) performance status, and baseline tumor burden (sum of longest dimensions of target lesions).
+PK Estimation: The popPK model was re-estimated by fitting the previous dataset with the new KEYNOTE-10, KEYNOTE-055, KEYNOTE-024, KEYNOTE-164, KEYNOTE-045 and KEYNOTE-052 concentration data added to obtain individual post-hoc PK parameter esti- mates from which individual PK values were derived for AUC at steady state, over 6 weeks (AUCss, 0-6weeks), steady-state peak serum concentration (Cmax, ss) and steady-state trough serum concentration (Ctrough, ss). AUCss, 0-6weeks was calculated as:
+Page 4 of 9
+Freshwater et al. Journal for ImmunoTherapy of Cancer (2017) 5:43
+AUC= Actual dose (mg) * X dosing interval (weeks) 6(weeks)
+Clearance day L
+(3)
+Cmax, ss and Ctrough, ss were determined from the concentration-time profile using each individual's post- hoc estimated pharmacokinetic parameters. Summary statistics (mean, %CV, median, 10-90 percentiles) were determined by using R version 3.2.5 (Free Software Foundation, Boston, MA).
+PK Simulation: To predict pembrolizumab PK under untested dosing regimens, virtual oncology patients were created by randomly drawing covariate values (body weight, albumin, bilirubin, baseline tumor burden, esti- mated glomerular filtration rate, sex, tumor type, base- line ECOG performance status, ipilimumab history) with replacement from the pooled baseline covariate data from available pembrolizumab studies (n = 3038 from KEYNOTE-001, -002, -006, -010, -011, -012, -025, -041 and -055) (Additional file 1: Table S1) to enable the simulation of exposures using the popPK model (2800 virtual patients simulated per each dosing group). Inter- subject variability terms in the model were sampled from the established distributions, which together with fixed parameters (typical values and covariate relationships) de- termined parameter values (eg, CL, Vc) for each virtual pa- tient, which were in turn used to determine PK values (AUCss) 0-6weeks, Cmax, ss, Ctrough, ss) as described above. Graphical plots were generated using R version 3.2.5 (Free Software Foundation, Boston, MA) and SigmaPlot 11.0 (Systat Software Inc., San Jose, CA).
+Drug product wastage calculation
+To quantify the impact of a fixed-dosing regimen on drug product usage, the amount of remaining pembrolizumab product per single drug administration at 2 mg/kg Q3W using currently available 50- or 100-mg vials was calcu- lated. First, the weight distribution in a typical oncology population was generated for 1000 subjects at random from the observed weight distribution in the popPK data- set (3.7% of ≤50 kg, 31.9% of >50-≤70 kg, 39.4% of >70-≤ 90 kg, 22.3% of >90-≤ 120 kg and 2.7% of >120 kg: Additional file 2: Table S2). The total amount of dose in mg for each subject was derived as the product of 2 mg/kg and body weight. Based on the total dose amount, the number of vials required was determined based on 50-mg or 100-mg vials available. The amount of remaining product for each subject per 2 mg/kg adminis- tration was calculated by the difference in the total amount available in the required vials and the total amount needed to dose at 2 mg/kg. Individual subject results were binned into 5 groups (0-10 mg, 10-20 mg, 20-30 mg, 30-40 mg, 40-50 mg for 50-mg vial, and
+0-20 mg, 20-40 mg, 40-60 mg, 60-80 mg, 80- 100 mg for 100-mg vial). Additionally, the overall amount of remaining drug product resulting from a full treatment course in these 1000 subjects was esti- mated by summing the product of the individual esti- mates for remaining product per dosing event and the typical number of doses received in a treatment course given the average pembrolizumab treatment duration of 6.2 months (~8 doses) (based on experi- ence in early melanoma trials as described in label is- sued in September 2014).
+Results PopPK model and effect of body weight
+Body weight is a known factor in drug exposure of thera- peutic antibodies and therefore the weight-dependency of the PK properties was robustly evaluated in the popPK modeling efforts. The dataset used in a previously re- ported popPK analysis included 1622 patients (73.9%) with advanced melanoma, 551 patients (25.1%) with advanced NSCLC, and 22 patients (1.0%) with other advanced malignancies [4] from KEYNOTE-001, -002 and -006. The analysis population encompassed a wide distri- bution of body weight, with a median of 77.2 kg and a range of 35.7-209.5 kg. Estimates (90% confidence inter- vals [CI]) of the relationship between clearance and body weight based on the popPK model revealed an allometric exponent (a) of 0.578 (95% CI, 0.481-0.666) for the clear- ance parameters and 0.492 (95% CI, 0.432-0.553) for the volumes of distribution. Theoretically, fixed dosing would work the best when CL is not affected by body weight (x = 0) and body-weight-based dosing would work the best when a equals to 1 [1-3]. Given that a estimates were close to 0.5 for both clearance and volume of distribution, no advantage of weight-based dosing over fixed dosing is expected, and both weight-based and fixed dosing should provide adequate and similar control of PK variability.
+Simulation results informing selection of 200 mg Q3W as fixed dose for investigation in trials
+The expected distributions of pembrolizumab exposures from potential fixed doses administered Q3W were sim- ulated using the popPK model and compared with the distributions expected from the weight-based dosing reg- imens (2 mg/kg Q3W, 10 mg/kg Q3W, and 10 mg/kg Q2W) studied in the melanoma and NSCLC trials that supported the current US registrations. The distribution of exposures from these weight-based regimens repre- sents the range of clinical experience to date, where the safety profile, overall response rate and survival out- comes have been found to be similar across the tested dosing regimens in the melanoma and NSCLC trials [5-7, 10, 11], and a flat exposure-response relationship
+Page 5 of 9
+Freshwater et al. Journal for ImmunoTherapy of Cancer (2017) 5:43
+was identified across these three regimens in evaluations of tumor size response [12, 13] and immune-related ad- verse events [6, 7]. Based on this flat dose- and exposure- response relationship, 2 mg/kg Q3W regimen was initially approved in the United States for melanoma and NSCLC as a dosing regimen which achieves clinically meaningful efficacy with limited additional clinical benefit at higher dose levels. Figure 1 displays the distribution of steady- state AUC exposures predicted by the popPK model. The AUC values are displayed on a log scale, allowing for ready comparison of the relative PK variability with weight- based versus fixed dosing. As expected based on the allo- metric exponent values discussed above, the PK variability from weight-based and fixed-dose regimens is nearly iden- tical. A fixed dosage of 154 mg Q3W was identified as providing almost identical steady-state AUC exposure as a weight-based dosage of 2 mg/kg Q3W. The distribution of exposures from 200 mg Q3W substantially overlaps that obtained with the 2 mg/kg Q3W dose and is well within the exposure range associated with maximal clinical re- sponse and acceptable tolerability in melanoma and NSCLC.
+The predicted variation in pembrolizumab AUC ex- posure with patient body weight for the 2 mg/kg Q3W and 200 mg Q3W regimens is shown in Fig. 2. For the weight-based regimen, lower-weight patients tend to have lower exposures relative to higher-weight patients, while the opposite trend is seen with fixed dosing. For both regimens, the range of individual exposures for the low-weight patients considerably overlaps that for the high-weight patients, consistent with PK variability being only partially explained by weight. The overall extent of PK variability appears similar for both regimens. The 200 mg Q3W regimen was selected for investigation in the clinical trials based on the similarity of the exposures to 2 mg/kg with a slight upward shift to ensure individ- ual patient exposures, especially in patients with a higher weight, fall within the range of prior clinical experience.
+Of note, with the 200 mg Q3W regimen, very few simulated individual patients fell below the fifth per- centile of exposures from the approved 2 mg/kg Q3W regimen. Both regimens were predicted to yield a range of exposures that falls well below the highest exposure for which acceptable tolerability has been demonstrated.
+Observed 200 mg Q3W fixed-dose exposures
+Observed PK data for 200 mg Q3W fixed dosing from patients with head and neck cancer, NSCLC, MSI-H in CRC and urothelial cancer treated with pembrolizumab in KEYNOTE-055, -024, -164, -52 and -045, respectively, confirm the exposure predicted for this regimen based on the popPK model. The observed concentration data from 200 mg Q3W are consistent with the model- predicted time course of concentration over the dosing interval both early in therapy and after PK steady-state is achieved (Fig. 3). Figure 3 also illustrates that the shape of the PK concentration-time profile with the fixed-dose regimen is similar to that obtained with the 2 mg/kg regimen in the earlier trials. The AUC expo- sures obtained in the 200 mg Q3W trials also indicate a good match of observed and predicted PK, with the dis- tribution of observed exposures falling within the range of previous clinical experience derived from the weight- based regimens (Fig. 4a). In this analysis, PK data were obtained in patients with several cancer types not previ- ously described. Clearance values across all cancer types were not meaningfully different (Fig. 5), supporting the consistency of pembrolizumab PK across cancer types.
+Summary statistics for the observed pembrolizumab exposures across the 4 dosing regimens (Table 2) indi- cate that the central tendency (mean, median) at 200 mg Q3W is modestly increased (~35%) relative to 2 mg/kg Q3W for all PK measures (AUCss, 0-6weeks, Cmax, ss and Ctrough, ss), while these values are ~25% of those obtained at 10 mg/kg Q3W. Intersubject variation (% CV) is
+a
+2 mg/kg Q3W Weight-based Dose Regimen
+b
+200 mg Q3W Fixed Dose Regimen
+30000
+20000
+Pembrolizumab AUC
+(mcg*day/mL)
+10000
+7000
+5000
+3000
+2000
+1000
+700
+500
+300
+30
+40
+50 60 70 80 90100
+200
+30
+40
+50
+60 70 80 90100
+200
+Body Weight (kg)
+Body Weight (kg)
+Fig. 2 Predicted variation in pembrolizumab AUC exposure by body weight for weight-based (a) and fixed-dose (b) regimens (2800 replicate simulations): Horizontal dashed lines represent the range of exposures (5th percentile of 2 mg/kg Q3W and 95th percentile of 10 mg/kg Q2W) from dose regimens demonstrated to have comparable efficacy and tolerability in melanoma and NSCLC trials
+Page 6 of 9
+Freshwater et al. Journal for ImmunoTherapy of Cancer (2017) 5:43
+First Dose 2 mg/kg
+Steady-State 2 mg/kg
+2 mg/kg Q3W
+2 mpk Q3W
+Log pembrolizumab Serum Concentration ug/mL
+6
+Log pembrolizumab Serum Concentration ug/mL
+6
+4
+4
+..
+. ..
+2
+2
+0
+0
+5
+10
+15
+20
+0
+5
+Time since last dose (day)
+10
+15
+20
+Time since first dose (day)
+First Dose 200 mg
+Steady-State 200 mg
+KEYNOTE . 024 . 045 . 052 . 055 . 164
+KEYNOTE . 024 . 045 . 052 . 055 . 164
+200 mg Q3W
+200 mg Q3W
+Log pembrolizumab Serum Concentration ug/mL
+6
+Log pembrolizumab Serum Concentration ug/mL
+4
+4
+2
+2
+0
+0
+0
+5
+10
+15
+20
+Time since first dose (day)
+0
+5
+10
+15
+20
+Time since last dose (day)
+Fig. 3 Consistency of observed concentrations in patients with predictions based on population PK model: Pembrolizumab concentration-time profiles during the first dose (left panels) and at steady state (right panels) of repeated dosing at 2 mg/kg Q3W (top panels) and 200 mg Q3W (bottom panels). Solid markers represent observed pembrolizumab serum concentrations. Solid line represents median predicted concentration time profile, based on the population PK model. Shaded areas represent 90% prediction interval for the prediction
+a
+30000
+b
+30000
+20000
+:selected: .
+20000
+Pembrolizumab AUC
+:selected:
+Pembrolizumab AUC
+10000
+:selected:
+(mcg*day/mL)
+:unselected:
+10000
+N=66
+7000
+MSI-H
+(mcg*day/mL)
+7000
+N=58
+N=641
+5000
+NSCLC
+N=152
+UC2
+MEL
+N=448
+5000
+N=164
+HNSCC
+UC1 N=262
+NSCLC
+N=560
+N=123
+3000
+MEL NSCLC
+N=311
+N=372 N=388
+.
+N=47
+MEL
+N=204
+3000
+:selected:
+:selected:
+N=791
+N=36
+-
+2000
+NSCLC
+2000
+N=614
+1000
+1000
+700
+700
+500
+500
+300
+300
+2 mg/kg Q3W
+200 mg Q3W
+10 mg/kg Q3W
+10 mg/kg Q2W
+≤ 50kg
+Middle BW
+≥90kg
+≤ 50kg Middle BW
+≥ 90kg
+2 mg/kg Q3W
+200 mg Q3W
+Fig. 4 Distribution of observed pembrolizumab AUCss, 0-6weeks: Panel a - Consistency with model predictions (Simulated values shown in gray and observed values in white). Panel b - Variation in exposures with body weight under weight-based versus fixed dosing. Box: straight middle line = median; edges = 25th and 75th percentiles; whiskers = 10th and 90th percentiles; dots =5th and 95th percentiles. Horizontal dashed lines ( ---- ) represent the range of exposures (5th percentile of 2 mg/kg Q3W and 95th percentile of 10 mg/kg Q2W) from dose regimens demonstrated to have comparable efficacy and tolerability in melanoma and previously treated NSCLC trials. Observed data are based on Table 1. In Panel B, distribution of observed AUCss, 0-6weeks for light (≤50 kg), middle (between 50 and 90 kg) and heavy (≥90 kg) body-weight patients
+Page 7 of 9
+Freshwater et al. Journal for ImmunoTherapy of Cancer (2017) 5:43
+0.5
+N=1612 N=1359 N=22
+N=47
+N=58
+N=573
+Clearance (L/day)
+0.4
+0.3
+0.2
+0.1-
+Melanoma NSCLC Other
+HNSCC
+MSIH
+UC
+Fig. 5 Consistency of pembrolizumab clearance in patients with differing cancer: melanoma from KEYNOTE-001, -002 and -006. NSCLC from KEYNOTE-001, -010 and -024. Other (other cancers) from KEYNOTE-001 in initial cohort. HNSCC (head and neck trial) from KEYNOTE-055. MSIH (MSI-H in CRC) from KEYNOTE-164. UC (urothelial cancer trial) from KEYNOTE-045 and -052
+similar for all regimens and the 10-90% percentiles are largely overlapping for 2 mg/kg and 200 mg Q3W. The distribution of observed exposures with the 2 mg/kg and 200 mg Q3W regimens were compared among three weight-based subpopulations: light (body weight ≤50 kg), middle (body weight between 50 and 90 kg) and heavy (body weight ≥90 kg) to investigate the influence of extreme body weights on exposures (Fig. 4b). The distribution of body weights in the pa- tients studied under these two regimens was similar (Additional file 3: Figure S1). The influence of body weight trended as predicted in the simulations. Although heavier patients had lower exposures with the 200 mg fixed dose, the distribution of exposures obtained in these patients was contained within the range of exposures from the prior clinical experience.
+Discarded amount with weight-based dosing
+The amount of remaining pembrolizumab product from administration of a 2 mg/kg weight-based dose using 50- or 100-mg vials was estimated based on the distribution of body weight in the analysis dataset (Additional file 4: Table S3). On average, 27 and 56 mg per patient per ad- ministration would remain when using 50- and 100-mg vials, respectively. Given that the average pembrolizu- mab treatment duration was 6.2 months (approximately eight doses) in patients with melanoma treated in KEYNOTE-001, approximately 220 g or 450 g pembroli- zumab would be remaining for every 1000 patients treated using the weight-based dosing with the 50- or 100-mg vials, respectively. By contrast, no remaining product is expected at 200-mg fixed dosing using 50- or 100-mg vials.
+Discussion
+The evaluations and illustrations provided in this paper provide an example that for mAbs, there is no set an- swer as to whether weight-based or fixed-dose strategies are better. Therefore, the appropriate dosing strategy should be evaluated based on the PK properties of the given mAb. It was demonstrated in this paper that both weight-based and fixed dosing are appropriate for pem- brolizumab, with neither regimen providing a PK advan- tage over the other. Although there is no PK advantage for either regimen, fixed dosing would eliminate the waste generated by weight-based dosing, improve com- pliance and might also reduce the risk of dosing errors by reducing dosing complexity.
+Pembrolizumab is currently available in 50- or 100-mg vials. When using a weight-based dosing regimen, the contents of the final vial are generally incompletely
+Table 2 Pharmacokinetics of pembrolizumab at steady state of regimens of 2 mg/kg Q3W, 200 mg Q3W, 10 mg/kg Q3W and 10 mg/kg Q2W. Based on pooled cross-study data [n, Mean (%CV), Median (10-90 percentile)]
+PK Value (unit)
+Dose Regimen
+N
+Mean (%CV)
+Median
+10-90 Percentile
+Cmax (mcg/mL)
+2 mg/kg Q3W
+755
+68.0 (24%)
+66.3
+48.3-88.2
+200 mg Q3W
+830
+93.4 (26%)
+89.1
+66.4-124.3
+10 mg/kg Q3W
+1403
+360.3 (23%)
+357.6
+257.7-466.8
+10 mg/kg Q2W
+652
+459.3 (25%)
+457.7
+315.9-599.9
+Ctrough (mcg/mL)
+2 mg/kg Q3W
+755
+22.2 (48%)
+21.1
+9.18-35.7
+200 mg Q3W
+830
+29.7 (47%)
+27.6
+14.9-46.2
+10 mg/kg Q3W
+140
+126.4 (44%)
+120.4
+59.8-200.2
+10 mg/kg Q2W
+652
+220.9 (39%)
+217.8
+111.8-325.3
+AUCss, 0-6-weeks (mcg*day/mL)
+2 mg/kg Q3W
+760
+1376.5 (38%)
+1316.5
+724.9-2038.5
+200 mg Q3W
+830
+1871.1 (37%)
+1787.0
+1120.6-2730.9
+10 mg/kg Q3W
+1405
+7625.4 (35%)
+7436.0
+4354.0-11172.8
+10 mg/kg Q2W
+652
+12002.7 (34%)
+11993.5
+6834.7-16895.5
+Page 8 of 9
+Freshwater et al. Journal for ImmunoTherapy of Cancer (2017) 5:43
+administered, and the remaining drug product is dis- carded as per labeling instructions. In practice it might potentially be used for another patient, raising quality concerns and, consequently, potential safety concerns as it represents a source of infection when it is used in- appropriately outside of the clinical trial setting. Centers for Disease Control and Prevention (CDC) reported sev- eral instances including mishandling of injectable medi- cations such as reuse of single-dose vials for more than one patient. From 2010-2014, CDC is aware of at least 26 outbreaks due to unsafe injection practices. These outbreaks resulted in more than 95,000 patients being referred for testing after potential exposure to infectious diseases. 73% (n = 19) of these outbreaks involved use of single-dose/single-use medications for more than one patient [14, 15].
+The results presented in this paper demonstrate that fixed dosing of pembrolizumab 200 mg Q3W maintains exposures comparable with or slightly increased relative to those from 2 mg/kg Q3W (the initially approved dose for pembrolizumab). All patients, including high-weight patients, achieve exposures in the range which has been demonstrated in clinical dose-ranging trials to provide near maximal efficacy. Exposures achieved by 200 mg Q3W also fall well below the high dose clinical experience at 10 mg/kg for which acceptable tolerability has been demonstrated. Exposures which match or exceed those at 2 mg/kg also ensure that maximal target engagement is achieved as informed by early PK/PD work with a clinical biomarker (IL-2 release) in KEYNOTE-001 which demon- strated saturation of response at 1 mg/kg [16, 17]. The es- timated median clearance of pembrolizumab in the patients receiving 200 mg Q3W was 0.22 L/day, which is similar to the 0.23 L/day obtained in patients receiving 2 mg/kg Q3W as well as the clearance of endogenous IgG (0.21 L/day) and consistent with linear clearance charac- teristics of typical mAbs (0.2-0.5 L/day) [18, 19]. The consistency of PK across cancer types supports the use 200 mg in Q3W in various cancer types.
+Recently, 200 mg Q3W was approved for use in pa- tients with NSCLC [20] and HNSCC [21-23] in the United States, and clinical results show similar efficacy and safety in these indications among doses (2 mg/kg Q3W,200 mg Q3W, 10 mg/kg Q3W/Q2W) in the trials supporting these indications.
+Conclusions
+In conclusion, the 200 mg Q3W fixed dosage can be considered an appropriate fixed-dose regimen for pem- brolizumab based on the achievement of exposures well within the prior clinical experience demonstrated to be associated with near maximal efficacy and acceptable tolerability. The 200 mg Q3W dose of pembrolizumab, which continues to be investigated in trials for various
+oncology indications, may also be an appropriate alter- native for patients currently being treated with the ap- proved 2 mg/kg Q3W dose.
+Additional files
+Additional file 1:Table S1. Description of clinical trials used in analyses [24]. (DOCX 13 kb)
+Additional file 2: Table S2. Body weight distribution in the population PK analysis dataset (N = 2195; KEYNOTE-001 + KEYNOTE-002 + KEYNOTE-006). (DOCX 12 kb)
+Additional file 3: Figure S1. Observed body weight distribution for 2 mg/kg Q3W and 200 mg Q3W. Observed weight distribution of total N = 1591 (N = 760 who received 2 mg/kg Q3W and N = 830 who received 200 mg Q3W). KEYNOTE-001, -002, -010 at 2 mg/kg Q3W, -024, -052, -055, -045 and -164 at 200 mg Q3W (KEYNOTE-006 contains only 10 mg/kg). Median weights: 74.0 kg for 2 mg/kg Q3W (solid red line) and 71.8 kg for 200 mg Q3W (solid blue line). Black dot lines: 50 kg and 90 kg. (PNG 6 kb)
+Additional file 4: Table S3. Distribution of patients as a function of amount (mg) remaining product per one administration at 2 mg/kg using 50-mg or 100-mg vial. The amount of remaining product was cate- gorized into 5 groups (0-10 mg, 10-20 mg, 20-30 mg, 30-40 mg, 40- 50 mg for 50-mg vial, and 0-20 mg, 20-40 mg, 40-60 mg, 60-80 mg, 80-100 mg for 100-mg vial) and the distribution of patients by these cat- egories and the total amount of remaining drug product associated with weight-based dosing. Approximately 20% of the population would fall in each category. (DOCX 13 kb)
+Abbreviations
+%CV: Coefficient of variation of between-subject variability of parameters; a: Allometric exponent; AUC: Area-under-the-curve; AUCSS: 0-6-weeks, Area under the concentration-time curve at steady state over a 6-week interval; CDC: Centers for Disease Control and Prevention; CI: Confidence interval; CL: Clearance; Cmax, ss: Steady-state maximum observed serum concentration; CRC: Colorectal cancer; Ctrough, ss: Steady-state concentration at the end of the dosing interval; EGFR: Epidermal growth factor receptor; eGFR: Estimated glomerular filtration rate; HNSCC: Head and neck squamous cell carcinoma; IgG: Immunoglobulin G; IL-2: Interleukin-2; IRB: Institutional review board; mAbs: Monoclonal antibodies; MEL: Melanoma; MSI-H: Microsatellite Instability High; N: Number; NSCLC: Non-small cell lung cancer; PD- 1: Programmed death 1; PD-L1: Programmed death ligand 1; PK: Pharmacokinetics; popPK: Population pharmacokinetic;
+Q: Intercompartmental clearance; Q2W: Every 2 weeks; Q3W: Every 3 weeks; UC: Urothelial cancer; Vc: Central volume of distribution; Vp: Peripheral volume of distribution
+Acknowledgements
+We thank Marie-Jose van Lierop, Mariëlle van Zutphen-van Geffen, Jeroen Elassaiss-Schaap, Kapil Mayawala, Manash Chatterjee and David C. Turner for critical review and support of the manuscript. Editorial support in the preparation of this manuscript was provided by Chris Ontiveros, PhD (ApotheCom, New York, NY), and was funded by Merck & Co., Inc. (Kenilworth, NJ, USA).
+Funding
+Financial support for all of the trials discussed in this manuscript was provided by Merck & Co., Inc. (Kenilworth, NJ, USA).
+Availability of data and materials
+The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.
+Authors' contributions
+TF: Conception, design or planning of the study, acquisition and analysis of the data, interpretation of the results and drafting of the manuscript. AK: Analysis of the data, interpretation of the results and drafting of the manuscript. MA: Analysis of the data and interpretation of the results. CHL: Interpretation of the results. RdeG: Analysis of the data and interpretation of
+Page 9 of 9
+Freshwater et al. Journal for ImmunoTherapy of Cancer (2017) 5:43
+the results. DdeA: Interpretation of the results. JAS: Conception, design or planning of the study, analysis of the data and interpretation of the results. All authors critically reviewed iterations of the manuscript and approved the final draft for submission.
+Competing interests Not applicable.
+Consent for publication Not applicable.
+Ethics approval and consent to participate Not applicable.
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Author details
+Department of Pharmacokinetics, Pharmacodynamics and Drug Metabolism, Merck & Co., Inc., 2000 Galloping Hill Road, Kenilworth, NJ, USA. 2Quantitative Solutions, a Certara Company, Kloosterstraat 9, Oss, The Netherlands.
+Received: 15 September 2016 Accepted: 26 April 2017 Published online: 16 May 2017
+References
+1. Bai S, Jorga K, Xin Y, Jin D, Zheng Y, Damico-Beyer LA, et al. A guide to rational dosing of monoclonal antibodies. Clin Pharmacokinet. 2012;51(2): 119-35.
+2. Wang DD, Zhang S, Zhao H, Men AY, Parivar K. Fixed dosing versus body size-based dosing of monoclonal antibodies in adult clinical trials. J Clin Pharmacol. 2009;49(9):1012-24.
+3. Zhang S, Shi R, Li C, Parivar K, Wang DD. Fixed dosing versus body size- based dosing of therapeutic peptides and proteins in adults. J Clin Pharmacol. 2012;52(1):18-28.
+4. Ahamadi M, Freshwater T, Prohn M, Li CH, De Alwis DP, De Greef R, et al. Model-based characterization of the pharmacokinetics of pembrolizumab, a humanized anti-Pd-1 monoclonal antibody, in advanced solid tumors. CPT Pharmacometrics Syst Pharmacol. 2017;6(1):49-57. doi:10.1002/Psp4.12139. Epub 2016 Nov 14.
+5. Ribas A, Hamid O, Daud A, Hodi FS, Wolchok JD, Kefford R, et al. Association of pembrolizumab with tumor response and survival among patients with advanced melanoma. JAMA. 2016;315(15):1600-9.
+6. Ribas A, Puzanov I, Dummer R, Schadendorf D, Hamid O, Robert C, et al. Pembrolizumab versus investigator-choice chemotherapy for ipilimumab- refractory melanoma (KEYNOTE-002): a randomised, controlled, phase 2 trial. Lancet Oncol. 2015;16(8):908-18.
+7. Robert C, Schachter J, Long GV, Arance A, Grob JJ, Mortier L, et al. Pembrolizumab versus ipilimumab in advanced melanoma. N Engl J Med. 2015;372(26):2521-32.
+8. Sheiner LB. The population approach to pharmacokinetic data analysis: rationale and standard data analysis methods. Drug Metab Rev. 1984;15:153-71.
+9. Duffull SB, Wright DF, Winter HR. Interpreting population pharmacokinetic- pharmacodynamic analyses - a clinical viewpoint. Br J Clin Pharmacol. 2011;71(6):807-14.
+10. Garon EB, Rizvi NA, Hui R, Leighl N, Balmanoukian AS, Eder JP, et al. Pembrolizumab for the treatment of non-small-cell lung cancer. N Engl J Med. 2015;372(21):2018-28.
+11. Lim SH, Sun JM, Lee SH, Ahn JS, Park K, Ahn MJ. Pembrolizumab for the treatment of non-small cell lung cancer. Expert Opin Biol Ther. 2016;16(3): 397-406.
+12. . Chatterjee M, Turner DC, Felip E, Lena H, Cappuzzo F, Horn L, et al. Systemic evaluation of pembrolizumab dosing in patients with advanced non-small- cell lung cancer. Ann Oncol. 2016;27(7):1291-8.
+13. Chatterjee MS, Elassaiss-Schapp J, Lindauer A, Turner DC, Sostelly A, Freshwater T, et al. Population pharmacokinetic/pharmacodynamic modeling of tumor size dynamics in pembrolizumab-treated advanced melanoma. CPT Pharmacometrics Syst Pharmacol. 2017;6(1):29-39. doi:10.1002/Psp4.12140. Epub 2016 Nov 29.
+14. Centers For Disease Control and Protection. Protect patients against preventable harm from improper use of single-dose/single-use vials. 2012. Available at: http://www.cdc.gov/injectionsafety/cdcposition-singleusevial. html. Accessed 25 May 2016.
+15. Centers For Disease Control and Prevention. Outbreaks and patient notifications in outpatient settings, selected examples, 2010-2014. http:// www.cdc.gov/hai/settings/outpatient/outbreaks-patient-notifications.html. Accessed 5 May 2017.
+16. Patnaik A, Kang SP, Rasco D, Papadopoulos KP, Elassaiss-Schaap J, Beeram M, et al. Phase I study of pembrolizumab (Mk-3475; anti-Pd-1 monoclonal antibody) in patients with advanced solid tumors. Clin Cancer Res. 2015;21(19):4286-93.
+17. Elassaiss-Schaap J, Rossenu S, Lindauer A, Kang SP, De Greef R, Sachs JR, De Alwis DP. Using model-based "learn and confirm" to reveal the pharmacokinetics-pharmacodynamics relationship of pembrolizumab in the keynote-001 trial. CPT Pharmacometrics Syst Pharmacol. 2016;6:21-8. doi:10.1002/Psp4.12132.
+18. Dirks NL, Meibohm B. Population pharmacokinetics of therapeutic monoclonal antibodies. Clin Pharmacokinet. 2010;49(10):633-59.
+19. Keizer RJ, Huitema ADR, Schellens JHM, Beijnen JH. Clinical pharmacokinetics of therapeutic monoclonal antibodies. Clin Pharmacokinet. 2010;49(8):493-507.
+20. Reck M, Rodríguez-Abreu D, Robinson AG, Hui R, Csőszi T, Fülöp A, et al. KEYNOTE-024 Investigators. Pembrolizumab versus chemotherapy for PD-L1- positive non-small-cell lung cancer. N Engl J Med. 2016;375(19):1823-33. Epub 2016 Oct 8.
+21. Chow LQ, Haddad R, Gupta S, Mahipal A, Mehra R, Tahara M, et al. Antitumor activity of pembrolizumab in biomarker-unselected patients with recurrent and/or metastatic head and neck squamous cell carcinoma: results from the phase Ib KEYNOTE-012 expansion cohort. J Clin Oncol. 2016. [Epub ahead of print].
+22. Seiwert TY, Burtness B, Mehra R, Weiss J, Berger R, Eder JP, et al. Safety and clinical activity of pembrolizumab for treatment of recurrent or metastatic squamous cell carcinoma of the head and neck (KEYNOTE-012): an open- label, multicentre, phase 1b trial. Lancet Oncol. 2016;17(7):956-65.
+23. Haddad R, Seiwert T, Pfister DG, Worden F, Liu SV, Gilbert J, et al. Pembrolizumab after progression on platinum and cetuximab in head and neck squamous cell carcinoma (HNSCC): results from KEYNOTE-055. Ann Oncol. 2016;27(suppl 6):957PD.
+24. Herbst RS, Baas P, Kim DW, Felip E, Pérez-Gracia JL, Han JY, et al. Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial. Lancet. 2016;387(10027):1540-50.
+Submit your next manuscript to BioMed Central and we will help you at every step:
+· We accept pre-submission inquiries
+. Our selector tool helps you to find the most relevant journal
+. We provide round the clock customer support
+· Convenient online submission
+. Thorough peer review
+. Inclusion in PubMed and all major indexing services
+. Maximum visibility for your research
+Submit your manuscript at www.biomedcentral.com/submit :unselected: BioMed Central
+| Study | Cancer Type | 2 mg/kg Q3W | 10 mg/kg Q3W | 10 mg/kg Q2W | 200 mg Q3W | 
+|KEYNOTE-001 | Melanoma | 165 | 309 | 176 |  | 
+|KEYNOTE-001 | NSCLC | 61 | 288 | 204 |  | 
+|KEYNOTE-002 | Melanoma | 207 | 212 |  |  | 
+|KEYNOTE-006 | Melanoma |  | 270 | 272 |  | 
+|KEYNOTE-010 | NSCLC | 327 | 326 |  |  | 
+|KEYNOTE-024 | NSCLC |  |  |  | 152 | 
+|KEYNOTE-045 | Urothelial Cancer |  |  |  | 262 | 
+|KEYNOTE-052 | Urothelial Cancer |  |  |  | 311 | 
+|KEYNOTE-055 | HNSCC |  |  |  | 47 | 
+
+| PK Value (unit) | Dose Regimen | N | Mean (%CV) | Median | 10-90 Percentile | 
+|Cmax (mcg/mL) | 2 mg/kg Q3W | 755 | 68.0 (24%) | 66.3 | 48.3-88.2 | 
+|200 mg Q3W | 830 | 93.4 (26%) | 89.1 | 66.4-124.3 | 
+|10 mg/kg Q3W | 1403 | 360.3 (23%) | 357.6 | 257.7-466.8 | 
+|10 mg/kg Q2W | 652 | 459.3 (25%) | 457.7 | 315.9-599.9 | 
+|Ctrough (mcg/mL) | 2 mg/kg Q3W | 755 | 22.2 (48%) | 21.1 | 9.18-35.7 | 
+|200 mg Q3W | 830 | 29.7 (47%) | 27.6 | 14.9-46.2 | 
+|10 mg/kg Q3W | 140 | 126.4 (44%) | 120.4 | 59.8-200.2 | 
+|10 mg/kg Q2W | 652 | 220.9 (39%) | 217.8 | 111.8-325.3 | 
+|AUCss, 0-6-weeks (mcg*day/mL) | 2 mg/kg Q3W | 760 | 1376.5 (38%) | 1316.5 | 724.9-2038.5 | 
+|200 mg Q3W | 830 | 1871.1 (37%) | 1787.0 | 1120.6-2730.9 | 
+|10 mg/kg Q3W | 1405 | 7625.4 (35%) | 7436.0 | 4354.0-11172.8 | 
+

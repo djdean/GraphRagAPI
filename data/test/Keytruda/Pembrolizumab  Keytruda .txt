@@ -1,0 +1,496 @@
+human VACCINES & IMMUNOTHERAPEUTICS
+=
+-
+Taylor & Francis Taylor & Francis Group
+Human Vaccines & Immunotherapeutics
+--
+---
+-
+-
+-
+ISSN: 2164-5515 (Print) 2164-554X (Online) Journal homepage: www.tandfonline.com/journals/khvi20
+Pembrolizumab (Keytruda)
+Gerry Kwok, Thomas C. C. Yau, Joanne W. Chiu, Eric Tse & Yok-Lam Kwong
+To cite this article: Gerry Kwok, Thomas C. C. Yau, Joanne W. Chiu, Eric Tse & Yok-Lam Kwong (2016) Pembrolizumab (Keytruda), Human Vaccines & Immunotherapeutics, 12:11, 2777-2789, DOI: 10.1080/21645515.2016.1199310
+To link to this article: https://doi.org/10.1080/21645515.2016.1199310
+Published online: 26 Jul 2016.
+Submit your article to this journal :selected:
+Article views: 31223
+View related articles :selected:
+View Crossmark data CrossMark
+Citing articles: 174 View citing articles
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=khvi20
+HUMAN VACCINES & IMMUNOTHERAPEUTICS 2016, VOL. 12, NO. 11, 2777-2789 http://dx.doi.org/10.1080/21645515.2016.1199310
+PRODUCT REVIEW
+Pembrolizumab (Keytruda)
+Gerry Kwok, Thomas C. C. Yau, Joanne W. Chiu, Eric Tse, and Yok-Lam Kwong Department of Medicine, Queen Mary Hospital, Hong Kong
+ABSTRACT
+The programmed cell death protein 1 (PD1) is one of the checkpoints that regulates the immune response. Ligation of PD1 with its ligands PDL1 and PDL2 results in transduction of negative signals to T-cells. PD1 expression is an important mechanism contributing to the exhausted effector T-cell phenotype. The expression of PD1 on effector T-cells and PDL1 on neoplastic cells enables tumor cells to evade anti-tumor immunity. Blockade of PD1 is an important immunotherapeutic strategy for cancers. Pembrolizumab (Keytruda) is a humanized monoclonal anti-PD1 antibody that has been extensively investigated in numerous malignancies. In melanoma refractory to targeted therapy, pembrolizumab induced overall response rates (ORRs) of 21-34%. It was superior to another immune checkpoint inhibitor ipilimumab (Yervoy) in stage III/IV unresectable melanoma. In refractory non-small cell lung cancer (NSCLC), pembrolizumab induced ORRs of 19-25%. Based on these results, pembrolizumab was approved by the USA FDA for the treatment of advanced melanoma and NSCLC. Tumor cell PDL1 expression may be a valid response predictor. Molecular analysis also showed that tumors with high gene mutation burdens, which might result in the formation of more tumor-related neo-antigens, had better responses to pembrolizumab. In malignancies including lymphomas and other solid tumors, preliminary data showed that ORRs of around 20-50 % could be achieved. Adverse events occurred in up to 60% of patients, but grade 3/4 toxicities were observed in <10% of cases. Immune-related adverse events including thyroid dysfunction, hepatitis and pneumonitis are more serious and may lead to cessation of treatment.
+ARTICLE HISTORY Received 29 April 2016 Revised 24 May 2016 Accepted 4 June 2016
+KEYWORDS lymphoma; melanoma; non- small cell lung cancer; PD1; PDL1; PDL2; pembrolizumab; solid tumors
+Introduction
+T-cells play a critical role in immune responses against infections and neoplasms. On antigenic stimulation, antigen-specific T-cells are generated and clonally expanded, consequently acquiring effector functions. Cytotoxic T-lymphocytes (CTL) are effector T-cells that can secrete cytokines and specifically lyse target cells. However, on prolonged antigenic stimulation, T-cells may lose their effector functions even in the presence of antigens that they target. Such an "exhaustion" state renders T-cells incapable of clearing pathogens or eliminating neoplastic cells.1,2
+Inhibitory receptors on T-cells and the exhausted T-cell phenotype
+Inhibitory receptors on T-cells that contribute to persistent viral infections were first characterized in a murine model of chronic infection with the lymphocytic choriomeningitis virus. Virus specific T-cells in chronic infection over-express an array of receptors that negatively regulate their cytolytic ability.3 These receptors include CTL antigen 4 (CTLA4), programmed cell death protein 1 (PD1), lymphocyte activation gene 3 pro- tein (LAG3), T-cell immunoglobulin domain and mucin domain 3 (TIM3), killer cell lectin-like receptor subfamily G member 1 (KLRG1), CD244, CD160, and B- and T- lympho- cyte attenuator (BTLA). On ligation with their respective ligands, these inhibitory receptors downregulate T-cell function by suppressing signaling pathways downstream of T-cell
+receptor (TCR) stimulation.1,2 T-cells expressing these inhibi- tory receptors are dysfunctional, and are often referred to as exhausted after prolonged antigenic exposure.
+Immune checkpoints
+Immune checkpoints provide a regulatory feedback mechanism to limit the effector phase of T-cell expansion and function.3 They play key parts in tolerance to self antigens, and provide the basis for fine-tuning of the T-cell response.4 CTLA4 is the prototype. Expressed on T-cells, CTLA4 binds CD80 and CD86 on antigen-presenting cells (APC) and other target cells, resulting in inhibitory signals. CD80 and CD86 are also ligands of CD28, the major T-cell co-stimulator that amplifies TCR sig- naling when TCR engages its target antigen coupled with a major histocompatibility complex molecule. CTLA4 has a much higher affinity for CD80 and CD86 than CD28. Hence, by more competitive binding to CD80 and CD86, CTLA4 decreases the binding of CD28 to its ligand, thereby suppress- ing CD28-mediated co-stimulation to T-cells.3 Blockade of CTLA4 releases CD80 and CD86 to the binding of CD28, thereby enhancing T-cell activation.
+PD1 pathway
+PD1 is a transmembrane receptor.4 It binds to 2 ligands, programmed cell death protein 1 ligand 1 (PDL1), and
+CONTACT Yok-Lam Kwong :selected: ylkwong@hkucc.hku.hk
+@ 2016 Taylor & Francis
+Department of Medicine, Professorial Block, Queen Mary Hospital, Pokfulam Road, Hong Kong, China.
+Taylor & Francis Taylor & Francis Group
+2778
+:selected: G. KWOK ET AL.
+PDL2, both of which are transmembrane proteins as well. PD1 is not present on resting lymphoid cells, but is expressed on activated CD4+ and CD8+ T-cells, B-cells, natural killer (NK) cells, macrophages and dendritic cells.4 PDL1 is expressed constitutively on T-cells, B-cells, dendritic cells and CD4+CD25+ regulatory T-cells (Treg). Its expres- sion on epithelial cells and other non-hematopoietic cells can be stimulated by interferon y.3,4 PDL2 is more restricted to macrophages and dendritic cells that are stimulated by interferon y and interleukin-4.3,5 Other than being ligands for PD1, PDL1 and PDL2 may have other roles in the immune system. PDL1 has recently been found to bind to CD80 on activated T-cells and antigen presenting cells (APC), delivering an inhibitory signal to these cells.6 PDL2 binds to RGMb, which also delivers inhibitory signals to T- cells independent of PD1.7 More interestingly, PDL1 and PDL2 may bind to another co-stimulatory molecule, trans- ducing stimulatory signals to T-cells in a mechanism analo- gous to the CTLA4/CD28 axis.8
+Role of PDL1 in tumor immune evasion
+PDL1 is expressed on the neoplastic cells of many different can- cers. By binding to PD1 on T-cells leading to its inhibition, PDL1 expression is a major mechanism by which tumor cells can evade immune attack. PDL1 over-expression may concep- tually be due to 2 mechanisms, intrinsic and adaptive.3 Intrinsic expression of PDL1 on cancer cells is related to cellular/genetic aberrations in these neoplastic cells. Activation of cellular sig- naling including the AKT and STAT pathways results in increased PDL1 expression.10 In primary mediastinal B-cell lymphomas, gene fusion of the MHC class II transactivator (CIITA) with PDL1 or PDL2 occurs, resulting in overexpression of these proteins.11 Amplification of chromosome 9p23-24, where PDL1 and PDL2 are located, leads to increased expres- sion of both proteins in classical Hodgkin lymphoma.12 Epstein Barr virus (EBV) infection in tumor cells also leads to up-regu- lation of PDL1 expression.13 Adaptive mechanisms are related to induction of PDL1 expression in the tumor microenviron- ment. PDL1 can be induced on neoplastic cells in response to interferon y.4 Infiltrating myeloid cells including dendritic cells and monocytes also express PDL1.14 In microsatellite instability colon cancer, PDL1 is mainly expressed on myeloid cells in the tumors.15 APCs express PDL1, and engagement of PDL1 with PD1 on T-cells induces them to become induced Tregs,16 which then suppress cytotoxic T-cell function.
+Another potential mechanism of enhanced tumor cell sur- vival is reverse signaling through PDL1, by virtue of its being a transmembrane protein. Reverse signaling via PDL1 in tumor cells results in their resistance to death induced by CTLs and other mechanisms. 17,18
+Blockade of PD1 to enhance anti-tumor immunity
+The use of PD1 blockade to enhance anti-tumor immunity originated from observations in chronic infection models, where preventing PD1 interactions reversed T-cell exhaus- tion. 19-21 Similarly, blockade of PD1 prevents T-cell PD1/tumor
+cell PDL1 interaction, leading to restoration of T-cell mediated anti-tumor immunity.22
+According to this model, PDL1 expression on tumor cells may be a critical predictor of response to PD1 blockade. Clinical studies of PD1 blockade have shown some relation- ship between tumor PDL1 expression and response to treat- ment. 23-26 Alternatively, increased PDL1 expression may indirectly indicate a more active pre-existing anti-tumor immunity.2 As activated T-cells infiltrate the tumor, the secretion of pro-inflammatory cytokines including inter- feron y up-regulates PDL1 on tumor cells.27 However, tumor PDL1 expression, as assessed by an initial biopsy, may not be an absolute requirement for PD1 blockade to work, in view of the dynamic regulation of PDL1 expression on the tumor cells and other cells in the tumor microenvironment.2
+Blockade of PDL1 has also been explored as a potential strategy. Treatment with the anti-PDL1 antibody BMS-936559 in a variety of relapsed/refractory solid tumors yielded an over- all response rate (ORR) of merely 6-17%.28 In another clinical trial of the anti-PDL1 antibody MPDL3280A in patients with bladder cancer, the ORR varied from 11-43%.29 High-level expression of PDL1 on tumor cells and infiltrating immune cells appeared to predict better response to MPDL3280A.30 However, therapeutic targeting of PDL1 faces many conceptual difficulties if PDL1 expression is to be used as a predictive bio- marker. Problems of PDL1 expression include its non-unifor- mity in different parts of the tumor and in different sites, its dynamic variability with time, and its intracellular expression (therapeutically not relevant) that cannot be distinguished from its surface expression (therapeutically relevant). Finally, the expression of PDL1 in the tumor microenvironment (myeloid cells, antigen presenting cells) might also exert an unpredictable influence.31
+Pembrolizumab
+Pembrolizumab is a humanized monoclonal IgG4 kappa anti- PD1 antibody. Binding of pembrolizumab to PD1 does not engage Fc receptors or activate complement, so that it is devoid of any cytotoxic activity. The 50% effective inhibitory concen- tration in T-cell activation assays ranges from 0.1-0.3 nM.32 It is a lyophilized powder, and reconstituted in 0.9% sodium chlo- ride solution to a final concentration of 1-10 mg/mL for intra- venous use. It is stable for 4 hours at room temperature, and 24 hours when refrigerated.33 It is administered as a 30-minute intravenous infusion.
+In pharmacokinetic studies, pembrolizumab showed a dose- proportional increase in peak and trough concentrations, and steady-state area-under-the-plasma concentration-time curve (AUC). Clearance increases with body weight. Hence, a weight- based dosing compensates for variations in exposure due to dif- ferences in weight. Based on doses of 1-10 mg/kg every 2 weeks or 2-10 mg/kg every 3 weeks, the clearance of pembrolizumab is 0.22 L/day and the serum half-life is 26 d.33 Clearance increases with body weight, so that steady-state concentrations of pembrolizumab are reached by 18 weeks while on a 3-weekly dosing regimen. An intravenous dose of 2 mg/kg every 3 weeks produced an AUC of 0.643 g-day/L.34 At 10 mg/kg every
+2779
+:selected:
+HUMAN VACCINES & IMMUNOTHERAPEUTICS
+3 weeks, the AUC was 3.77 g-day/mL. The clearance of pem- brolizumab was unaffected by renal function impairment. It is also unaffected by mild hepatic impairment.
+Pembrolizumab has been tested clinically in a series of KEY- NOTE studies. Currently, pembrolizumab is tested in 12 cate- gories of malignancies (bladder, breast, colorectal, esophagus, gastric, head and neck, hematology, lung, melanoma, ovarian, pediatric, other solid tumors) to determine its clinical efficacy.35
+Melanoma
+Melanoma is an aggressive malignancy. In metastatic mela- noma, the median overall-survival (OS) is <12 months, with a 10-year survival of <10%.36 Conventional chemotherapy is ineffective. Genetic analysis has shown that in virtually all cases, activating mutations in the mitogen-activated protein kinase (MAPK) signaling pathway, usually in BRAF or NRAS, are the putative initiating oncogenic event. Disease progression is associated with acquisition of additional mutations involving TERT and CDKN2A, while metastatic disease is associated with mutations of PTEN and TP53.37 Patients with BRAF mutations are responsive to BRAF inhibition, but only transiently in most cases. The addition of a MEK inhibitor may improve ORR and survival, and combinations including vemurafenib (BRAF inhibitor) + cobimetinib (MEK inhibitor)38 and dabrafenib (BRAF inhibitor) + trametinib (MEK inhibitor)39 have proven this proposition. However, complete response (CR) rates are only about 10% for these strategies, and progression-free-sur- vivals (PFS) are generally less than a year. In non-responding and relapsing patients, treatment options are few.
+The targeting of CTLA4 provided the first real success of immune checkpoint blockade. Treatment with the anti-CTLA4 antibody ipilimumab in patients with refractory unresectable melanoma led to an ORR of 10.9% and a disease control rate of 28.5%.40 Although the response rate was modest, responses tended to be lasting. The survival curve plateaued, suggesting that some patients were potentially cured. These results pro- vided proof-of-concept evidence that immune checkpoint inhi- bition could be therapeutically active
+Pembrolizumab monotherapy in melanoma
+The first major study of pembrolizumab in melanoma recruited 135 patients who had metastatic or advanced non-resectable tumor, with or without previous treatment and response to ipi- limumab.41 Doses of pembrolizumab varied from 2 mg/kg every 3 weeks to 10 mg/kg every 2 or 3 weeks. For all dose cohorts, the ORR was 38%, the highest being 52% in the cohort receiving 10 mg/kg every 2 weeks. Previous ipilimumab had no impact on the ORR. Responses were durable in most patients, with 81% remaining on treatment at the time of analysis. How- ever, adverse events (AE) were much more frequent (23%) in the 10 mg/kg every 2 weeks cohort
+In an open-label, international, multicenter expansion cohort of the phase 1 KEYNOTE-001 trial, 2 patients with advanced melanoma that had progressed after 2 or more ipili- mumab doses, some of whom had also failed BRAF and MEK inhibitors, were randomized to receive pembrolizumab at 2 mg/kg or 10 mg/kg every 3 weeks. In 173 patients treated
+(2 mg/kg, N = 89; 10 mg/kg, N = 84), ORR was almost identi- cal at 26% at both doses, with 73% and 68% of patients respec- tively showing target lesion size reduction. At a median follow up of 8 months, the median duration of response had not been reached. The median PFS was comparable for both cohorts (2 mg/kg: 22 weeks; 10 mg/kg: 14 weeks). The 1-year PFS was 57% in both groups. Safety profile was similar, with 82% of patients having drug-related AE in both groups, 12% of whom had grade 3-4 AE (fatigue being most frequent). Immune- related AE of grade 3-4 occurred in 3 patients (hepatitis, pan- creatitis, rash).
+A subsequent pooled analysis of KEYNOTE-001 involving 655 patients with advanced melanoma showed that at a median follow-up of 14.8 (7.5-29) months, the ORR was 34%, with CR at 6%.43 The median duration of response was not reached, with 80% of responses still ongoing. The median PFS was 5.2 months, and the 1-year and 2-year OS were 67% and 50%. Overall, 14% of patients experienced grade 3-4 therapy-related AE.
+In the KEYNOTE-002 trial,44 patients with confirmed pro- gressive melanoma within 24 weeks of ≥2 ipilimumab doses and, if BRAFV600 mutant-positive, previous treatment with a BRAF or MEK inhibitor or both, were recruited on a 1:1:1 basis to receive pembrolizumab at 2 mg/kg every 3 weeks, pembroli- zumab at 10 mg/kg every 3 weeks, or investigator-choice che- motherapy (paclitaxel plus carboplatin, paclitaxel, carboplatin, dacarbazine, or oral temozolomide). Crossover to pembrolizu- mab was allowed for patients progressing on chemotherapy. A total of 540 patients were enrolled (pembrolizumab 2 mg/kg, N = 180; pembrolizumab 10 mg/kg, N = 181; chemotherapy, N = 179; with 48% crossing over to pembrolizumab on pro- gression). More than two thirds of patients had ≥2 lines of prior systemic therapy including ipilimumab in all patients. About 25% of the patients had BRAF or MEK inhibitors, and about 50% had chemotherapy. With central review, the response was 21% in the pembrolizumab 2 mg/kg group, 25% in the pembrolizumab 10 mg/kg group, and 4% in the chemo- therapy group (p < 0-0001 for each pembrolizumab dose versus chemotherapy). The primary endpoint of PFS was improved in the pembrolizumab 2 mg/kg group (P < 0.0001) and the pem- brolizumab 10 mg/kg group (P < 0.0001) compared with the chemotherapy group, with 6-month PFS at 34%, 38% and 16% respectively. More than 85% of pembrolizumab-induced responses were maintained at the time of PFS analysis. Median duration of response had not been reached. These observations showed that pembrolizumab was beneficial for melanoma patients who failed ipilimumab.
+In the KEYNOTE-006 trial,45 patients with unresectable stage III/IV melanoma who had received no more than one previous systemic therapy were assigned to receive on a 1:1:1 ratio pembrolizumab at 10 mg/kg every 2 weeks, pembro- lizumab at 10 mg/kg every 3 weeks, or 4 doses of ipilimumab at 3 mg/kg every 3 weeks. Primary end points were PFS and OS. A total of 834 patients were enrolled (pembrolizumab 10 mg/ kg every 2 weeks, N = 279; pembrolizumab 10 mg/kg every 3 weeks, N = 277, ipilimumab, N = 278); with 65% of patients treatment naïve, and 18% of patients having received a BRAF inhibitor (representing 50% of patients who had a BRAFV600 mutation). PDL1 expression was positive in 80% of cases.
+2780
+:selected: G. KWOK ET AL.
+ORRs were 33.7% for the 2-weekly pembrolizumab group (P < 0.001 vs. ipilimumab), 32.9% for the 3-weekly pembrolizumab (P < 0.001), and 11.9% for the ipilimumab group. Rates of CR were 5.0%, 6.1%, and 1.4% respectively. The estimated 6-month PFS was superior in the pembrolizumab groups (2-weekly: 47.3%; 3-weekly: 46.4%) as compared with the ipili- mumab group (26.5%) (P < 0.001 for both pembrolizumab groups versus ipilimumab). Estimated 12-month OS was also superior in the pembrolizumab groups (2-weekly: 74.1%, P=0.0005; 3-weekly: 68.4%, P = 0.0036) as compared with the ipilimumab group (58.2%). At a median follow-up of 7.9 months, responses were still ongoing in 89.4%, 96.7%, and 87.9% of patients respectively. Grade 3-5 AEs were lower in the pembrolizumab groups (13.3% and 10.1%) than in the ipili- mumab group (19.9%). These results showed that in advanced melanoma, pembrolizumab was superior to ipilimumab in PFS, OS and safety profile.
+The phenomenon of atypical responses or pseudo-progres- sion consequent on immunotherapy may influence tumor response assessment. First observed in melanoma patients treated with ipilimumab,46 some patients would in the initial post-treatment assessment show an increase in the size of exist- ing lesions or develop new lesions. However, on continuation of treatment these patients would ultimately achieve a response or have stable disease. The apparent increases in tumor burden of existing lesions may represent continued tumor growth until a sufficiently strong immune response has been built up, or infiltration of activated immune effector cells leading to an apparent increase in the size of the lesions. The appearance of new lesions may reflect infiltration of activated immune cells into a pre-existing lesion too small or inactive to be detected radiologically during initial evaluation. Recognition of this phe- nomenon has led to the proposal of the immune-related response criteria (irRC).42 The main difference between irRC and the Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST v1.1) is that new lesions do not automatically indi- cate progressive disease. Their sizes are added to the sum of the products of the 2 largest perpendicular diameters of all index lesions at any time point. Progressive disease is diagnosed if the sum is ≥25% compared with nadir. Furthermore, partial response (PR) is defined as ≥50% and not ≥30% reduction in tumor burden.
+The phenomenon of atypical response was recently investi- gated in 655 melanoma patients treated in the KEYNOTE-001 trial, comparing the response as assessed by RECIST v1.1 and irRC.47 Early pseudo-progression was defined as ≥25% increase in tumor burden at the first imaging assessment (week 12), which was not confirmed as progressive disease according to irRC at the second assessment. Delayed pseudo-progression was defined as ≥25% increase in tumor burden at any imaging assessment after the 12th-week assessment, which was not con- firmed as progressive disease according to irRC at the next imaging assessment. In 327 patients who had imaging per- formed beyond 24 weeks, 15 patients (5%) had early pseudo- progression and 9 patients (3%) had delayed pseudo-progres- sion. In 592 cases surviving ≥12 weeks, 84 patients (14%) expe- rienced progressive disease according to RECIST v1.1 but non- progressive disease according to irRC. Two-year OS were 77.6% in patients with non-progressive disease according to
+both criteria (N = 331), 37.5% in patients with progressive dis- ease according to RECIST v1.1 but not according to irRC (N = 84), and 17.3% in patients with progressive disease according to both criteria (N = 177). Based on survival analysis, conven- tional RECIST might under-estimate the benefit of pembrolizu- mab in approximately 15% of patients, and might lead to premature cessation of treatment.
+Pembrolizumab in melanoma: Conclusions and future directions
+These clinical trial results have clearly indicated that pembroli- zumab is active in advanced melanoma refractory to chemo- therapy, BRAF/MEK inhibitors and ipilimumab. It is also superior to ipilimumab in both efficacy and safety profile. In September, 2014, pembrolizumab was approved by the USA FDA for the treatment of unresectable or metastatic melanoma with disease progression following ipilimumab and, if BRAFV600 mutation positive, a BRAF inhibitor. In December, 2015, the approval was expanded to include the initial treat- ment of patients with unresectable or metastatic melanoma.
+Non-small cell lung cancer
+Lung cancer is still the leading cause of cancer-related death worldwide for both genders.48 Platinum-based chemotherapy is the standard first-line treatment for advanced or metastatic non-small cell lung cancer (NSCLC). However, for patients with targetable genomic alterations, including mutated epider- mal growth factor receptor (EGFR) gene and rearranged ana- plastic lymphoma kinase (ALK) gene, specific targeted therapy may result in extended OS. In contrast, for NSCLCs without targetable genetic aberrations, the 1-year OS is merely 30-40%, with a median survival of 8-10 months.49 Therefore, there is clearly a need to explore novel therapies for NSCLC.
+PD1 blockade in NSCLC
+Another anti-PD1 antibody nivolumab was initially tested in NSCLC. In a single-arm phase 1 trial (CheckMate-063),50 117 heavily pre-treated patients (65% having received ≥3 lines of therapy) with advanced squamous NSCLC were treated with nivolumab. The ORR was 14.5%. In another phase 3 trial (CheckMate-017),51 272 patients with squamous NSCLC who had relapsed from prior platinum-containing regimens were randomized to receive nivolumab or docetaxel. Nivolumab was significantly superior to docetaxel in ORR (20% vs. 9%, P = 0.008), PFS and OS. Nivolumab became the first USA FDA approved checkpoint inhibitor for the treatment of NSCLC.
+Pembrolizumab for the treatment of NSCLC
+In the KEYNOTE-001 trial, 495 patients with advanced unresectable or metastatic NSCLC (therapy-naïve, N = 101; refractory to ≥1 line of platinum-based chemotherapy or tar- geted therapy, N = 394) were treated with pembrolizumab.52 Initial recruitment did not require testing for EGFR mutations or ALK rearrangements. However, a subsequent protocol amendment mandated testing for these genetic aberrations.
+2781
+:selected:
+HUMAN VACCINES & IMMUNOTHERAPEUTICS
+EGFR mutation was positive in 1.5% of tested patients, and ALK translocation in 2% of tested patients. The carcinoma was non-squamous in 81% of patients, and squamous in 17% of patients. Most patients received pembrolizumab at 10 mg/kg every 2 or 3 weeks (N = 489), and very few at 2 mg/kg every 3 weeks (N = 6). The ORR was 19.4% (treatment naïve: 24.8%; previously-treated: 18%). Histology and dose or schedule of drug administration did not affect the ORR. Median duration of response was 12.5 months (treatment naïve: 23.3 months; previously treated: 10.4 months). The median PFS was 3.7 months for all patients, and the median OS was 12 months. After exploratory analysis in the training group, a PDL1 posi- tivity cutoff of ≥50% was validated in 204 patients as a poten- tial biomarker to predict pembrolizumab responses. For patients with tumors showing ≥50% PDL1-positive cells, 1- 49% PDL1-positive cells and <1% PDL1-positive cells, the ORRs were 45.2%, 16.5% and 10.7% respectively. For cases with ≥50% PDL1-positive cells, the median PFS was 6.3 months, and the median OS had not been reached. These results showed that pembrolizumab had anti-tumor activity in NSCLC. PDL1 expression of ≥50% correlated with improved efficacy of pembrolizumab.
+In the KEYNOTE-010 trial,53 which was a randomized, open-label, phase 2/3 study, patients with previously treated NSCLC showing at least 1% PDL1-positive tumor cells were assigned randomly in a 1:1:1 ratio to receive on a 3 weekly schedule pembrolizumab at 2 mg/kg, pembrolizumab at 10 mg/ kg, or docetaxel at 75 mg/m2. All patients were docetaxel naïve. Previous treatment included platinum-based chemotherapy, and appropriate targeted therapy for EGFR-sensitizing or ALK- rearranged disease. The primary endpoints were OS and PFS, firstly in the whole cohort, and secondly in patients with tumors showing ≥50% PDL1 positive cells. A total of 1034 patients were enrolled (pembrolizumab at 2 mg/kg, N = 345; pembrolizumab at 10 mg/kg, N = 346; docetaxel, N = 343). At the time of analysis, 521 patients had died. The median OS was significantly superior in the pembrolziumab groups as com- pared with the docetaxel group (2 mg/kg, 10.4 versus 8.5 months, P = 0.0008; 10 mg/kg, 12.7 vs. 8.5 months, P < 0.0001). The median PFS was comparable for the 3 groups (pembrolizumab 2 mg/kg, 3.9 months; pembrolizumab 10 mg/ kg, 4.0 months; docetaxel, 4.0 months). For patients with ≥50% of tumor cells expressing PDL1, the pembrolizumab groups when compared with the docetaxel group had signifi- cantly superior median OS (2 mg/kg group: 14.9 versus 8.2 months, P = 0.0002; 10 mg/kg group: 17.3 vs. 8.2 months, P < 0.0001). Similarly, the pembrolizumab groups when com- pared with the docetaxel group had significantly superior median PFS (2 mg/kg group: 5-0 versus 4.1 months, P = 0-0001; 10 mg/kg group: 5.2 vs. 4.1 months, p < 0.0001). AE of any grade occurred in 63% of patients given pembrolizumab at 2 mg/Kg, 66% of patients given pembrolizumab at 10 mg/kg, and 81% of patients given docetaxel. Grade 3-5 treatment- related AE was less frequent in the pembrolizumab groups as compared with the docetaxel group (pembrolizumab 2 mg/kg, 13%; pembrolizumab 10 mg/kg, 16%; docetaxel group, 35%). Immune-related AE occurred in 20% of patients on pembroli- zumab, including hypothyroidism (8%), hyperthyroidism (6%), and pneumonitis (4%). Except for severe pneumonitis (2%)
+and skin reactions (2%), grade 3-5 immune-related organ dys- function was uncommon. The most common grade 3-5 AE in the docetaxel group was neutropenia (12%). Treatment-related mortality occurred in 3 patients in the pembrolizumab 2mg/kg group (pneumonitis, pneumonia), 3 patients in the pembrolizu- mab 10mg/kg group (myocardial infarction, pneumonitis, pneumonia), and 5 patients in the docetaxel group (acute heart failure, dehydration, neutropenic fever, interstitial lung disease, respiratory tract infection). These results showed that pembro- lizumab prolonged OS and PFS in previously-treated NSCLC, with PDL1 was a valid biomarker to predict response.
+Molecular landscape in NSCLC for response to pembrolizumab
+In order to understand the molecular landscape that might be predictive of response to PD1 blockade, 2 cohorts of NSCLC patients treated with pembrolizumab were analyzed with whole-exome sequencing.54 In the initial discovery cohort (N = 16), patients with durable clinical benefit (DCB, PR or stable disease >6 months) had significantly higher median number of nonsynonymous mutations as compared with patients with no durable benefit (NDB) (number of mutations: 302 versus 148, P = 0.02). The proportion of patients with high nonsynonymous mutation burden (number of mutations >209, the median burden of the entire cohort) achieving DCB was significantly higher than that of patients with low nonsy- nonymous mutation burden (number of mutations < the median) (73% vs. 13%, P = 0.004). Patients with high nonsy- nonymous mutation burden, when compared to those with low nonsynonymous mutation burden, also had significantly supe- rior ORR (63% versus 0%; P = 0.03) and median PFS (14.5 vs. 3.7 months; P = 0.01). Many of the genes with deleterious mutations are important in DNA repair and replication.
+In the independent validation cohort (N = 18), patients with DCB also had significantly higher median nonsynonymous mutation burden than those with NDB (number of mutations: 244 versus 125, P = 0.04). Similarly, patients with high nonsy- nonymous mutation burden (number of mutations >200, median of the cohort), when compared to those with low non- synonymous mutation burden, had significantly superior DCB rates (83% vs. 22%; P = 0.04) and median PFS (not reached versus 3.4 months; P = 0.006).
+Correlation of patterns of mutations with clinical responses showed that patients with DCB, compared to those with NDB, had significantly more C to A transversions and fewer C to T transitions (P = 0.01 for both). Patients were further catego- rized by a binary classifier for the molecular signature of smok- ing (smoking, transversion-high, TH; non-smoking, transversion-low, TL). TH patients compared with TL patients had significantly superior ORR (56% vs. 17%, P = 0.03) and PFS (median not reached versus 3.5 months, P = 0.0001). Inter- estingly, self-reported smoking history or the amount of smok- ing did not discriminate DCB from NDB. The molecular smoking signature, but not smoking history, also correlated with nonsynonymous mutation burden. The correlation between high nonsynonymous mutation burden with increased efficacy of pembrolizumab implied that recognition of neo- antigens, developed consequent on increased somatic
+2782
+:selected: G. KWOK ET AL.
+mutations, is important mechanistically for the activity of pem- brolizumab. It was estimated that there were a median of 112 (8-610) candidate neo-antigens per tumor, with the quantity of neo-antigens per tumor correlating positively with mutation burden (P < 0.0001). Patients with DCB had significantly higher candidate neo-antigen burden than those with NDB. Furthermore, high candidate neo-antigen burden positively correlated with improved PFS (14.5 vs. 3.5 months, P = 0.002). Finally, in a patient who responded, a CD8+ T-cell response against a neo-antigen (resulting from a HERC1 P3278S muta- tion) could be detected at the start of therapy (at 0.005%), with the response increasing to 0.04% 3 weeks after therapy, which was maintained at 6 weeks.
+In summary, T-cell response to cancers relies on presenta- tion of tumor-specific antigens on MHC molecules from APCs. Results of this study, which have demonstrated a close relation- ship between nonsynonymous mutation burden with clinical efficacy of pembrolizumab, provide evidence supporting the importance of neo-antigens in eliciting the T-cell response. These observation are consistent with findings from other stud- ies, which have shown that tumors responding to anti-PD-1/ PD-L1 therapy are usually those with higher median muta- tional loads (carcinogen-induced cancers including melanoma, lung, bladder, and head and neck cancers).3
+Pembrolizumab in NSCLC: Conclusions and future directions
+Pembrolizumab has shown significant efficacy for NSCLC refractory to conventional chemotherapy, a malignancy where before few treatment options existed. In October 2015, the USA FDA approved pembrolizumab for the treatment of meta- static NSCLCs that express PD-L1, which show disease pro- gression on or after platinum-containing chemotherapy. NSCLC containing EGFR or ALK genomic aberrations should be refractory to specific therapies for these aberrations prior to receiving pembrolizumab.
+Pembrolizumab in mismatch repair (MMR) deficient cancers
+The hypothesis that tumor gene mutation load may be a critical factor in the efficacy of PD1 blockade was tested in another phase 2 study. In the KEYNOTE-016 study,55 patients with mismatch repair (MMR) deficient colorectal cancer (CRC) (N = 11), MMR proficient CRC (N = 21), and non CRC tumors with MMR deficiency (N = 9) were treated with pembrolizu- mab at 10 mg/kg every 2 weeks. Both hereditary and sporadic MMR deficient tumors were included. All 41 patients had met- astatic lesions, with most having failed 2 or more lines of ther- apy. The primary endpoint was irORR and irPFS at 20 weeks for the CRC cohort, and irPFS in the non-CRC cohort.
+In the MMR deficient CRC cohort, the irORR was 40%, with an irPFS at 20 weeks of 78%. In the MMR-deficient non-CRC cohort, the irORR was 71% and irPFS at 20 weeks was 67%. On the other hand, in the MMR-proficient CRC, the irORR was 0%, and the irPFS at 20 weeks was only 11%.
+Correlative studies showed that the mean mutations/tumor were 1,782 for the MMR-deficient tumors and only 73 for the
+MMR-proficient tumors. Furthermore, CD8+ T-cells were present at a higher density in MMR-deficient than MMR-profi- cient tumors. Finally, PDL1 expression only occurred in MMR- deficient tumors. These results are consistent with the proposi- tion, also observed in NSCLC,54 that gene mutation load, which directly impacts on the neo-foscarnet pyridoxine antigen load, is an important determinant of response to PD1 blockade.
+Pembrolizumab in advanced Merkel-Cell carcinoma
+Merkel-cell carcinoma is an aggressive skin cancer, etiologically related to ultraviolet light exposure and infection with the Mer- kel-cell polyomavirus (MCPyV). Advanced Merkel-cell carci- noma is generally refractory to chemotherapy, with a PFS of only 3 months. CTL specific for MCPyV can be detected in these patients, and in about 50% of cases, these CTLs are con- comitantly positive for PD1. Furthermore, it has been shown that tumor cells also express PDL1. These features make the tumor a putative target for PD1 blockade. Notably, it has been determined that MCPyV-negative tumors, which are UV light induced, have a much higher gene mutation burden than MCPyV-positive tumors.
+In a phase 2 study, 26 patients with advanced Merkel-cell carcinoma (MCPyV positive, N = 17; MCPyV negative, N = 9), who had not received previous systemic therapy, were treated with pembrolizumab at 2 mg/kg every 3 weeks for 2 y.56 Among 25 evaluable patients, the ORR was 56%, with CR in 16% of cases. At a median follow-up of 33 (7-53) weeks, disease progression occurred in 2 of the 14 patients who had had a response. The 6-month PFS was 67%. The ORR was 62% for MCPyV-positive tumors and 44% for MCPyV-negative tumors. Grade 3 or 4 AEs occurred in 15% of the patients.
+The similar ORR of MCPyV-positive and MCPyV-negative tumor suggests that although in the former a higher gene mutation load results in expression of more tumor-associated neo-antigens, in the latter the lower number of neo-antigens is compensated by the presence of viral antigens, which provide the necessary CTL targets.
+Lymphomas
+Lymphomas are increasingly important malignancies, with their incidences rising in virtually every population.48 They are highly heterogeneous malignancies with diverse genetic muta- tion landscapes. However, the lymphoma microenvironment also plays an important part in molding the behavior and response to treatment.57 In different lymphomas, the propor- tions of neoplastic cells and other infiltrating myeloid and lym- phoid cells vary. Diffuse large B-cell lymphomas are composed predominantly of neoplastic cells. On the contrary, in Hodgkin lymphoma, the neoplastic Reed Sternberg cells, which are of B-cell origin, only account for less than 1% of the tumor bulk. The other infiltrating cells, composed of normal T-cells and other myeloid derived cells such as eosinophils, macrophages and dendritic cells, are recruited into the tumor by cytokines secreted by the Reed Sternberg and other non-neoplastic cells.57
+The expression of PDL1 is a feature in many different lympho- mas. As aforementioned, in Hodgkin lymphoma chromosome
+2783
+:selected:
+HUMAN VACCINES & IMMUNOTHERAPEUTICS
+9p24 amplification may account for the over-expression of PDL1 and PDL2.12,58
+PD1 blockade in Hodgkin lymphoma
+Owing to expression of PDL1 and PDL2, Hodgkin lymphoma represents the prototype of lymphoma that may be responsive to PD1 blockade. In a phase 1 study of 23 patients with refrac- tory Hodgkin lymphoma, treatment with nivolumab led to an ORR of 87% (CR: 17%). Toxicity was manageable.59
+Pembrolizumab in the treatment of Hodgkin lymphoma and other B-cell lymphomas
+In a phase 2 study,60 31 patients with relapsed or refractory clas- sical Hodgkin lymphoma not responding to or relapsing from previous brentuximab vedotin therapy, and who had relapsed after or were ineligible for autologous hematopoietic stem cell transplantation (ASCT), received pembrolizumab at 10 mg/kg every 2 weeks. Response was first assessed after 12 weeks (6 courses) of treatment, and then every 8 weeks thereafter. Their median age was 32 (20-67) years, with 68% having received ≥4 prior lines of therapy, and 71% having failed prior ASCT. The most common adverse events were hypothyroidism (16%), diar- rhea (13%), nausea (13%), and pneumonitis (10%). Five patients had grade 3 toxicities, resulting in drug withdrawal in 2 patients (6%). At a median follow up of 9.7 (1.3-17.5) months, the ORR was 64% (CR: 16%, PR: 48%), with SD at 23%. Only 14 patients (45%) were still on treatment. The median duration of response had not been reached.
+In a phase 1B study,61 10 patients with relapsed or refractory primary mediastinal B-cell lymphoma, who had relapsed from or were ineligible for ASCT, were treated with pembrolizumab at 10 mg/kg every 2 weeks. Response was first assessed after 12 weeks, and then 8 weeks thereafter. Their median age was 28 (23-62) years, with 40% having ≥4 prior lines of therapy, and 60% having prior radiation. AE (grade 1/2) included hypo- thyroidism and decreased appetite (each at 20%); diarrhea, nausea, vomiting, fatigue, edema, weight loss and arthralgia (each at 10%). Six patients (60%) experienced at least 1 AE.
+Two patients had grade 3 infectious pneumonia, which was regarded to be unrelated to pembrolizumab. One patient had disease progression before first assessment. For the other 9 patients who continued treatment, there were 1 CR and 3 PR, giving an ORR of 40%. At a median follow-up of 144 days, the median duration of response had not been reached. Six of 10 patients had discontinued treatment because of disease progression.
+In a phase 2 study,62 16 relapsed or refractory patients with chronic lymphocytic leukemia (CLL) (5 with Richter's syn- drome, RS) at a median age of 71 (58-81) years were treated with pembrolizumab at 200 mg every 3 weeks. The median number of prior therapies was 3 (1-6), with all having received rituximab-containing chemotherapy. For RS patients, 4 of 5 had received anthracycline-containing regimens. Ibrutinib had been given in 8 patients, with 5 cases progressing while on treatment. Deletion of 17p or TP53 mutation occurred in 8 patients. Preliminary results of 6 patients (4 with RS) were reported. Pembrolizumab was administered for a median of 4 (3-7) cycles. For 4 patients with RS, the ORR was 50% (CR: 25%; PR: 25%), with stable disease in 2 other cases. For the 2 other patients with CLL, only stable disease was achieved. Grade 3 toxicity was observed in 2 cases (headache, myalgia), with one case also experiencing cytokine release syndrome. Other toxicities included grade 1 dyspnea (33%) and grade 1 anemia (33%). An increase in soluble PD-L1 level appeared to correlate with absence of clinical response.
+The ORRs in these 3 studies were comparable at 40-64%, with CR rates varying from 16-25%. Toxicities were consider- able. In the 2 cohorts given pembrolizumab at 10 mg/kg every 2 weeks, up to 60% of patients experienced AEs, with grade 3 toxicities observed in 16-20% of patients. In the Hodgkin lym- phoma cohort, 2 patients had to be taken off treatment because of pneumonitis. Even at such high doses, only 40-45% of patients could still stay on treatment, the rest discontinuing either because of toxicity or disease progression. In the CLL cohort, with a lower dose of 200 mg, grade 3 toxicity was still observed in 2 cases (33%).
+Outside clinical trials, however, pembrolizumab has been reported to be used at a lower dose of 2 mg/kg every 3 weeks in
+Table 1. Preliminary results of ongoing clinical trials of pembrolizumab in solid tumors.
+Tumor (reference)
+Number of cases
+ORR
+Grade 3/4 toxicity
+DOR (median)
+PFS (median)
+OS (median)
+KEYNOTE 012
+Triple negative breast cancer (62)
+32
+18.5% (5/27)
+5 (15.6%)
+NR (15 to 40+ weeks)
+6-monthPFS: 23.3%
+NA
+HNSCC (64)
+132
+25% (29/117)
+5 (3.8%)
+NR (7+ to 25+ weeks)
+NA
+NA
+Urothelial cancer (65)
+33
+28% (8/29)
+3 (9.1%)
+NR (8+ to 64+ weeks)
+2 months
+12.7 months
+Gastric / esophageal cancer (66)
+39
+22% (8/36)
+5 (12.8%)
+40 weeks (20+ to 80+)
+2 months
+11.4 months
+KEYNOTE 028
+ER+ / HER2+ breast cancer (67)
+25
+12% (2/25)
+4 (16%)
+NR (9+ to 44+ months)
+NA
+NA
+Colorectal cancer (68)
+23
+4.3% (1/23)
+1 (4.3%)
+12+ months
+NA
+NA
+Biliary tract cancer (69)
+24
+17.4% (4/23)
+4 (16.7%)
+NR (6+ to 9+ months)
+NA
+NA
+Esophageal cancer (70)
+23
+30.4% (7/23)
+4 (17.4%)
+40 weeks
+NA
+NA
+Small cell lung cancer (71)
+20
+35% (7/20)
+2 (10%)
+NA
+NA
+NA
+Pleural mesothelioma (72)
+25
+28% (7/25)
+2 (8%)
+NA
+NA
+NA
+Anal squamous cell carcinoma (73)
+25
+20% (5/25)
+4 (16%)
+NR (0 to 9+ months)
+3.0 months
+NA
+Nasopharyngeal cancer (74)
+27
+22.2% (6/27)
+9 (33%), death; N = 1
+11 months (5 to 11 months)
+5.6 months
+NA
+Ovarian cancer (75)
+26
+11.5% (3/26)
+1 (3.8%)
+NR (28+ to 36+ weeks)
+NA
+NA
+Note. ORR: overall response rate; DOR: duration of response; PFS: progression free survival; OS: overall survival; ER: estrogen receptor. NR: not reached; NA: not available;
+HNSCC: head and neck squamous cell carcinoma.
+2784
+:selected: G. KWOK ET AL.
+patients with Hodgkin lymphoma. Four cases so treated have been described, all reaching CR.63,64 Furthermore, no toxicities were described. Therefore, at lower doses, pembrolizumab is also efficacious for Hodgkin lymphoma.
+Pembrolizumab in the context of allogeneic hematopoietic stem cell transplantation
+In clinical trials, patients after allogeneic hematopoietic stem cell transplantation (HSCT) are excluded, owing to the theoret- ical risk of exacerbation of graft versus host disease (GVHD). As experience grows, patients with lymphomas relapsing after allogeneic HSCT has been treated with pembrolizumab.59 GVHD has not been observed. In another allogeneic HSCT recipient, treatment with pembrolizumab resulted in transami- nitis that responded to corticosteroid treatment.65 Therefore, in carefully monitored situations, pembrolizumab appears to be safe in allogeneic HSCT recipients, and may be considered if the benefit outweighs the risk. However, further safety data are needed.
+Other trials of pembrolizumab as a single agent
+Ongoing clinical trials are focused on both investigating the spectrum of neoplasms that may respond to pembrolizumab (Table 1), as well as enhancing anti-tumor immunity with com- bined blockade of CTLA4 and PD1. Biomarker evaluation and selection is an important feature, with PDL1 expression being considered an important factor for considering tumor response. In these studies, unless otherwise stated, pembrolizumab is given at a dose of 10 mg/kg every 2 weeks for up to 2 y or until disease progression.
+In the KEYNOTE 012 study, 32 patients with triple negative breast cancer and PDL1 expression were treated.66 About 65% of patients had 2 or more lines of prior therapy. The ORR was 18.5% in 27 patients with evaluable disease. Toxicity was con- siderable, with 5 patients having grade 3/4 adverse events that included anemia, headache, aseptic meningitis, fever, and low blood fibrinogen level. One patient died of disseminated intra- vascular coagulation.
+In 60 patients with head and neck squamous cell carcinoma (HNSCC) that showed PDL1 expression, treatment with pem- brolizumab led to an ORR of 20%. Responses were similar between HPV-positive and HPV-negative patients, although denser PDL1 expressing tumors showed a higher ORR of 50%.67 In an expansion cohort included in the KEYNOTE-012 trial, 132 patients with HNSCC regardless of PDL1 expression and HPV status were treated, with the pembrolizumab dosage decreased to 200 mg every 3 weeks.68 The ORR was 25% in 117 patients with evaluable tumor, with 56% of patients having a decrease in tumor burden. Tumor response was similar regardless of HPV status. At a reduced dose, only 5 patients had grade 3/4 AE, including pneumonitis (N = 2), colitis (N = 1), liver injury (N = 1), and diabetic ketoacidosis (N = 1).
+In a phase 1B study, 33 patients with urothelial cancer, pre- dominantly transitional cell carcinoma, who had prior chemo- therapy for advanced disease in 76% of cases, were treated with pembrolizumab.69 The ORR was 24%, with a median OS of 9.3 months and a median PFS of 8.6 weeks. Tumor PDL1
+Table 2. Adverse events observed in patients receiving pembrolizumab.
+Cutaneous Gastrointestinal Endocrinological Neurological Respiratory Miscellaneous
+Pruritus
+Rashes
+Vitiligo
+Alopecia
+Lichen planus / lichenoid skin reactions Exacerbation of psoriasis
+Abdominal pain
+Diarrhea
+Lymphocytic colitis
+Hepatitis
+Pancreatitis
+Hyperthyroidism Hypothyroidism
+Diabetes mellitus
+Hypophysitis
+Fatigue
+Seizure
+Polyneuropathy
+Isolated nerve palsies
+Paresthesia
+Myasthenia gravis
+Polyradiculitis
+Dyspnea
+Cough
+Hoarseness
+Bronchitis
+Organizing pneumonia
+Pneumonitis
+Pulmonary fibrosis
+Fever
+Sweating
+Gingivitis
+Uveitis
+Systemic inflammatory response syndrome Anemia
+Leucopenia
+Polymyalgia rheumatica Arthralgia
+Exacerbation of existing arthropathy
+expression, increase in inflammatory cell infiltration, and immune related gene expression signatures were predictive of responses.
+In the KEYNOTE-012 study, 39 patients with adenocarci- noma of the stomach or gastro-oesophageal junction and PDL1 expression were treated with pembrolizumab. All patients had ≥2 lines of prior therapy. The ORR was 22%, with a median OS of 11 months, a 6-month PFS of 24% and a 6-month OS of 69%.7º Grade 3/4 hypothyroidism and pneumonitis were each reported in one patient.
+The KEYNOTE-028 study investigated multiple tumor types with PDL1 expression. In 25 patients with estrogen receptor positive / HER2 negative breast cancer, who had received prior chemotherapy and hormonal therapy, the ORR was only 12%.71 One patient had grade 3 hepatitis requiring dose inter- ruption. In 23 patients with advanced CRC, the ORR was merely 4.3%.72 The only responder had microsatellite instability due to mutation of the MLH1 gene promoter. For 24 patients with biliary tract cancer, the ORR was again unsatisfactory at 17.4%.73 One patient had grade 3 immune hemolytic anemia requiring drug discontinuation, and 1 patient had grade 3 coli- tis. In another cohort of oesophageal cancer (adenocarcinoma,
+:selected: 2785
+HUMAN VACCINES & IMMUNOTHERAPEUTICS
+Table 3. Frequencies of adverse effects (AE) observed in clinical trials of pembrolizumab.
+Study
+Number of patients
+AE (all grades)
+AE (grade 3-5)
+Immune-related AE (grade 3-5)
+Remarks
+Melanoma KEYNOTE 001
+135
+79% (30% fatigue, 20% diarrhea, 21% rash, 21% pruritis, 10% nausea, 10% headache, 10% increase in AST, 8% increase in ALT, 8% hypothyroidism, 4% pneumonitis, 2% renal failure)
+13% (2% rash, 1% each for diarrhea, fatigue, pruritus, elevated AST, renal failure, hypothyroidism)
+5.9% (2% rash, 1.5% elevated AST, 1.5% renal failure, <1% hypothyroidism)
+No drug related deaths
+KEYNOTE 001
+173
+82% (35% fatigue, 23% pruritus, 18% rash, 13% diarrhea, 4%hypothyroidism, 2% pneumonitis, <1% autoimmune hepatitis)
+12% (3% fatigue, <1% each for hepatitis, diarrhea, hypothysitis, pancreatitis, rash, pneumonitis, anemia)
+2% (<1% each for autoimmune hepatitis, maculopapular rash, pancreatitis)
+6 discontinuations due to AE
+KEYNOTE 002
+357
+71% (26% fatigue, 22% pruritus, 11% rash, 6% hypothyroidism) 76% (20% fatigue, 16% diarrhea, 14% rash, 14% pruritus, 9% hypothyroidism, 5% hyperthyroidism, 2.7% colitis, 1.4% hepatitis, 1% pneumonitis,<1% each for hypothysitis, uveitis, Type1 diabetes mellitus, nephritis)
+13% (1% diarrhea, 1% pneumonitis, <1% each for fatigue, myalgia, edema, colitis, hypopituitarism, hyponatremia, decrease in appetite)
+2.5% (<1% each for hepatitis, colitis, pneumonitis, hypothysitis, uveitis) 4.5% (2% colitis, 1.4% hepatitis, <1% each for hypothysitis, hypothyroidism, Type 1 diabetes mellitus, pneumonitis)
+17 discontinuations due to AE 4% and 6.9% of the pembrolizumab arms discontinued drug due to AE
+KEYNOTE 006
+556
+12% (2% colitis, 1.8% diarrhea, 1.4% hepatitis, <1% each for hypothysitis, hypothyroidism, Type 1 diabetes mellitus, pneumonitis)
+Non-small cell lung cancer
+495
+71% (19% fatigue, 11% pruritus, 11% decrease in appetite, 10% rash, 9% arthralgia, 8% diarrhea, 7% hypothyroidism, 4% dyspnea, 3.6% pneumonitis, 3% infusion reaction, 3% elevated AST, 2% elevated ALT)
+9.5% (3.8% dyspnea, 1.6% pneumonitis, <1% each for diarrhea, rash, fatigue, hypothyroidism, infusion reaction, elevated AST, elevated ALT)
+3% (1.8% pneumonitis, <1% each for rash, hypothyroidism, elevated AST, elevated ALT, infusion reaction)
+1 patient had infusion reaction requiring drug discontinuation 1 patient died of pneumonitis
+KEYNOTE 001
+KEYNOTE 010
+682
+65% (14% fatigue, 12% decrease in appetite, 11% rash, 7% diarrhea, 8% hypothyroidism, 4.7% hyperthyroidism, 4.5% pneumonitis, 1% colitis, <1% each for pancreatitis, adrenal insufficiency, thyroiditis, autoimmune hepatitis, hypothysitis, Type 1 diabetes mellitus
+14% (2% pneumonitis, 1.5% fatigue, 1.3% severe skin reaction, <1% each for decrease in appetite, diarrhea, hyperthyroidism, colitis, pancreatitis, autoimmune hepatitis, hypothysitis, Type 1 diabetes mellitus)
+5.3% (2% pneumonitis, 1.3% severe skin reaction, <1% each for hyperthyroidism, colitis, pancreatitis, autoimmune hepatitis, hypothysitis, Type 1 diabetes mellitus)
+32 patients discontinued due to drug related AE 6 deaths related to treatment (3 pneumonitis, 2 pneumonia, 1 myocardial infarction)
+Note. ALT: alanine aminotransferase; AST: aspartate aminotransferase.
+2786
+:selected: G. KWOK ET AL.
+N = 17; squamous cell carcinoma, N = 5, mucoepidermoid carcinoma, N = 1), the ORR was 30%.74 Grade 3 AEs occurred in 4 patients, including lymphopenia, decrease in appetite, liver function derangement and rash. In 20 patients with therapy- refractory small cell lung cancer, an ORR of 35% was observed.75 One patient each had grade 3/4 asthenia and hyper- bilirubinemia. In 25 patients with pleural mesothelioma, an ORR of 28% was found.76 One patient had grade 3 transamini- tis and thrombocytopenia. In 25 patients with advanced anal squamous cell carcinoma, the ORR was 20%, and the median PFS was 3 months.77 One patient had grade 3 colitis.
+In a phase 1B study, 27 patients with nasopharyngeal carci- noma that was EBV-positive and PDL1-positive were treated. More than 90% of these patients had prior cisplatin therapy. The ORR was 22%, with a median PFS of 5.6 months.78 Grade 3/4 AEs were observed in 6 patients, including hepatitis, pneu- monitis, anemia, elevated creatine phosphokinase, proteinuria and sepsis, resulting in drug discontinuation in 4 patients and death in 1 patient. In another phase 1B study of metastatic ovarian cancer with PDL1 expression,79 an ORR of only 11.5% was observed.
+From the results of the use of pembrolizumab in numerous cancer types, it is apparent that expression of PDL1 alone is inadequate for a high ORR. Further studies are required to define other biomarkers that may reliably predict response.
+Toxicities of pembrolizumab
+Besides infusion reactions, most of the AEs are thought to be immune-related AEs. Grade 3-4 AEs only occur in up to 5% of patients. These immune-related AEs can occur in any organ (Table 2). Because the optimal duration of treatment is unde- fined, pembrolizumab may be given for up to 2 y. Hence, immune-related AEs can occur late or even after cessation of treatment. To date, cases of rare life-threatening or fatal AEs have been reported after pembrolizumab, including severe skin reactions, and fulminant type I diabetes mellitus.81 The fre- quencies of AEs found in clinical trials are comparable (Table 3), and are mainly observed when pembrolizumab was used at 10 mg/kg.
+Management of toxicities
+Grade 1-2 AEs can usually be managed symptomatically.82-84 Fatigue is observed in up to 20% of patients. For endocrine AEs, specific treatment such as hormonal replacement (for hypothyroidism and diabetes mellitus) may be required. These AEs do not usually entail disruption of pembrolizumab treat- ment. Because hypothyroidism can be subtle with asymptom- atic increase in thyroid-stimulating hormone preceding actual thyroxine decline, regular monitoring of thyroid function is recommended for all pembrolizumab-treated patients.
+A more serious AE is pneumonitis, which is relatively uncommon (any grade 4-6%, grade 3-4: 0-2%). Nonetheless, pneumonitis may potentially cause significant morbidity or even mortality. Clinical presentation ranges from pulmonary infiltrates to severe pneumonia. In patients with pre-existing pulmonary diseases, rapid deterioration may ensue. Hence, prompt recognition and appropriate treatment is needed. In
+grade 1 pneumonitis (asymptomatic radiographic changes only), close clinical and radiologic monitoring is usually needed. For grade 2 pneumonitis, treatment with corticoste- roids is warranted. Grade 3 and 4 pneumonitis requires high dose corticosteroids and permanent discontinuation of treatment.
+For other AEs, cessation of therapy is recommended for life- threatening (grade 4) toxicities, severe (grade 3) toxicity that is recurring, or moderate (grade 2) toxicity that does not resolve with appropriate treatment in 3 months.82
+Pembrolizumab: Ongoing studies and development
+Other than being used as a single agent, pembrolizumab has also been combined with other drugs targeting different pathways.35 In the KEYNOTE 191 study, pembrolizumab is combined with the Burton tyrosine kinase inhibitor acalab- rutinib for the treatment of platinum-resistant ovarian can- cer. In the KEYNOTE 162 study, pembrolizumab is combined with the PARP inhibitor neriparib for the treat- ment of platinum-resistant ovarian cancer and triple negative breast cancer resistant to at least one line of treatment. In the KEYNOTE 029 study, pembrolizumab is combined with the CTLA4 checkpoint inhibitor ipilimumab in advanced mela- noma and melanoma failing first-line anti-PD1 or anti-PDL1 therapy. In the KEYNOTE 022 study, melanoma patients with BRAFV600 mutation are randomized to receive either dabrafenib + trametinib vs. dabrafendib + trametinib + pembrolizumab treatment. In the KEYNOTE 021 study, patients with advanced NSCLC are randomized to receive pembrolizumab in combination with platinum-based chemo- therapy, tyrosine kinase inhibitors gefinitib / erlotinib, or ipilimumab. In the KEYNOTE 029 study, patients with metastatic renal cell carcinoma refractory to one or more lines of treatment are randomized to pembrolizumab alone or combined with interferon alpha 2b. In the KEYNOTE 037 study, pembrolizumab is combined with the indoleamine 2,3 deoxygenase inhibitors epacandostat and indoximod in the treatment of a variety of malignancies.
+Other molecules that will be tested in combination with pembrolizumab include the STAT3 inhibitor napabucasin, the vascular endothelial growth factor receptor inhibitors pazopanib and axitinib, and the anti-HER2 antibody trastuzumab.
+Future development of pembrolizumab will be centered on confirming whether combination treatment with other immune checkpoint inhibitors may be more efficacious, and defining biomarkers of response.
+Disclosure of potential conflicts of interest
+The authors have no conflicts of interest to declare.
+References
+[1] Wherry EJ. T cell exhaustion. Nat Immunol 2011; 12:492-9; PMID:21739672; http://dx.doi.org/10.1038/ni.2035
+[2] Nguyen LT, Ohashi PS. Clinical blockade of PD1 and LAG3 - poten- tial mechanisms of action. Nat Rev Immunol 2015; 15:45-56; PMID:25534622; http://dx.doi.org/10.1038/nri3790
+2787
+:selected:
+HUMAN VACCINES & IMMUNOTHERAPEUTICS
+[3] Topalian SL, Drake CG, Pardoll DM. Immune checkpoint blockade: a common denominator approach to cancer therapy. Cancer Cell 2015; 27:450-61; PMID:25858804; http://dx.doi.org/10.1016/j.ccell.2015.03.001
+[4] Keir ME, Butte MJ, Freeman GJ, Sharpe AH. PD1 and its ligands in tolerance and immunity. Ann Rev Immunol 2008; 26:677-704; http://dx.doi.org/10.1146/annurev.immunol.26.021607.090331
+[5] Latchman Y, Wood CR, Chernova T, Chaudhary D, Borde M, Cher- nova I, Iwai Y, Long AJ, Brown JA, Nunes R, et al. PD-L2 is a second ligand for PD-1 and inhibits T cell activation. Nat Immunol 2001 Mar; 2(3):261-8; PMID:11224527; http://dx.doi.org/10.1038/85330
+[6] Butte MJ, Keir ME, Phamduy TB, Sharpe AH, Freeman GJ. Pro- grammed death-1 ligand 1 interacts specifically with the B7-1 costi- mulatory molecule to inhibit T cell responses. Immunity 2007 Jul; 27 (1):111-22; http://dx.doi.org/10.1016/j.immuni.2007.05.016
+[7] Xiao Y, Yu S, Zhu B, Bedoret D, Bu X, Francisco LM, Hua P, Duke- Cohan JS, Umetsu DT, Sharpe AH, et al. RGMb is a novel binding partner for PD-L2 and its engagement with PD-L2 promotes respira- tory tolerance. J Exp Med 2014; 211(5):943-59; PMID:24752301; http://dx.doi.org/10.1084/jem.20130790
+[8] Shin T, Yoshimura K, Shin T, Crafton EB, Tsuchiya H, Housseau F, Koseki H, Schulick RD, Chen L, Pardoll DM. In vivo costimulatory role of B7-DC in tuning T helper cell 1 and cytotoxic T lymphocyte responses. J Exp Med 2005; 201(10):1531-41; PMID:15897272; http://dx.doi.org/10.1084/jem.20050072
+[9] Parsa AT, Waldron JS, Panner A, Crane CA, Parney IF, Barry JJ, Cachola KE, Murray JC, Tihan T, Jensen MC, et al. Loss of tumor suppressor PTEN function increases B7-H1 expression and immu- noresistance in glioma. Nat Med 2007 13(1):84-8; PMID:17159987; http://dx.doi.org/10.1038/nm1517
+[10] Marzec M, Zhang Q, Goradia A, Raghunath PN, Liu X, Paessler M, Wang HY, Wysocka M, Cheng M, Ruggeri BA, et al. Oncogenic kinase NPM/ALK induces through STAT3 expression of immuno- suppressive protein CD274 (PD-L1, B7-H1). Proc Natl Acad Sci U S A 2008; 105(52):20852-7; PMID:19088198; http://dx.doi.org/ 10.1073/pnas.0810958105
+[11] Steidl C, Shah SP, Woolcock BW, Rui L, Kawahara M, Farinha P, Johnson NA, Zhao Y, Telenius A, Neriah SB, et al. MHC class II transactivator CIITA is a recurrent gene fusion partner in lymphoid cancers. Nature 2011; 471(7338):377-81; PMID:21368758; http://dx. doi.org/10.1038/nature09754
+[12] Roemer MG, Advani RH, Ligon AH, Natkunam Y, Redd RA, Homer H, Connelly CF, Sun HH, Daadi SE, Freeman GJ, et al. PD-L1 and PD-L2 genetic alterations define classical hodgkin lymphoma and predict outcome. J Clin Oncol 2016 Apr 11 [Epub ahead of print]
+[13] Chen BJ, Chapuy B, Ouyang J, Sun HH, Roemer MG, Xu ML, Yu H, Fletcher CD, Freeman GJ, Shipp MA, et al. PD-L1 expression is char- acteristic of a subset of aggressive B-cell lymphomas and virus-asso- ciated malignancies. Clin Cancer Res 2013; 19(13):3462-73; PMID:23674495; http://dx.doi.org/10.1158/1078-0432.CCR-13-0855
+[14] Curiel TJ, Wei S, Dong H, Alvarez X, Cheng P, Mottram P, Krzysiek R, Knutson KL, Daniel B, Zimmermann MC, et al. Blockade of B7- H1 improves myeloid dendritic cell-mediated antitumor immunity. Nat Med 2003; 9(5):562-7; PMID:12704383; http://dx.doi.org/ 10.1038/nm863
+[15] Llosa NJ, Cruise M, Tam A, Wicks EC, Hechenbleikner EM, Taube JM, Blosser RL, Fan H, Wang H, Luber BS, et al. The vigorous immune microenvironment of microsatellite instable colon cancer is balanced by multiple counter-inhibitory checkpoints. Cancer Discov 2015; 5(1):43-51; PMID:25358689; http://dx.doi.org/10.1158/2159- 8290.CD-14-0863
+[16] Francisco LM, Salinas VH, Brown KE, Vanguri VK, Freeman GJ, Kuchroo VK, Sharpe AH. PD-L1 regulates the development, main- tenance, and function of induced regulatory T cells. J Exp Med 2009; 206(13):3015-29; PMID:20008522; http://dx.doi.org/10.1084/ jem.20090847
+[17] Hirano F, Kaneko K, Tamura H, Dong H, Wang S, Ichikawa M, Rietz C, Flies DB, Lau JS, Zhu G, et al. Blockade of B7-H1 and PD-1 by monoclonal antibodies potentiates cancer therapeutic immunity. Cancer Res 2005; 65(3):1089-96; PMID:15705911
+[18] Azuma T, Yao S, Zhu G, Flies AS, Flies SJ, Chen L. B7-H1 is a ubiquitous antiapoptotic receptor on cancer cells. Blood 2008; 111 (7):3635-43; PMID:18223165; http://dx.doi.org/10.1182/blood-2007- 11-123141
+[19] Barber DL, Wherry EJ, Masopust D, Zhu B, Allison JP, Sharpe AH, Freeman GJ, Ahmed R. Restoring function in exhausted CD8 T cells during chronic viral infection. Nature 2006; 439(7077):682-7; PMID:16382236; http://dx.doi.org/10.1038/nature04444
+[20] Day CL, Kaufmann DE, Kiepiela P, Brown JA, Moodley ES, Reddy S, Mackey EW, Miller JD, Leslie AJ, DePierres C, et al. PD-1 expression on HIV-specific T cells is associated with T-cell exhaustion and dis- ease progression. Nature 2006; 443(7109):350-4; PMID:16921384; http://dx.doi.org/10.1038/nature05115
+[21] Horne-Debets JM, Faleiro R, Karunarathne DS, Liu XQ, Lineburg KE, Poh CM, Grotenbreg GM, Hill GR, MacDonald KP, Good MF, et al. PD-1 dependent exhaustion of CD8+ T cells drives chronic malaria. Cell Rep 2013; 5(5):1204-13; PMID:24316071; http://dx.doi. org/10.1016/j.celrep.2013.11.002
+[22] Dong H, Strome SE, Salomao DR, Tamura H, Hirano F, Flies DB, Roche PC, Lu J, Zhu G, Tamada K, et al. Tumor-associated B7-H1 promotes T-cell apoptosis: a potential mechanism of immune eva- sion. Nat Med 2002; 8(8):793-800; PMID:12091876
+[23] Brahmer JR, Drake CG, Wollner I, Powderly JD, Picus J, Sharfman WH, Stankevich E, Pons A, Salay TM, McMiller TL, et al. Phase I study of single-agent anti-programmed death-1 (MDX-1106) in refractory solid tumors: safety, clinical activity, pharmacodynamics, and immunologic correlates. J Clin Oncol 2010; 28(19):3167-75; PMID:20516446; http://dx.doi.org/10.1200/JCO.2009.26.7609
+[24] Topalian SL, Hodi FS, Brahmer JR, Gettinger SN, Smith DC, McDer- mott DF, Powderly JD, Carvajal RD, Sosman JA, Atkins MB, et al. Safety, activity, and immune correlates of anti-PD-1 antibody in can- cer. N Engl J Med 2012; 366(26):2443-54; PMID:22658127; http://dx. doi.org/10.1056/NEJMoa1200690
+[25] Wolchok JD, Kluger H, Callahan MK, Postow MA, Rizvi NA, Lesokhin AM, Segal NH, Ariyan CE, Gordon RA, Reed K, et al. Nivolumab plus ipilimumab in advanced melanoma. N Engl J Med 2013; 369(2):122-33; PMID:23724867; http://dx.doi.org/10.1056/NEJMoa1302369
+[26] Weber JS, Kudchadkar RR, Yu B, Gallenstein D, Horak CE, Inzunza HD, Zhao X, Martinez AJ, Wang W, Gibney G, et al. Safety, efficacy, and biomarkers of nivolumab with vaccine in ipilimumab-refractory or -naive melanoma. J Clin Oncol 2013; 31(34):4311-8; PMID:24145345; http://dx.doi.org/10.1200/JCO.2013.51.4802
+[27] Spranger S, Spaapen RM, Zha Y, Williams J, Meng Y, Ha TT, Gajew- ski TF. Up-regulation of PD-L1, IDO, and T(regs) in the melanoma tumor microenvironment is driven by CD8(+) T cells. Sci Transl Med 2013; 5(200):200ra116; PMID:23986400; http://dx.doi.org/ 10.1126/scitranslmed.3006504
+[28] Brahmer JR1, Tykodi SS, Chow LQ, Hwu WJ, Topalian SL, Hwu P, Drake CG, Camacho LH, Kauh J, Odunsi K, et al. Safety and activity of anti-PD-L1 antibody in patients with advanced cancer. N Engl J Med 2012; 366(26):2455-65; PMID:22658128; http://dx.doi.org/ 10.1056/NEJMoa1200694
+[29] Powles T, Eder JP, Fine GD, Braiteh FS, Loriot Y, Cruz C, Bellmunt J, Burris HA, Petrylak DP, Teng SL, et al. MPDL3280A (anti-PD-L1) treatment leads to clinical activity in metastatic bladder cancer. Nature 2014; 515(7528):558-62; PMID:25428503; http://dx.doi.org/ 10.1038/nature13904
+[30] Herbst RS, Soria JC, Kowanetz M, Fine GD, Hamid O, Gordon MS, Sosman JA, McDermott DF, Powderly JD, Gettinger SN, et al. Predic- tive correlates of response to the anti-PD-L1 antibody MPDL3280A in cancer patients. Nature 2014; 515(7528):563-7; PMID:25428504; http:// dx.doi.org/10.1038/nature14011
+[31] Topalian SL, Taube JM, Anders RA, Pardoll DM. Mechanism-driven biomarkers to guide immune checkpoint blockade in cancer therapy. Nat Rev Cancer 2016; 16(5):275-87; PMID:27079802; http://dx.doi. org/10.1038/nrc.2016.36
+[32] Hamid O, Robert C, Daud A, Hodi FS, Hwu WJ, Kefford R, Wolchok JD, Hersey P, Joseph RW, Weber JS, et al. Safety and tumor responses with lambrolizumab (anti-PD-1) in melanoma. N Engl J
+2788
+:selected: G. KWOK ET AL.
+Med 2013; 369(2):134-44; PMID:23724846; http://dx.doi.org/ 10.1056/NEJMoa1305133
+[33] Keytruda [prescribing information]. Whitehouse Station, NJ: Merck & Co., Inc. http://www.merck.com/product/usa/pi_circulars/k/key truda/keytruda_pi.pdf. Accessed January 10, 2016
+[34] Robert C, Ribas A, Wolchok JD, Hodi FS, Hamid O, Kefford R, Weber JS, Joshua AM, Hwu WJ, Gangadhar TC, et al. Anti- programmed-death-receptor-1 treatment with pembrolizumab in ipilimumab-refractory advanced melanoma: a randomised dose- comparison cohort of a phase 1 trial. Lancet 2014 Sep 20; 384 (9948):1109-17; http://dx.doi.org/10.1016/S0140-6736(14)60958-2
+[35] Merck. Keynote Oncology Clinical Trials. http://keynoteclinicaltrials. com/trials, last accessed April 20, 2016
+[36] Balch CM, Gershenwald JE, Soong SJ, Thompson JF, Atkins MB, Byrd DR, Buzaid AC, Cochran AJ, Coit DG, Ding S, et al. Final ver- sion of 2009 AJCC melanoma staging and classification. J Clin Oncol 2009 Dec 20; 27(36):6199-206; PMID:19917835; http://dx.doi.org/ 10.1200/JCO.2009.23.4799
+[37] Shain AH, Yeh I, Kovalyshyn I, Sriharan A, Talevich E, Gagnon A, Dummer R, North J, Pincus L, Ruben B, et al. The genetic evolution of melanoma from precursor lesions. N Engl J Med 2015; 373 (20):1926-36; PMID:26559571; http://dx.doi.org/10.1056/ NEJMoa1502583
+[38] Larkin J, Ascierto PA, Dréno B, Atkinson V, Liszkay G, Maio M, Mandalà M, Demidov L, Stroyakovskiy D, Thomas L, et al. Com- bined vemurafenib and cobimetinib in BRAF-mutated melanoma. N Engl J Med 2014; 371(20):1867-76; PMID:25265494; http://dx.doi. org/10.1056/NEJMoa1408868
+[39] Robert C, Karaszewska B, Schachter J, Rutkowski P, Mackiewicz A, Stroiakovski D, Lichinitser M, Dummer R, Grange F, Mortier L, et al. Improved overall survival in melanoma with combined dabrafenib and trametinib. N Engl J Med 2015; 372(1):30-9; PMID:25399551; http://dx.doi.org/10.1056/NEJMoa1412690
+[40] Hodi FS, O'Day SJ, McDermott DF, Weber RW, Sosman JA, Haanen JB, Gonzalez R, Robert C, Schadendorf D, Hassel JC, et al. Improved survival with ipilimumab in patients with metastatic melanoma. N Engl J Med 2010; 363(8):711-23; PMID:20525992; http://dx.doi.org/ 10.1056/NEJMoa1003466
+[41] Hamid O, Robert C, Daud A, Hodi FS, Hwu WJ, Kefford R, Wolchok JD, Hersey P, Joseph RW, Weber JS, et al. Safety and tumor responses with lambrolizumab (anti-PD-1) in melanoma. N Engl J Med 2013; 369(2):134-44; PMID:23724846; http://dx.doi.org/ 10.1056/NEJMoa1305133
+[42] Robert C, Ribas A, Wolchok JD, Hodi FS, Hamid O, Kefford R, Weber JS, Joshua AM, Hwu WJ, Gangadhar TC, et al. Anti-programmed- death-receptor-1 treatment with pembrolizumab in ipilimumab-refrac- tory advanced melanoma: a randomised dose-comparison cohort of a phase 1 trial. Lancet 2014; 384(9948):1109-17; PMID:25034862; http:// dx.doi.org/10.1016/S0140-6736(14)60958-2
+[43] Adil D, Antoni R, Caroline R, Hodi FS, Jedd DW, Anthony MJ, Wen-Jen H, Jeffrey SW, Tara CG, Richard WJ, et al. Efficacy of pem- brolizumab (pembro; MK-3475) in a pooled analysis of 655 patients (pts) with advanced melanoma (MEL) enrolled in KEYNOTE-001. J Clin Oncol 2015; 33(suppl 15):9005.
+[44] Ribas A, Puzanov I, Dummer R, Schadendorf D, Hamid O, Robert C, Hodi FS, Schachter J, Pavlick AC, Lewis KD, et al. Pembrolizumab versus investigator-choice chemotherapy for ipilimumab-refractory melanoma (KEYNOTE-002): a randomised, controlled, phase 2 trial. Lancet Oncol 2015; 16(8):908-18; PMID:26115796; http://dx.doi.org/ 10.1016/S1470-2045(15)00083-2
+[45] Robert C, Schachter J, Long GV, Arance A, Grob JJ, Mortier L, Daud A, Carlino MS, McNeil C, Lotem M, et al. Pembrolizumab versus ipi- limumab in advanced melanoma. N Engl J Med 2015; 372(26):2521- 32; PMID:25891173; http://dx.doi.org/10.1056/NEJMoa1503093
+[46] Wolchok JD, Hoos A, O'Day S, Weber JS, Hamid O, Lebbé C, Maio M, Binder M, Bohnsack O, Nichol G, et al. Guidelines for the evaluation of immune therapy activity in solid tumors: immune-related response criteria. Clin Cancer Res 2009; 15 (23):7412-20; PMID:19934295; http://dx.doi.org/10.1158/1078- 0432.CCR-09-1624
+[47] Hodi FS, Hwu WJ, Kefford R, Weber JS, Daud A, Hamid O, Patnaik A, Ribas A, Robert C, Gangadhar TC, et al. Evaluation of immune- related response criteria and RECIST v1.1 in patients with advanced melanoma treated with pembrolizumab. J Clin Oncol 2016; 34: 1510-17.
+[48] Siegel RL, Miller KD, Jemal A. Cancer statistics, 2016. CA Cancer J Clin 2016; 66(1):7-30; PMID:26742998; http://dx.doi.org/10.3322/ caac.21332
+[49] Eberhardt WE, De Ruysscher D, Weder W, Le Péchoux C, De Leyn P, Hoffmann H, Westeel V, Stahel R, Felip E, Peters S; Panel Mem- bers. 2nd ESMO Consensus Conference in Lung Cancer: locally advanced stage III non-small-cell lung cancer. Ann Oncol 2015; 26 (8):1573-88; PMID:25897013; http://dx.doi.org/10.1093/annonc/ mdv187
+[50] Rizvi NA, Mazières J, Planchard D, Stinchcombe TE, Dy GK, Anto- nia SJ, Horn L, Lena H, Minenza E, Mennecier B, et al. Activity and safety of nivolumab, an anti-PD-1 immune checkpoint inhibitor, for patients with advanced, refractory squamous non-small-cell lung cancer (CheckMate 063): a phase 2, single-arm trial. Lancet Oncol 2015; 16(3):257-65 47; PMID:25704439; http://dx.doi.org/10.1016/ S1470-2045(15)70054-9
+[51] Brahmer J, Reckamp KL, Baas P, Crin § L, Eberhardt WE, Poddub- skaya E, Antonia S, Pluzanski A, Vokes EE, Holgado E, et al. Nivolu- mab versus docetaxel in advanced squamous-cell non-small-cell lung cancer. N Engl J Med 2015; 373(2):123-35; PMID:26028407; http:// dx.doi.org/10.1056/NEJMoa1504627
+[52] Garon EB, Rizvi NA, Hui R, Leighl N, Balmanoukian AS, Eder JP, Patnaik A, Aggarwal C, Gubens M, Horn L, et al. Pembrolizumab for the treat- ment of non-small-cell lung cancer. N Engl J Med 2015; 372(21):2018-28; PMID:25891174; http://dx.doi.org/10.1056/NEJMoa1501824
+[53] Herbst RS, Baas P, Kim DW, Felip E, Perez-Gracia JL, Han JY, Molina J, Kim JH, Arvis CD, et al. Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial. Lancet 2016; 387:1540-50.
+[54] Rizvi NA, Hellmann MD, Snyder A, Kvistborg P, Makarov V, Havel JJ, Lee W, Yuan J, et al. Cancer immunology. Mutational landscape determines sensitivity to PD-1 blockade in non-small cell lung can- cer. Science 2015; 348(6230):124-8; PMID:25765070; http://dx.doi. org/10.1126/science.aaa1348
+[55] Le DT, Uram JN, Wang H, Bartlett BR, Kemberling H, Eyring AD, Skora AD, Luber BS, Azad NS, Laheru D, et al. PD-1 Block- ade in Tumors with Mismatch-Repair Deficiency. N Engl J Med 2015; 372(26):2509-20; PMID:26028255; http://dx.doi.org/ 10.1056/NEJMoa1500596
+[56] Nghiem PT, Bhatia S, Lipson EJ, Kudchadkar RR, Miller NJ, Anna- malai L, Berry S, Chartash EK, Daud A, Fling SP, et al. PD-1 block- ade with pembrolizumab in advanced Merkel-Cell carcinoma. N Engl J Med 2016; 374:2542-52.
+[57] Scott DW, Gascoyne RD. The tumour microenvironment in B cell lymphomas. Nat Rev Cancer 2014; 14(8):517-34; PMID:25008267; http://dx.doi.org/10.1038/nrc3774
+[58] Batlevi CL, Matsuki E, Brentjens RJ, Younes A. Novel immunothera- pies in lymphoid malignancies. Nat Rev Clin Oncol 2016; 13(1):25- 40; PMID:26525683; http://dx.doi.org/10.1038/nrclinonc.2015.187
+[59] Ansell SM, Lesokhin AM, Borrello I, Halwani A, Scott EC, Gutierrez M, Schuster SJ, Millenson MM, Cattry D, Freeman GJ, et al. PD-1 blockade with nivolumab in relapsed or refractory Hodgkin's lym- phoma. N Engl J Med 2015; 372(4):311-9; PMID:25482239; http:// dx.doi.org/10.1056/NEJMoa1411087
+[60] Armand P, Shipp MA, Ribrag V, Michot JM, Zinzani PL, Gutierrez M, Snyder E, Ricart AD, Balakumaran A, Moskowitz CH. PD-1 blockade with pembrolizumab in patients with classical hodgkin lymphoma after brentuximab vedotin failure: safety, efficacy, and biomarker assessment. Blood 2015; abstract 584.
+[61] Zinzani PL, Ribrag V, Moskowitz CH, Michot JM, Kuruvilla J, Bala- kumaran A, Snyder E, Marinello P, Shipp MA, Armand P. Phase 1b study of PD-1 blockade with pembrolizumab in patients with relapsed/refractory primary mediastinal large B-cell lymphoma (PMBCL). Blood 2015; Abstract 3968.
+2789
+:selected:
+HUMAN VACCINES & IMMUNOTHERAPEUTICS
+[62] Ding W, Dong H, Call TG, Shanafelt TD, Parikh SA, Leis JF, Laplant BR, He R, Witzig TE, Lin Y, et al. Blockade with pembrolizumab (MK-3475) in relapsed/refractory CLL including richter transforma- tion: an early efficacy report from a phase 2 trial (MC1485). Blood 2015; abstract 834.
+[63] Villasboas JC, Ansell SM, Witzig TE. Targeting the PD-1 pathway in patients with relapsed classic Hodgkin lymphoma following alloge- neic stem cell transplant is safe and effective. Oncotarget 2016; 7:13260-264.
+[64] Kwong YL, Lopes D, Khong PL. Low-dose pembrolizumab induced remission in patients with refractory classical Hodgkin lymphoma. Br J Haematol 2016 Jan 15 [Epub ahead of print]
+[65] Kwong YL. Safety of pembrolizumab after allogeneic haematopoietic stem cell transplantation. Ann Hematol 2016; 95:1191-92.
+[66] Buisseret L, Specht J, Dees EC, Berger R, Gupta S, Geva R, Pusztai L, Gause CK, Karantza V, Nanda R. 14PKEYNOTE-012: a phase Ib study of pembrolizumab (MK-3475) in patients (pts) with metastatic triple-negative breast cancer (mTNBC). Ann Oncol 2015; 26(suppl 3):iii6-iii6; http://dx.doi.org/10.1093/annonc/mdv115.02
+[67] Chow LQ, Burtness B, Weiss J, Berger R, Eder JP, Gonzalez EJ, Pulini J, Johnson J, Dolled-Filhart M, Emancipator K. LBA31A phase IB study of pembrolizumab (Pembro; MK-3475) in patients (PTS) with human papilloma virus (HPV)-positive and negative head and neck cancer (HNC). Ann Oncol 2014; 25(suppl 4):mdu438-432.
+[68] Seiwert TY, Haddad RI, Gupta S, Mehra R, Tahara M, Berger R, Lee SH, Burtness B, Le DT, Heath K, et al. Antitumor activity and safety of pembrolizumab in patients (pts) with advanced squamous cell car- cinoma of the head and neck (SCCHN): preliminary results from KEYNOTE-012 expansion cohort. ASCO Annual Meeting, Abstr LBA6008. J Clin Oncol 2015; 33(suppl; abstract LBA6008).
+[69] Plimack ER, Bellmunt J, Gupta S, Berger R, Montgomery RB, Heath K, Juco J, Emancipator K, Pathiraja K, Lunceford JK, et al. Pembroli- zumab (Pembro; MK-3475) for advanced urothelial cancer: results of a phase IB study. J Clin Oncol 2015; 33(suppl 7): abstr 296; PMID:25452452.
+[70] Bang YJ, Chung HC, Shankaran V, Geva R, Catenacci DVT, Gupta S, Eder JP, Berger R, Ray A, Dolled-Filhart M, et al. Relationship between PD-L1 expression and clinical outcomes in patients with advanced gastric cancer treated with the anti-PD-1 monoclonal anti- body pembrolizumab (MK-3475) in KEYNOTE-012. J Clin Oncol 2015; 33(suppl):abstr 4001; PMID:26282658
+[71] Rugo H, Delord JP, Im SA, Ott P, Piha-Paul S, Bedard P, Sachdev J, Le Tourneau C, Van Brummelen Varga A, Saraf S, et al. Preliminary efficacy and safety of pembrolizumab (MK-3475) in patients with PD-L1-positive, estrogen receptor-positive (ER+)/HER2-negative advanced breast cancer en-rolled in KEYNOTE-028. Cancer Res 2015; 76:S5-07.
+[72] O'Neil BH, BWallmark J, Lorente D, Elez E, Raimbourg J, Gomez- Roca C, Ejadi S, Piha-Paul SA, Moss RA, Siu LL, et al. Pembrolizumab (MK-3475) for patients (pts) with advanced colorectal carcinoma (CRC): preliminary results from KEYNOTE-028. Eur J Cancer 2015; (51):S103; http://dx.doi.org/10.1016/S0959-8049(16)30304-5
+[73] Bang YJ, Doi T, De Braud F, Piha-Paul S, Hollebecque A, Razak ARA, Lin CC, Ott PA, He AR, Saraf S, et al. Safety and efficacy of pembrolizumab (MK-3475) in patients (pts) with advanced biliary
+tract cancer: interim results of KEYNOTE-028. Eur J Cancer 2015; (51):S112; http://dx.doi.org/10.1016/S0959-8049(16)30326-4
+[74] Doi T, Piha-Paul SA, Jalal SI, Mai-Dang H, Yuan S, Koshiji M, Csiki I, Bennouna J. Pembrolizumab (MK-3475) for patients (pts) with advanced esophageal carcinoma: preliminary results from KEY- NOTE-028. J Clin Oncol 2015; 33 (suppl):abstr 4010.
+[75] Ott PA, Fernandez MEE, Hiret S, Kim DW, Moss RA, Winser T, Yuan S, Cheng JD, Piperdi B, Mehnert JM. Pembrolizumab (MK- 3475) in patients (pts) with extensive-stage small cell lung cancer (SCLC): preliminary safety and efficacy results from KEYNOTE-028. in ASCO Annual Meeting 2015. Abstract 7502.
+[76] Alley EW, Molife R, Santoro A, Becey K, Yuan S, Cheng J, Piperdi B, Schellens JHM. Clinical safety and efficacy of pembrolizumab (MK- 3475) in patients with malignant pleural mesothelioma: preliminary results from KEYNOTE-028. in AACR Annual Meeting. 2015. Can- cer Res 2015; 75:CT103; http://dx.doi.org/10.1158/1538-7445. AM2015-CT103
+[77] Ott PA, Piha-Paul SA, Munster P, Pishvaian MJ, Van Brummelen E, Cohen R, Gomez-Roca C, Ejadi S, et al. Pembrolizumab (MK-3475) for PD-L1-positive squamous cell carci-noma (SCC) of the anal canal: preliminary safety and efficacy results from KEYNOTE-028. Eur J Cancer 2015(51):S102; http://dx.doi.org/10.1016/S0959-8049 (15)30008-3
+[78] Hsu C, Lee SH, Ejadi S, Even C, Cohen R, Le Tourneau C, Mehnert J, Algazi A, Van Brummelen E, Saraf S, et al. Antitumor activity and safety of pembrolizumab in patients with PD-L1-positive nasopha- ryngeal carcinoma: interim results from a phase 1b study. Eur J of Cancer 2015; (51):S558; http://dx.doi.org/10.1016/S0959-8049(16) 31545-3
+[79] Varga A, Piha-Paul SA, Ott PA, Mehnert JM, Berton-Rigaud D, Johnson EA, Cheng JD, Yuan S, Rubin EH, Puhlmann M, et al. Anti- tumor activity and safety of pembrolizumab in patients (pts) with PD-L1 positive advanced ovarian cancer: interim results from a phase Ib study. J Clin Oncol 2015; 33(suppl; abstr 5510).
+[80] Sibaud V, David I, Lamant L, Resseguier S, Radut R, Attal J, Meyer N, Delord JP. Acute skin reaction suggestive of pembrolizumab-induced radiosensitization. Melanoma Res 2015; 25(6):555-8; PMID:26312439; http://dx.doi.org/10.1097/CMR.0000000000000191
+[81] Gaudy C, Clévy C, Monestier S, Dubois N, Préau Y, Mallet S, Richard MA, Grob JJ, Valero R, Beliard S. Anti-PD1 pembrolizumab can induce exceptional fulminant Type 1 diabetes. Diabetes Care 2015; 38(11):e182-3; PMID:26310693; http://dx.doi.org/10.2337/dc15-1331
+[82] Champiat S, Lambotte O, Barreau E, Belkhir R, Berdelou A, Carbon- nel F, Cauquil C, Chanson P, Collins M, Durrbach A, et al. Manage- ment of immune checkpoint blockade dysimmune toxicities: a collaborative position paper. Ann Oncol 2016; 27(4):559-74; PMID:26715621; http://dx.doi.org/10.1093/annonc/mdv623
+[83] Zimmer L, Goldinger SM, Hofmann L, Loquai C, Ugurel S, Thomas I, Schmidgen MI, Gutzmer R, Utikal JS, Göppner D, et al. Neurologi- cal, respiratory, musculoskeletal, cardiac and ocular side-effects of anti-PD-1 therapy. Eur J Cancer 2016; 60:210-15.
+[84] Hofmann L, Forschner A, Loquai C, Goldinger SM, Zimmer L, Ugurel S, Schmidgen MI, Gutzmer R, Utikal JS, Göppner D, et al. Cutaneous, gastrointestinal, hepatic, endocrine, and renal side-effects of anti-PD-1 therapy. Eur J Cancer 2016; 60:190-209.
+| Tumor (reference) | Number of cases | ORR | Grade 3/4 toxicity | DOR (median) | PFS (median) | OS (median) | 
+|KEYNOTE 012 |  |  |  |  |  |  | 
+|Triple negative breast cancer (62) | 32 | 18.5% (5/27) | 5 (15.6%) | NR (15 to 40+ weeks) | 6-monthPFS: 23.3% | NA | 
+|HNSCC (64) | 132 | 25% (29/117) | 5 (3.8%) | NR (7+ to 25+ weeks) | NA | NA | 
+|Urothelial cancer (65) | 33 | 28% (8/29) | 3 (9.1%) | NR (8+ to 64+ weeks) | 2 months | 12.7 months | 
+|Gastric / esophageal cancer (66) | 39 | 22% (8/36) | 5 (12.8%) | 40 weeks (20+ to 80+) | 2 months | 11.4 months | 
+|KEYNOTE 028 |  |  |  |  |  |  | 
+|ER+ / HER2+ breast cancer (67) | 25 | 12% (2/25) | 4 (16%) | NR (9+ to 44+ months) | NA | NA | 
+|Colorectal cancer (68) | 23 | 4.3% (1/23) | 1 (4.3%) | 12+ months | NA | NA | 
+|Biliary tract cancer (69) | 24 | 17.4% (4/23) | 4 (16.7%) | NR (6+ to 9+ months) | NA | NA | 
+|Esophageal cancer (70) | 23 | 30.4% (7/23) | 4 (17.4%) | 40 weeks | NA | NA | 
+|Small cell lung cancer (71) | 20 | 35% (7/20) | 2 (10%) | NA | NA | NA | 
+|Pleural mesothelioma (72) | 25 | 28% (7/25) | 2 (8%) | NA | NA | NA | 
+|Anal squamous cell carcinoma (73) | 25 | 20% (5/25) | 4 (16%) | NR (0 to 9+ months) | 3.0 months | NA | 
+|Nasopharyngeal cancer (74) | 27 | 22.2% (6/27) | 9 (33%), death; N = 1 | 11 months (5 to 11 months) | 5.6 months | NA | 
+
+| Cutaneous Gastrointestinal Endocrinological Neurological Respiratory Miscellaneous | Pruritus | 
+|Rashes | 
+|Vitiligo | 
+|Alopecia | 
+|Lichen planus / lichenoid skin reactions Exacerbation of psoriasis | 
+|Abdominal pain | 
+|Diarrhea | 
+|Lymphocytic colitis | 
+|Hepatitis | 
+|Pancreatitis | 
+|Hyperthyroidism Hypothyroidism | 
+|Diabetes mellitus | 
+|Hypophysitis | 
+|Fatigue | 
+|Seizure | 
+|Polyneuropathy | 
+|Isolated nerve palsies | 
+|Paresthesia | 
+|Myasthenia gravis | 
+|Polyradiculitis | 
+|Dyspnea | 
+|Cough | 
+|Hoarseness | 
+|Bronchitis | 
+|Organizing pneumonia | 
+|Pneumonitis | 
+|Pulmonary fibrosis | 
+|Fever | 
+|Sweating | 
+|Gingivitis | 
+|Uveitis | 
+|Systemic inflammatory response syndrome Anemia | 
+|Leucopenia | 
+|Polymyalgia rheumatica Arthralgia | 
+
+| Study | Number of patients | AE (all grades) | AE (grade 3-5) | Immune-related AE (grade 3-5) | Remarks | 
+|Melanoma KEYNOTE 001 | 135 | 79% (30% fatigue, 20% diarrhea, 21% rash, 21% pruritis, 10% nausea, 10% headache, 10% increase in AST, 8% increase in ALT, 8% hypothyroidism, 4% pneumonitis, 2% renal failure) | 13% (2% rash, 1% each for diarrhea, fatigue, pruritus, elevated AST, renal failure, hypothyroidism) | 5.9% (2% rash, 1.5% elevated AST, 1.5% renal failure, <1% hypothyroidism) | No drug related deaths | 
+|KEYNOTE 001 | 173 | 82% (35% fatigue, 23% pruritus, 18% rash, 13% diarrhea, 4%hypothyroidism, 2% pneumonitis, <1% autoimmune hepatitis) | 12% (3% fatigue, <1% each for hepatitis, diarrhea, hypothysitis, pancreatitis, rash, pneumonitis, anemia) | 2% (<1% each for autoimmune hepatitis, maculopapular rash, pancreatitis) | 6 discontinuations due to AE | 
+|KEYNOTE 002 | 357 | 71% (26% fatigue, 22% pruritus, 11% rash, 6% hypothyroidism) 76% (20% fatigue, 16% diarrhea, 14% rash, 14% pruritus, 9% hypothyroidism, 5% hyperthyroidism, 2.7% colitis, 1.4% hepatitis, 1% pneumonitis,<1% each for hypothysitis, uveitis, Type1 diabetes mellitus, nephritis) | 13% (1% diarrhea, 1% pneumonitis, <1% each for fatigue, myalgia, edema, colitis, hypopituitarism, hyponatremia, decrease in appetite) | 2.5% (<1% each for hepatitis, colitis, pneumonitis, hypothysitis, uveitis) 4.5% (2% colitis, 1.4% hepatitis, <1% each for hypothysitis, hypothyroidism, Type 1 diabetes mellitus, pneumonitis) | 17 discontinuations due to AE 4% and 6.9% of the pembrolizumab arms discontinued drug due to AE | 
+|KEYNOTE 006 | 556 | 12% (2% colitis, 1.8% diarrhea, 1.4% hepatitis, <1% each for hypothysitis, hypothyroidism, Type 1 diabetes mellitus, pneumonitis) | 
+|Non-small cell lung cancer | 495 | 71% (19% fatigue, 11% pruritus, 11% decrease in appetite, 10% rash, 9% arthralgia, 8% diarrhea, 7% hypothyroidism, 4% dyspnea, 3.6% pneumonitis, 3% infusion reaction, 3% elevated AST, 2% elevated ALT) | 9.5% (3.8% dyspnea, 1.6% pneumonitis, <1% each for diarrhea, rash, fatigue, hypothyroidism, infusion reaction, elevated AST, elevated ALT) | 3% (1.8% pneumonitis, <1% each for rash, hypothyroidism, elevated AST, elevated ALT, infusion reaction) | 1 patient had infusion reaction requiring drug discontinuation 1 patient died of pneumonitis | 
+|KEYNOTE 001 | 
+
