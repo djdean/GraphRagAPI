@@ -3,7 +3,6 @@ import json
 from pathlib import Path
 import time
 from tqdm import tqdm
-import magic
 
 class RAGHandler:
     def __init__(self, key: str, 
